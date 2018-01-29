@@ -430,7 +430,27 @@ function update_display(imagefield, first_display) {
 		}, 'json');
 		
 		$(document).foundation('equalizer', 'reflow');
+	});	
+
+
+	$("#extractbrandsbuttongooglecloudvision_" + imagefield).click({imagefield:imagefield},function(event) {
+		event.stopPropagation();
+		event.preventDefault();
+
+		$.post('/cgi/brands.pl',
+				{code: code, id: imagefield, process_image:1 }, function(data) {
+				
+			if (data.status === 0) {
+				var links = data.brands_from_image.map(function (brand) {
+					// TODO Make bits of DOM with proper .click() events bound?
+					return '<a onclick="$(\'brands_tagsinput\').tagsInput().addTag(\'' + brand + '\');">' + brand + '</a>'; 
+				});
+				$('#brands_tagsinput').next('.example').html(links.join(', '));
+			}
+			$(document).foundation('equalizer', 'reflow');
+		}, 'json');
 		
+		$(document).foundation('equalizer', 'reflow');
 	});	
 	
 	
