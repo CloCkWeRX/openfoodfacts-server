@@ -120,7 +120,7 @@ sub extract_brands_from_image($$$) {
 			print STDERR "google cloud vision: found a text response\n";
 
 			
-			$product_ref->{ingredients_text_from_image} = $cloudvision_ref->{responses}[0]{logoAnnotation}{description};
+			$product_ref->{brands_text_from_image} = $cloudvision_ref->{responses}[0]{logoAnnotation}{description};
 			$status = 0;
 		}
 		
