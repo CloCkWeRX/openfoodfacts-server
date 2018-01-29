@@ -45,7 +45,6 @@ if (($id =~ /^front/) and (param('process_image'))) {
 	$results{status} = extract_brands_from_image($product_ref, $id);
 	if ($results{status} == 0) {
 		$results{brands_from_image} = $product_ref->{brands_text_from_image};
-		$results{brands_from_image} =~ s/\n/ /g;
 	}
 }
 my $data =  encode_json(\%results);
