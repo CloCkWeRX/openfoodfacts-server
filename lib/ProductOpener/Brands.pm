@@ -45,7 +45,6 @@ sub extract_brands_from_image($$$) {
 
 	my $product_ref = shift;
 	my $id = shift;
-	my $ocr_engine = shift;
 	
 	my $path = product_path($product_ref->{code});
 	my $status = 1;
@@ -119,8 +118,11 @@ sub extract_brands_from_image($$$) {
 			
 			print STDERR "google cloud vision: found a text response\n";
 
-			
-			$product_ref->{brands_text_from_image} = $cloudvision_ref->{responses}[0]{logoAnnotation}{description};
+			$product_ref->{brands_from_image} = ()
+			foreach $logoAnnotation ($cloudvision_ref->{responses}[0]{logoAnnotation}) {
+				push $product_ref->{brands_from_image}, $logoAnnotation{description};
+			}
+
 			$status = 0;
 		}
 		
