@@ -29,8 +29,6 @@ $debug = 1;
 my $code = normalize_code(param('code'));
 my $id = param('id');
 
-my $ocr_engine = param('ocr_engine');
-
 
 
 $debug and print STDERR "brands.pl - code: $code - id: $id\n";
