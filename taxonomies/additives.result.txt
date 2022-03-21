@@ -65,7 +65,7 @@ lt:E100, kurkuminas
 lv:E100, kurkumīns, kurkuma ekstrakts
 mt:E100, kurkumina
 nb:E100, kurkumin
-nl:E100, curcumine, kurkuma extract
+nl:E100, curcumine, kurkuma extract, kurkuma-extract
 pl:E100, kurkumina
 pt:E100, curcumina
 ro:E100, curcumină
@@ -583,7 +583,7 @@ es:E102, Tartrazina, Tartracina, Yellow 5, Amarillo 5, E-102, amarillo ocaso FCF
 et:E102, Tartrasiin, E 102
 fa:E102, تارترازین
 fi:E102, Tartratsiini, Tartratsiinia, CI 19140, E 102
-fr:E102, Tartrazine, FD&C Yellow 5, FD&C Jaune 5, Yellow 5, C.I. Food Yellow 4, C.I. Acid Yellow 23, Acid Yellow 23, C.I. 19140, Yellow number 5, E-102, 1934-21-0
+fr:E102, Tartrazine, FD&C Yellow 5, FD&C Jaune 5, Yellow 5, FD&C Yellow #5, C.I. Food Yellow 4, C.I. Acid Yellow 23, Acid Yellow 23, C.I. 19140, Yellow number 5, E-102, 1934-21-0
 ga:E102, Tartraiséin
 gl:E102, Tartrazina
 he:E102, טרטרזין
@@ -680,7 +680,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Тартразин
 
 en:E103, Alkannin
 bg:E103, E103 food additive
-ca:E103, Crisoína
+ca:E103, Crisoína, crisoina
 cs:E103, E103 food additive
 da:E103, E103 food additive
 de:E103, Alkannin
@@ -724,7 +724,7 @@ wikipedia_url:pl: https://pl.wikipedia.org/wiki/Alkanina
 
 en:E104, Quinoline yellow, Quinoline Yellow WS, C.I. 47005, Food Yellow 13
 bg:E104, Хинолин жълто
-ca:E104, Groc de Quinoleína
+ca:E104, Groc de Quinoleína, groc de quinoleina
 cs:E104, Chinolinová žluť, Potravinářská žluť 13, E 104, Chinolinová žluť WS, Cl 47005
 da:E104, Quinolingult
 de:E104, Chinolingelb, E 104
@@ -797,7 +797,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Хинолиновый жёлт�
 
 en:E105, E105 food additive
 bg:E105, E105 food additive
-ca:E105, Groc sòlid
+ca:E105, Groc sòlid, groc solid
 cs:E105, E105 food additive
 da:E105, E105 food additive
 de:E105, E105 food additive
@@ -951,16 +951,16 @@ bg:E110, Сънсет жълто FCF, CI хранително жълто 3, Yell
 ca:E110, Groc ataronjat S
 cs:E110, Sunset yellow FCF, Yellow 6, Žluť SY, E 110
 da:E110, Sunset yellow FCF, Yellow 6
-de:E110, Gelborange S, Food Yellow 3, Sunsetgelb FCF, Yellow 6, Gelborange
+de:E110, Gelborange S, Food Yellow 3, Gelborange-S, Sunsetgelb FCF, Yellow 6, Gelborange
 el:E110, Κιτρινο sunset FCF, Κίτρινο CI food 3, Yellow 6
 es:E110, Amarillo anaranjado s, CI food yellow 3, Yellow 6, Amarillo crepúsculo, C.I. 15985, Amarillo ocaso, E 110, amarillo FD&C 6, amarillo 6
 et:E110, Päikeseloojangukollane FCF, CI kollane toiduvärv 3, Yellow 6
 fi:E110, Paraoranssi, Oranssi S, Sunset yellow FCF, Yellow 6, E 110, CI 15985
-fr:E110, Jaune orangé S, Jaune soleil FCF, Sunset yellow FCF, C16H10N2Na2O7S2, C16H10N2Ca2O7S2, C16H10N2K2O7S2, CI 15985, C.I. 15985, 6-hydroxy-5-[(4-sulfonatophényl)azo]naphtalène-2-sulfonate de disodium, C.I. Food Yellow 3, CAS 2783-94-0, SEL DISODIQUE DE L'ACIDE HYDROXY-6 ((SULFOPHENYL-4)AZO)-5 NAPHTALENE SULFONIQUE-2, Gelborange S, 2-Hydroxy-1-(4-Sulfonato-Phenylazo)-6-Naphthalin-Sulfonat, Sunset Yellow, FD & C Yellow No.6, FD and C Yellow No. 6, 6-hydroxy-5-((p-sulfophenyl)azo)-2-naphthalenesulfonic acid disodium salt, 6-Hydroxy-5-(4-sulfophenylazo)-2-naphthalenesulfonic acid trisodium salt, Sunsetgelb FCF, 6-Hydroxy-5-(4-sulfophenylazo)-naphthalin- 2-sulfonsäure-Dinatriumsalz, Amarillo crepúsculo, Amarillo ocaso, Amarillo n° 6, Zonnegeel FCF, Oranjegeel S, Crelborange S, Colorant alimentaire jaune CI n°3, Yellow No.6, Yellow 6, 2783-94-0, Jaune orangé
+fr:E110, Jaune orangé S, Jaune soleil FCF, Sunset yellow FCF, C16H10N2Na2O7S2, C16H10N2Ca2O7S2, C16H10N2K2O7S2, CI 15985, C.I. 15985, 6-hydroxy-5-[(4-sulfonatophényl)azo]naphtalène-2-sulfonate de disodium, C.I. Food Yellow 3, CAS 2783-94-0, SEL DISODIQUE DE L'ACIDE HYDROXY-6 ((SULFOPHENYL-4)AZO)-5 NAPHTALENE SULFONIQUE-2, Gelborange S, 2-Hydroxy-1-(4-Sulfonato-Phenylazo)-6-Naphthalin-Sulfonat, Sunset Yellow, Sunset Yellow FCF, FD & C Yellow No.6, FD and C Yellow No. 6, 6-hydroxy-5-((p-sulfophenyl)azo)-2-naphthalenesulfonic acid disodium salt, 6-Hydroxy-5-(4-sulfophenylazo)-2-naphthalenesulfonic acid trisodium salt, Gelborange-S, Sunsetgelb FCF, 6-Hydroxy-5-(4-sulfophenylazo)-naphthalin- 2-sulfonsäure-Dinatriumsalz, Amarillo crepúsculo, Amarillo ocaso, Amarillo n° 6, Zonnegeel FCF, Oranjegeel S, Crelborange S, Colorant alimentaire jaune CI n°3, Yellow No.6, Yellow 6, 2783-94-0, Jaune orangé, Jaune orange
 hu:E110, Sunset yellow FCF, sunset yellow, Narancssárga FCF, CI Food Yellow 3, Yellow 6
 it:E110, Giallo tramonto FCF, CI giallo per alimenti 3, Yellow 6, Giallo arancio S
 lt:E110, Saulėlydžio geltonasis FCF, Maistinis geltonasis CI Nr. 3, Yellow 6
-lv:E110, Saulrieta dzeltenais FCF, CI Pārtikas dzeltenais 3, Yellow 6, amilāze
+lv:E110, Saulrieta dzeltenais FCF, CI Pārtikas dzeltenais 3, Yellow 6
 mt:E110, Sunset yellow FCF, Yellow 6
 nl:E110, Zonnegeel FCF, CI Food Yellow 3, Yellow 6, Geeloranje S
 pl:E110, Żółcień pomarańczowa FCF, CI żółcień spożywcza 3, Yellow 6, Żółcień pomarańczowa S
@@ -1045,7 +1045,7 @@ fr:E1100, Amylases, Amylase, α-amylase, a-amylase, alpha-amylase, alpha-amylase
 hu:E1100, Amiláz, alfa-amiláz
 it:E1100, Amilasi
 lt:E1100
-lv:E110, Saulrieta dzeltenais FCF, CI Pārtikas dzeltenais 3, Yellow 6, amilāze
+lv:E1100, amilāze
 mt:E1100
 nl:E1100, Amylase
 nn:E1100, amylase
@@ -1339,7 +1339,7 @@ de:E1104, Lipasen, Lipase
 el:E1104, λιπάση
 eo:E1104, lipazo
 es:E1104, Lipasa
-et:E1104
+et:E1104, E1104
 eu:E1104, Lipasa
 fa:E1104, لیپاز
 fi:E1104, Lipaasi, Lipaasia
@@ -1365,7 +1365,7 @@ nn:E1104, lipase
 pa:E1104, ਲਾਈਪੇਸ
 pl:E1104, Lipazy, Lipaza, Enzymy lipolityczne
 pt:E1104, Lipase, Lipases
-ro:E1104
+ro:E1104, E1104
 ru:E1104, Липаза
 sh:E1104, Lipaza
 sk:E1104, Lipaza
@@ -1511,14 +1511,14 @@ en:E120, Cochineal, carminic acid, carmines, Natural Red 4, Cochineal Red
 be:E120, Кармін
 bg:E120, Кохинил, карминова киселина, кармини
 bs:E120, Karmin
-ca:E120, Carmí, Cotxinilla, àcid carmí
+ca:E120, Carmí, Cotxinilla, àcid carmí, carmi, acid carmi
 cs:E120, Košenila, kyselina karmínová, karmíny
 da:E120, karminer, Carminer, carminsyre, cochenille
 de:E120, echtes Karmin, Karminsäure, Carminsäure
 el:E120, Κοχενιλη, καρμινικο οξυ, καρμινες
 eo:E120, karmino
 es:E120, Cochinilla, ácido carmínico, carmines, carmín cochinilla, carmín
-et:E120, Košenill, karmiinhape, karmiinid
+et:E120, Košenill, karmiinhape, karmiinid, karmiinhape
 eu:E120, Gorrimin
 fi:E120, Karmiinit, Kokkiniili, karmiinihappo, Karmiini, Karmiinia, Karmiineja, Kokkiniiliä, karmiinihappoa, CI 75470
 fr:E120, Acide carminique, carmin, carmins, Rouge cochenille, cochenille, Carmine, Crimson Lake, Cochineal, Natural Red 4, C.I. 75470, Rouge naturel CI n°4, 1260-17-9, carmin de cochenille
@@ -2275,7 +2275,7 @@ es:E127, Eritrosina, Iodoeosina
 et:E127, Erütrosiin
 fa:E127, اریتروسین
 fi:E127, Erytrosiini, Erytrosiinia
-fr:E127, Érythrosine, C.I. 45430, C.I. Acid Red 51, Acid Red 51, C.I. Food Red 14, CAS 568-63-8, FD & C Red No.3, Red No. 3, FD&C No.3 rouge, nourriture No.3 rouge, Erythrosine B, Erythrosin B, Tetraiodofluorescein Sodium Salt, Calcoid Erythrosine N, Aizen Erythrosine, Indian Standards No. 1697, Pyrosin B, Tetraiodofluorescein, Eosin J, Iodoeosin, 568-63-8, C20H6I4Na2O5
+fr:E127, Érythrosine, erythrosine, C.I. 45430, C.I. Acid Red 51, Acid Red 51, C.I. Food Red 14, CAS 568-63-8, FD & C Red No.3, Red No. 3, FD&C No.3 rouge, nourriture No.3 rouge, Erythrosine, Erythrosine B, Erythrosin B, C.I. 45430, Tetraiodofluorescein Sodium Salt, Calcoid Erythrosine N, C.I. Food Red 14, Aizen Erythrosine, Indian Standards No. 1697, Acid Red 51, Pyrosin B, Tetraiodofluorescein, Eosin J, Iodoeosin, 568-63-8, C20H6I4Na2O5
 hu:E127, Eritrozin
 it:E127, Eritrosina, C20H6I4Na2O5
 ja:E127, エリスロシン
@@ -2410,7 +2410,7 @@ wikipedia_url:nl: https://nl.wikipedia.org/wiki/Rood 2G
 wikipedia_url:pl: https://pl.wikipedia.org/wiki/Czerwień 2G
 wikipedia_url:pt: https://pt.wikipedia.org/wiki/Vermelho 2G
 
-en:E129, Allura red ac, FD&C Red 40, FD and C Red 40, Red 40, Red no40, Red no. 40, FD and C Red no. 40, Food Red 17, C.I. 16035, Red 40 lake
+en:E129, Allura red ac, Allura Red AC, FD&C Red 40, FD and C Red 40, Red 40, Red no40, Red no. 40, FD and C Red no. 40, Food Red 17, C.I. 16035, Red 40 lake
 bg:E129, Алура червено ac
 ca:E129, Vermell Allure 2C
 cs:E129, Allura red ac, červeň ac, Červeň Allura AC
@@ -2600,7 +2600,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Синий патентован�
 
 en:E132, Indigotine, indigo carmine, FD&C Blue 2, FD and C Blue 2, C.I. Food Blue 2, Blue 2 lake, Blue 2
 bg:E132, Индиготин, индиго кармин
-ca:E132, Indigotina, carmí indi
+ca:E132, Indigotina, carmí indi, carmi indi
 cs:E132, Indigotin, indigocarmine, Indigo karmín
 da:E132, Indigotin (indigocarmin)
 de:E132, Indigotin (Indigokarmin), Indigokarmin, Indigotin, E 132, Indigocarmin, Indigotin I
@@ -3099,7 +3099,7 @@ vegetarian:en: yes
 
 en:E1404, Oxidised starch
 bg:E1404, Окислено нишесте, Окисленото нишесте е нишесте
-ca:E1404, Midó oxidat
+ca:E1404, Midó oxidat, mido oxidat
 cs:E1404, Oxidovaný škrob
 da:E1404, Oxideret stivelse, Oxideret stivelse er stivelse
 de:E1404, Oxidierte stärke
@@ -3227,7 +3227,7 @@ el:E141ii, Συμπλοκα των χλωροφυλλινων με χαλκο, �
 es:E141ii, Complejos cúpricos de clorofilinas, Clorofilina cúprica de sodio, clorofilina cúprica de potasio
 et:E141ii, Klorofülliinide vasekompleksid, Naatriumvaskklorofülliin, kaaliumvaskklorofülliin
 fi:E141ii, Klorofylliinikuparikompleksit, Natriumkupariklorofylliini, Kaliumkupariklorofylliini, Klorofylliinikuparikomplekseja, Natriumkupariklorofylliiniä, Kaliumkupariklorofylliiniä
-fr:E141ii, Sels de sodium et de potassium de complexes cupriques de chlorophyllines, Complexe cuivrique des chlorophyllines avec sels de sodium et de potassium, Cuivre phaeophytin a, Cuivre phaeophytin b, complexes cuivre-chlorophyllines, laque aluminique de chlorophylline, cuivre - chlorophyllines
+fr:E141ii, Sels de sodium et de potassium de complexes cupriques de chlorophyllines, Complexe cuivrique des chlorophyllines avec sels de sodium et de potassium, Cuivre phaeophytin a, Cuivre phaeophytin b, complexes cuivre-chlorophyllines, laque aluminique de chlorophylline, cuivre - chlorophyllines, cuivre-chlorophyllines
 hu:E141ii, Klorofillinek rézkomplexei, Nátrium-réz-klorofillin, Kálium-réz-klorofillin
 it:E141ii, Complessi rameici delle clorofilline
 lt:E141ii, Chlorofilinų vario kompleksiniai junginiai, Natrio-vario chlorofilinas, kalio-vario chlorofilinas
@@ -3249,7 +3249,7 @@ wikidata:en: Q18967203
 
 en:E1410, Monostarch phosphate
 bg:E1410, Мононишестен фосфат
-ca:E1410, Fosfat de monomidó
+ca:E1410, Fosfat de monomidó, fosfat de monomido
 cs:E1410, Fosforečnan škrobu
 da:E1410, Monostivelsephosphat
 de:E1410, Monostärkephosphat
@@ -3306,7 +3306,7 @@ wikidata:en: Q18967214
 
 en:E1412, Distarch phosphate
 bg:E1412, Динишестен фосфат
-ca:E1412, Fosfat de dimidó
+ca:E1412, Fosfat de dimidó, fosfat de dimido
 cs:E1412, Zesíťovaný fosforečnan škrobu
 da:E1412, Distivelsephosphat, Distivelsephosphat er stivelse
 de:E1412, Distärkephosphat
@@ -3474,7 +3474,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Зелёный S
 
 en:E1420, Acetylated starch
 bg:E1420, Ацетилирано нишесте
-ca:E1420, Midó acetilat
+ca:E1420, Midó acetilat, mido acetilat
 cs:E1420, Acetylovaný škrob
 da:E1420, Acetyleret stivelse
 de:E1420, acetylierte Stärke
@@ -3681,7 +3681,7 @@ el:E1440, Υδροξυπροπυλαμυλο
 es:E1440, Hidroxipropilalmidón
 et:E1440, Hüdroksüpropüültärklis
 fi:E1440, Hydroksipropyylitärkkelys, Hydroksipropyylitärkkelystä
-fr:E1440, Amidon hydroxypropyle
+fr:E1440, Amidon hydroxypropyle, Amidon hydroxypropylé
 hu:E1440, Hidroxi-propil-keményítő
 it:E1440, Amido idrossipropilato
 lt:E1440, Hidroksipropilkrakmolas
@@ -3741,7 +3741,7 @@ el:E1442, Οξινο φωσφορικο υδροξυπροπυλαμυλο
 es:E1442, Fosfato de dialmidón hidroxipropilado
 et:E1442, Hüdroksüpropüülditärklisfosfaat
 fi:E1442, Hydroksipropyyliditärkkelysfosfaatti, Hydroksipropyyliditärkkelysfosfaattia
-fr:E1442, Phosphate de diamidon hydroxypropyle
+fr:E1442, Phosphate de diamidon hydroxypropyle, Phosphate de diamidon hydroxypropylé
 hu:E1442, Hidroxi-propil-dikeményítő-foszfát
 it:E1442, Fosfato di diamido idrossipropilato
 lt:E1442, Hidroksipropildikrakmolo fosfatas
@@ -3802,7 +3802,7 @@ el:E1450, Οκτενυληλεκτρικο αμυλονατριο
 es:E1450, Octenilsuccinato sódico de almidón, Octenil succinato sódico de almidón, Almidón succinato octenilo de sodio
 et:E1450, Naatriumoktenüülsuktsinaattärklis
 fi:E1450, Tärkkelysnatriumoktenyylisukkinaatti, Tärkkelysnatriumoktenyylisukkinaattia
-fr:E1450, Octényle succinate d'amidon sodique
+fr:E1450, Octényle succinate d'amidon sodique, Octényle succinate d'amidon sodique
 hu:E1450, Keményítő-nátrium-oktenil-szukcinát
 it:E1450, Ottenilsuccinato di amido e sodio
 lt:E1450, Krakmolo natrio oktenilsukcinatas
@@ -3888,7 +3888,7 @@ wikidata:en: Q18967287
 en:E14XX, Modified Starch
 ar:نشا معدل
 bg:E14XX, Модифицирано нишесте
-ca:E14XX, Midó modificat
+ca:E14XX, Midó modificat, mido modificat
 cs:E14XX, Modifikovaný škrob
 da:E14XX, E14XX food additive
 de:E14XX, Modifizierte Stärke
@@ -4210,7 +4210,7 @@ cs:E150a
 da:E150a, Madkulør, Sukkerkulør
 de:E150a, Zuckerkulör, Zuckercouleur
 el:E150a, Απλο καραμελοχρωμα
-es:E150a, Caramelo natural, color caramelo, colorante «Color Caramelo», caramelo para licores
+es:E150a, Caramelo natural, color caramelo, colorante «Color Caramelo», caramelo para licores, caramelo natural, Color Caramelo
 et:E150a
 fi:E150a, Sokerikulööri, Sokerikulööriä
 fr:E150a, Caramel E150a, caramel ordinaire, Caramelo simple, caramel colorant
@@ -4257,7 +4257,7 @@ el:E150b, Καυστικο θειωδες καραμελοχρωμα
 es:E150b, Caramelo de sulfito cáustico, caramelo cáustico
 et:E150b, Leeliseline sulfitkaramell
 fi:E150b, Emäksinen sulfiittisokerikulööri, Emäksistä sulfiittisokerikulööriä
-fr:E150b, Caramel de sulfite caustique, Caramel au sulfite de soude, Caramel E150b, E150b (caramel), Caramel II, Caustic sulfite caramel, Caramelo cáustico de sulfito, Caramel au sulfite caustique, Caramel sulfité
+fr:E150b, Caramel de sulfite caustique, Caramel au sulfite de soude, Caramel E150b, E150b (caramel), E150b caramel, Caramel II, Caustic sulfite caramel, Caramelo cáustico de sulfito, Caramel au sulfite caustique, Caramel sulfité
 hu:E150b, Szulfitos karamell
 it:E150b, Caramello solfito-caustico
 lt:E150b, Šarminė sulfitinė karamelė
@@ -4282,7 +4282,7 @@ efsa_evaluation_url:en: http://dx.doi.org/10.2903/j.efsa.2011.2004
 vegan:en: yes
 vegetarian:en: yes
 
-en:E150c, Ammonia caramel, baker's caramel, confectioner's caramel, beer caramel, Caramel Color Ammonia, Caramel Color
+en:E150c, Ammonia caramel, baker's caramel, confectioner's caramel, beer caramel, Caramel Color Ammonia, Ammonia caramel, Caramel Color
 bg:E150c, Амониев карамел
 cs:E150c, Amoniakový karamel
 da:E150c, Ammonieret karamel
@@ -4319,16 +4319,16 @@ vegan:en: yes
 vegetarian:en: yes
 wikidata:en: Q11735907
 
-en:E150d, Sulphite ammonia caramel, Sulfite ammonia caramel, Caramel Colour Ammonium Sulphite Process, Colour Sulphite Ammonia Caramel, Colour E150d, Food Colour 150d, CAS 8028-89-5, acid-proof caramel, soft-drink caramel
+en:E150d, Sulphite ammonia caramel, Sulfite ammonia caramel, Caramel Colour Ammonium Sulphite Process, Colour Sulphite Ammonia Caramel, Sulfite ammonia caramel, Colour E150d, Food Colour 150d, CAS 8028-89-5, acid-proof caramel, soft-drink caramel
 bg:E150d, Карамел амониев сулфит
 cs:E150d, Amoniak-sulfitový karamel
 da:E150d, Ammonieret sulfiteret karamel
 de:E150d, Ammoniumsulfit-Zuckerkulör, Zuckerkulör E150d, Ammoniumsulfit-Zuckercouleur
 el:E150d, Εναμμωνιο θειωδες καραμελοχρωμα
-es:E150d, Caramelo de sulfito amónico, Caramelo sulfito de amoníaco, caramelo clase iv, caramelo a prueba de ácidos, caramelo de bebidas gaseosas, caramelo e150d
+es:E150d, Caramelo de sulfito amónico, Caramelo sulfito de amoníaco, caramelo clase iv, Caramelo sulfito de amoníaco, caramelo a prueba de ácidos, caramelo de bebidas gaseosas, caramelo e150d
 et:E150d, Ammooniumsulfitkaramell
 fi:E150d, Ammoniumsulfiittimenetelmän sokerikulööri, Ammoniumsulfiittimenetelmän sokerikulööriä
-fr:E150d, Caramel au sulfite d'ammonium, Caramel E150d, E150d (caramel), Caramel IV - procédé au sulfite ammoniacal, Caramel IV, C.I. Natural Brown 10, FEMA no. 2235
+fr:E150d, Caramel au sulfite d'ammonium, Caramel E150d, E150d (caramel), E150d caramel, Caramel IV - procédé au sulfite ammoniacal, Caramel IV, C.I. Natural Brown 10, FEMA no. 2235
 hu:E150d, Szulfitos ammóniás karamell
 it:E150d, Caramello solfito-ammoniacale
 lt:E150d, Sulfitinė amoniakinė karamelė
@@ -4338,7 +4338,7 @@ nl:E150d, Sulfiet-ammoniakkaramel
 pl:E150d, Karmel amoniakalno-siarczynowy
 pt:E150d, Caramelo sulfítico de amónia
 ro:E150d, Caramel cu sulfit de amoniu
-ru:E150d, карамель сульфата аммиака, сахарный колер IV, краситель сахарный-колер
+ru:E150d, карамель сульфата аммиака, сахарный колер IV, краситель сахарный-колер, краситель сахарный колер
 sk:E150d, Amoniak-sulfitový karamel
 sl:E150d, Amonijev sulfitni karamel
 sv:E150d, ammoniaksulfitprocessen
@@ -4367,7 +4367,7 @@ el:E151, Λαμπρο μαυρο βν, μαυρο pn
 es:E151, Negro brillante bn, negro pn, E 151
 et:E151, Briljantmust bn, must pn
 fi:E151, Briljanttimusta bn, musta pn, Briljanttimusta, E 151
-fr:E151, Noir brillant BN, Noir PN, noir n°1, noir numéro 1, noir numéro un, Noir alimentaire 1, Naphtol black, CI 28440, CI Food Black 1, Food Black 1, CI Food Brown 1, Brillant Black BN, Brillant Black, Black PN, Noir brillant, Xylene Black F
+fr:E151, Noir brillant BN, Noir PN, noir n°1, noir numéro 1, noir numéro un, Noir alimentaire 1, Naphtol black, CI 28440, CI Food Black 1, Food Black 1, CI Food Brown 1, Brillant Black BN, Brillant Black, Black PN, Noir brillant, Noir PN, Xylene Black F
 hu:E151, Fekete PN, Brilliant Black PN
 it:E151, Nero brillante bn, nero pn, C28H17N5Na4O14S4
 lt:E151, Briliantinis juodasis bn, juodasis dažiklis pn, Juodasis PN
@@ -4621,7 +4621,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Триацетин
 
 en:E1519, Benzyl alcohol, Phenylcarbinol, Phenylmethyl alcohol, Benzenemethanol
 bg:E1519, Бензил алкохол, Фенилкарбинол, фенилметил алкохол, бензенметанол
-ca:E1519, Alcohol benzílic
+ca:E1519, Alcohol benzílic, alcohol benzilic
 cs:E1519, Benzylalkohol, Fenylmethanol, fenylmethylalkohol, benzenmethanol
 da:E1519, Benzylalkohol, Phenylcarbinol, phenylmethylalkohol, benzenmethanol
 de:E1519, Benzylalkohol, Phenylcarbinol, Phenylmethanol
@@ -4870,7 +4870,7 @@ wikipedia_url:sk: https://sk.wikipedia.org/wiki/Polyetylénglykol
 
 en:E153, Vegetable carbon
 bg:E153, Растителен въглен
-ca:E153, Carbó vegetal
+ca:E153, Carbó vegetal, carbo vegetal
 cs:E153, Rostlinná uhlíková čerň
 da:E153, Vegetabilsk kul
 de:E153, Pflanzenkohle
@@ -4878,7 +4878,7 @@ el:E153, Φυτικος ανθρακας
 es:E153, Carbón vegetal
 et:E153, Taimne süsi
 fi:E153, Kasviperäinen lääkehiili, lääkehiili, kasvihiili, Kasviperäistä lääkehiiltä, lääkehiiltä, kasvihiiltä
-fr:E153, Charbon végétal médicinal, charbon végétal, noir végétal, vegetable carbon, charbon de bois
+fr:E153, Charbon végétal médicinal, charbon végétal, noir végétal, vegetable carbon, charbon de bois, Charbon de bois
 hu:E153, Növényi szén, Carbo medicinalis vegetabilis
 it:E153, Carbone vegetale
 lt:E153, Augalinės anglys
@@ -4905,7 +4905,7 @@ wikidata:en: Q18944671
 
 en:E154, Brown FK, Kipper Brown
 bg:E154, E154 food additive
-ca:E154, Marró FK
+ca:E154, Marró FK, marro FK
 cs:E154, E154 food additive
 da:E154, E154 food additive
 de:E154, Braun FK, E 154
@@ -4961,7 +4961,7 @@ wikipedia_url:pl: https://pl.wikipedia.org/wiki/Brąz FK
 
 en:E155, Brown ht, Chocolate brown HT
 bg:E155, Кафяво ht
-ca:E155, Marró HT
+ca:E155, Marró HT, marro HT
 cs:E155, Hněď ht
 da:E155, Brown ht
 de:E155, Braun ht, E 155
@@ -5359,7 +5359,7 @@ lt:E160b, Anatas, biksinas, norbiksinas
 lv:E160b, Annato, biksīns, norbiksīns
 mt:E160b, Annatto, biksin, norbiksin
 nb:E160b, Annatto
-nl:E160b, — annatto, Anatto, Annato, annatto norbixine, annatto bixine
+nl:E160b, annatto, Anatto, Annato, annatto norbixine, annatto bixine
 pl:E160b, Annato, biksyna, norbiksyna, Annatto
 pt:E160b, Anato, bixina, norbixina, Colorau, Coloral, Urucu
 ro:E160b, Annatto, bixină, norbixină i
@@ -5504,7 +5504,7 @@ el:E160e, Β-απο-8′-καροτεναλη (c30)
 es:E160e, Beta-apo-8′-carotenal (c30), Apocarotenal, Beta-apo-8'-carotenal, E 160e
 et:E160e, Beeta-apo-8′-karotenaal (c30)
 fi:E160e, Beta-apo-8′-karotenaali (c30), beta-apo-8 -karotenaali (C30)
-fr:E160e, Apocaroténal 8', bêta-apocaroténal-8, bêta-apocaroténal-8' (C 30), β-apocaroténal-8', CI food orange 6, C 30, C30, colorant alimentaire orange CI 6, Β-apo-8′-caroténal (c30), bêta-apocaroténal, Apocaroténal, 1107-26-2, C30H40O
+fr:E160e, Apocaroténal 8', bêta-apocaroténal-8, bêta-apocaroténal-8' (C 30), β-apocaroténal-8', CI food orange 6, C 30, C30, bêta-apocaroténal-8', colorant alimentaire orange CI 6, Β-apo-8′-caroténal (c30), bêta-apocaroténal, Apocaroténal, 1107-26-2, C30H40O
 hu:E160e, Béta-apo-8′-karotinal (c30)
 it:E160e, Beta-apo-8′-carotenale (c30)
 lt:E160e, Beta-apo-8′-karotenalis (c30), Beta apo-8'-karotenalis
@@ -5535,7 +5535,7 @@ el:E160f, E160f food additive
 es:E160f, E160f food additive
 et:E160f, E160f food additive
 fi:E160f, Beta-apo-8'-karoteenihapon etyyliesteri
-fr:E160f, Ester éthylique de l'acide -apocaroténique-8'
+fr:E160f, Ester éthylique de l'acide -apocaroténique-8', Ester éthylique de l'acide apocaroténique-8'
 hu:E160f, Béta-apo-8'-karoténsav-etil észter
 it:E160f, E160f food additive
 lt:E160f, E160f food additive
@@ -5618,7 +5618,7 @@ vegetarian:en: yes
 en:E161b, Lutein, Mixed Carotenoids, Xanthophyll, tagete extract
 ar:E161b, لوتين
 bg:E161b, Лутеин, Смесени каротиноиди
-ca:E161b, luteïna
+ca:E161b, luteïna, luteina
 cs:E161b, Lutein, Směs karotenoidů
 da:E161b, Lutein, Blandede carotenoider
 de:E161b, Lutein, Gemischte Carotinoide
@@ -5676,7 +5676,7 @@ el:E161c, E161c food additive
 es:E161c, Criptoxantina, E 161c, Β-Criptoxantina
 et:E161c, E161c food additive
 fi:E161c, Kryptoksantiini, Kryptoksantiinia
-fr:E161c, Cryptoxanthine, Kryptoxanthine, β-carotène-3-ol, β-cryptoxanthine, Cryptoxanthol, Hydroxy-β-carotène, beta-carotène-3-ol, beta-cryptoxanthine, Hydroxy-beta-carotène
+fr:E161c, Cryptoxanthine, Kryptoxanthine, β-carotène-3-ol, β-cryptoxanthine, Cryptoxanthol, Hydroxy-β-carotène, beta-carotène-3-ol, beta-cryptoxanthine, Cryptoxanthol, Hydroxy-beta-carotène
 hu:E161c, Kriptoxantin
 it:E161c, Criptoxantina
 lt:E161c, Kriptoksantinas
@@ -5931,6 +5931,7 @@ nl:E162, Betanine, Bietenrood
 pl:E162, Czerwień buraczana, betanina
 pt:E162, Vermelho de beterraba, betanina, vermelho beterraba
 ro:E162, Roșu de sfeclă, betanină
+ru:E162, краситель красный свекольный, краситель пищевой красный свекольный
 sh:E162, Betanin
 sk:E162, Cviklová červená, betanín
 sl:E162, Betalain, betanin
@@ -6742,12 +6743,12 @@ vegetarian:en: yes
 
 en:E170, Calcium carbonates
 ca:E170, Carbonats de calci
-de:E170, Calciumcarbonate, Calciumcarbonat
+de:E170, Calciumcarbonate
 es:E170, Carbonatos de calcio
 fi:E170, Kalsiumkarbonaatit
 fr:E170, Carbonates de calcium
 hu:E170, Kalcium-karbonátok
-it:Carbonato di calcio
+it:E170, Carbonati di calcio
 nl:E170, Calciumcarbonaten
 pl:E170
 pt:E170
@@ -6872,7 +6873,7 @@ oc:E170i, Carbonat de calci
 pl:E170i, Węglan wapnia, CI Pigment biały 18
 pt:E170i, Carbonato de cálcio, Pigmento branco CI 18
 ro:E170i, Carbonat de calciu, Pigment alb CI 18
-ru:E170i, карбонат кальция
+ru:E170i, карбонат кальция, стабилизатор кальция карбонат
 sh:E170i, Kalcijum karbonat
 si:E170i, කැල්සියම් කාබනේට්
 sk:E170i, Uhličitan vápenatý, CI pigment biely 18
@@ -6937,7 +6938,7 @@ ar:E171, ثنائي أكسيد التيتانيوم
 be:E171, Аксід тытану
 bg:E171, Титанов диоксид, Титанов двуокис, Титаниев двуокис, Титаниев диоксид
 bs:E171, Titanij dioksid
-ca:E171, Diòxid de titani
+ca:E171, Diòxid de titani, dioxid de titani
 cs:E171, Oxid titaničitý, TiO2, kysličník titaničitý
 da:E171, Titandioxid, Titanoxid
 de:E171, Titandioxid, TitanIV-oxid, TiO2, Titanweiss, Rutilweiß
@@ -7056,7 +7057,7 @@ wikipedia_url:sk: https://sk.wikipedia.org/wiki/Oxid titaničitý
 
 en:E172, Iron oxides and iron hydroxides
 bg:E172, Железни оксиди и железни хидроксиди
-ca:E172, Òxids i hidròxids de ferro
+ca:E172, Òxids i hidròxids de ferro, oxids i hidroxids de ferro
 cs:E172, Oxidy a hydroxidy železa
 da:E172, Jernoxider og jernhydroxider
 de:E172, Eisenoxide und Eisenhydroxide, Eisenoxide, Eisenhydroxide
@@ -7490,7 +7491,7 @@ wikipedia_url:sl: https://sl.wikipedia.org/wiki/Zlato
 
 en:E180, Litholrubine bk, CI Pigment Red 57, Rubinpigment, Pigment Rubine, Lithol rubine bk
 bg:E180, Литолрубин bk, CI червен пигмент 57, рубин пигмент
-ca:E180, Litol-Rubina BK, Pigment Rubí
+ca:E180, Litol-Rubina BK, Pigment Rubí, pigment rubi
 cs:E180, Litholrubin bk, CI červený pigment 57, rubínový pigment
 da:E180, Rubinpigment bk, litholrubin bk, CI Pigment Red 57
 de:E180, Litholrubin BK, E 180, Litholrubin, Rubinpigment BK
@@ -7498,7 +7499,7 @@ el:E180, Λιθορουμπινη βκ, Κόκκινο CI Pigment 57, rubinpigme
 es:E180, Litolrubina bk, CI Pigment Red 57, rubinpigment, Litol-rubina BK
 et:E180, Litoolrubiin bk, CI punane pigment 57, rubiinpigment
 fi:E180, Litolirubiini bk, CI Pigment Red 57, Rubiinipigmentti, Rubiinipigmenttiä
-fr:E180, Lithol-rubine BK, Litholrubine BK, Pigment Rubine, Carmin 6B, TANNIC ACID, Fuchsine lithol BK, D&C Red No. 7, D et C Red No. 7, Carmine 6B, Brilliant Carmine 6B, Permanent Rubin L6B, Litholrubine, Latolrubine, C.I. Pigment Red 57, C.I. Pigment Red 57:1, C.I. 15850:1, Rubinpigment BK, Rubinpigment, 4B-Toner, pigmento rubí, CI 15850, D&C red 7, Lithol rubin toner BKL, Pigment rouge C. I. no 57, pigment rubis
+fr:E180, Lithol-rubine BK, Litholrubine BK, Pigment Rubine, Carmin 6B, Lithol rubine BK, TANNIC ACID, Fuchsine lithol BK, D&C Red No. 7, D et C Red No. 7, Carmine 6B, Brilliant Carmine 6B, Permanent Rubin L6B, Litholrubine, Latolrubine, C.I. Pigment Red 57, C.I. Pigment Red 57:1, C.I. 15850:1, Rubinpigment BK, Rubinpigment, 4B-Toner, pigmento rubí, carmín 6B, CI 15850, D&C red 7, Lithol rubin toner BKL, Pigment rouge C. I. no 57, pigment rubis
 hu:E180, Litolrubin BK, CI Pigment Red 57, Rubinpigment
 it:E180, Litolrubino bk, CI pigmento rosso 57, pigmento rubino
 lt:E180, Litolrubinas bk, Raudonasis pigmentas CI Nr. 57, rubino pigmentas
@@ -7656,15 +7657,15 @@ wikipedia_url:hu: https://hu.wikipedia.org/wiki/Orcein
 
 en:E200, Sorbic acid
 ar:E200, حمض السوربيك
-bg:E200, Сорбинова киселина, транс
-ca:E200, àcid sòrbic
-cs:E200, Kyselina sorbová
-da:E200, Sorbinsyre
-de:E200, Sorbinsäure, E 200, Parasorbinsäure, Pentadiencarbonsäure
+bg:E200, Сорбинова киселина, Сорбинова киселина, транс
+ca:E200, àcid sòrbic, acid sorbic
+cs:E200, Kyselina sorbová, Kyselina sorbová
+da:E200, Sorbinsyre, Sorbinsyre
+de:E200, Sorbinsäure, Sorbinsäure, E 200, Parasorbinsäure, Pentadiencarbonsäure
 el:E200, Σορβικο οξυ, Σορβικό οξύ
 eo:E200, Sorbata acido
 es:E200, Ácido sórbico, Sorbatos
-et:E200, Sorbiinhape
+et:E200, Sorbiinhape, Sorbiinhape
 fa:E200, اسید سربیک
 fi:E200, Sorbiinihappo, Sorbiinihappoa
 fr:E200, Acide sorbique, C6H8O2, 110-44-1
@@ -7674,24 +7675,24 @@ hi:E200, सोर्बिक अम्ल
 hu:E200, Szorbinsav
 id:E200, Asam sorbat
 is:E200, sorbic acid
-it:E200, Acido sorbico, C6H8O2
+it:E200, Acido sorbico, Acido sorbico, C6H8O2
 ja:E200, ソルビン酸
 ko:E200, 소르빈산
-lt:E200, Sorbo rūgštis
-lv:E200, Sorbīnskābe, Pīlādžskābe, C6h8o2, Sorbāti
-mt:E200, Aċidu sorbiku
+lt:E200, Sorbo rūgštis, Sorbo rūgštis
+lv:E200, Sorbīnskābe, Sorbīnskābe, Pīlādžskābe, C6h8o2, Sorbāti
+mt:E200, Aċidu sorbiku, Aċidu sorbiku
 nb:E200, Sorbinsyre
-nl:E200, Sorbinezuur
+nl:E200, Sorbinezuur, Sorbinezuur
 nn:E200, sorbinsyre
-pl:E200, Kwas sorbowy, Kwas sorbinowy
-pt:E200, Ácido sórbico, Sorbato
-ro:E200, Acid sorbic
+pl:E200, Kwas sorbowy, Kwas sorbowy, Kwas sorbinowy
+pt:E200, Ácido sórbico, Ácido sórbico, Sorbato
+ro:E200, Acid sorbic, Acid sorbic
 ru:E200, Acid sorbic, sorbic acid, сорбиновая кислота, консервант сорбиновая кислота
 sh:E200, Sorbinska kiselina
-sk:E200, Kyselina sorbová
-sl:E200, Sorbinska kislina
+sk:E200, Kyselina sorbová, Kyselina sorbová
+sl:E200, Sorbinska kislina, sorbinska kislina
 sr:E200, sorbinska kiselina
-sv:E200, Sorbinsyra, E 200, 2‚4-hexadiensyra
+sv:E200, Sorbinsyra, Sorbinsyra, E 200, 2‚4-hexadiensyra
 th:E200, กรดซอร์บิก
 tr:E200, Sorbik asit
 uk:E200, Сорбінова кислота
@@ -7861,7 +7862,7 @@ ro:E202, Sorbat de potasiu
 ru:E202, Сорбат калия
 sk:E202, Sorban draselný
 sl:E202, Kalijev sorbat
-sr:E202, kalijum-sorbat
+sr:E202, kalijum-sorbat, kalijum sorbat
 sv:E202, Kaliumsorbat
 tr:E202, Potasyum sorbat, Sorbik asit potasyum tuzu
 uk:E202, Сорбат калію
@@ -8030,7 +8031,7 @@ wikipedia_url:fr: https://fr.wikipedia.org/wiki/Parahydroxybenzoate d'heptyle
 
 en:E210, Benzoic acid
 bg:E210, Бензоена киселина, Бензенова киселина, Бензоат
-ca:E210, Àcid benzoic
+ca:E210, Àcid benzoic, acid benzoic
 cs:E210, Kyselina benzoová, E 210
 da:E210, Benzoesyre
 de:E210, Benzoesäure, Benzolcarbonsäure, Phenylameisensäure, E 210, Benzoat, Benzencarbonsäure
@@ -8238,7 +8239,7 @@ bg:E212, Калиев бензоат
 ca:E212, Benzoat de potassi
 cs:E212, Benzoan draselný, Benzoát draselný, Benzenkarboxylát draselný, E 212
 da:E212, Kaliumbenzoat
-de:E212, Kaliumbenzoat, Kalisalz der Benzencarbonsäure, E 212
+de:E212, Kaliumbenzoat, Kaliumbenzoat, Kalisalz der Benzencarbonsäure, E 212
 el:E212, Βενζοϊκο καλιο
 es:E212, Benzoato potásico, Benzoato de potasio, E 212
 et:E212, Kaaliumbensoaat
@@ -8247,7 +8248,7 @@ fr:E212, Benzoate de potassium, C7H5KO2, KC7H5O2, E 212, 582-25-2
 hu:E212, Kálium-benzoát
 it:E212, Benzoato di potassio
 lt:E212, Kalio benzoatas
-lv:E212, Kālija benzoāts, benzolkarbonskābes kālija sāls
+lv:E212, Kālija benzoāts, Kālija benzoāts, benzolkarbonskābes kālija sāls
 mt:E212, Benżoat tal-potassju
 nl:E212, Kaliumbenzoaat
 pl:E212, Benzoesan potasu
@@ -8441,8 +8442,8 @@ wikipedia_url:it: https://it.wikipedia.org/wiki/Etilparaben
 wikipedia_url:nl: https://nl.wikipedia.org/wiki/Ethyl-p-hydroxybenzoaat
 wikipedia_url:pt: https://pt.wikipedia.org/wiki/Etilparabeno
 
-en:E215, Sodium ethyl p-hydroxybenzoate
-bg:E215, Натриев етил р-хидроксибензоат
+en:E215, Sodium ethyl p-hydroxybenzoate, Sodium ethyl p-hydroxybenzoate
+bg:E215, Натриев етил р-хидроксибензоат, Натриев етил р-хидроксибензоат
 cs:E215, Ethyl-p-hydroxybenzoát sodná sůl
 da:E215, Ethyl-p-hydroxybenzoat natriumsalt, Natriumethyl-p-hydroxybenzoat
 de:E215, Phb-ethylester-natriumsalz (natriumethyl-p-hydroxybenzoat), Natriumethyl-p-hydroxybenzoat
@@ -8628,7 +8629,7 @@ nl:E219, Methyl-p-hydroxybenzoaat natriumzout
 pl:E219, Sól sodowa p-hydroksybenzoesanu metylu
 pt:E219, Sal sódico do p-hidroxibenzoato de metilo
 ro:E219, Sarea de sodiu a p-hidroxibenzoatului de metil
-sk:E219, Nátrium-metyl-p-hydroxybenzoát
+sk:E219, Nátrium-metyl-p-hydroxybenzoát, Nátrium-metyl-p-hydroxybenzoát
 sl:E219, Natrijev metil parahidroksi benzoat
 sv:E219, P-hydroxibensoesyrametylesterns natriumsalt
 e_number:en: 219
@@ -8648,15 +8649,15 @@ az:Kükürd qazından təmizlənmə üsulları
 bg:E220, Серен двуокис, Серен диоксид
 bn:সালফার ডাইঅক্সাইড
 bs:Sumpor dioksid
-ca:E220, Diòxid de sofre
-cs:E220, Oxid siřičitý
+ca:E220, Diòxid de sofre, dioxid de sofre
+cs:E220, Oxid siřičitý, Oxid siřičitý
 cy:Sylffwr deuocsid
-da:E220, Svovldioxid
-de:E220, Schwefeldioxid
+da:E220, Svovldioxid, Svovldioxid
+de:E220, Schwefeldioxid, Schwefeldioxid
 el:E220, Διοξειδιο του θειου, Διοξείδιο του θείου
 eo:sulfura dioksido
 es:E220, Dióxido de azufre, Anhídrido sulfuroso
-et:E220, Vääveldioksiid
+et:E220, Vääveldioksiid, Vääveldioksiid
 fa:گوگرد دی‌اکسید
 fi:E220, Rikkidioksidi, Rikkidioksidia
 fr:E220, Anhydride sulfureux, Dioxyde de soufre
@@ -8673,25 +8674,25 @@ ja:二酸化硫黄
 kk:Күкірт диоксиді
 ko:이산화 황
 ky:Күкүрттүү ангидрид
-lt:E220, Sieros dioksidas
-lv:E220, Sēra dioksīds
+lt:E220, Sieros dioksidas, Sieros dioksidas
+lv:E220, Sēra dioksīds, Sēra dioksīds
 mk:Сулфур диоксид
 ml:സൾഫർ ഡയോക്‌സൈഡ്
 mr:सल्फर डायॉक्साईड
 ms:Sulfur dioksida
-mt:E220, Diossidu tal-kubrit
+mt:E220, Diossidu tal-kubrit, Diossidu tal-kubrit
 nb:svoveldioksid
-nl:E220, Zwaveldioxide
-pl:E220, Dwutlenek siarki
-pt:E220, Dióxido de enxofre
-ro:E220, Dioxid de sulf
+nl:E220, Zwaveldioxide, Zwaveldioxide
+pl:E220, Dwutlenek siarki, Dwutlenek siarki
+pt:E220, Dióxido de enxofre, Dióxido de enxofre
+ro:E220, Dioxid de sulf, Dioxid de sulf
 ru:E220, серный диоксид, диоксид серы
 sh:Sumpor dioksid
-sk:E220, Oxid siričitý
-sl:E220, Žveplov dioksid
+sk:E220, Oxid siričitý, Oxid siričitý
+sl:E220, Žveplov dioksid, žveplov dioksid
 sr:сумпор-диоксид
 su:Walirang dioksida
-sv:E220, Svaveldioxid
+sv:E220, Svaveldioxid, Svaveldioxid
 ta:கந்தக டைஆக்சைடு
 th:ซัลเฟอร์ไดออกไซด์
 tr:kükürt dioksit
@@ -8885,9 +8886,9 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Сульфит натрия
 
 en:E222, Sodium bisulphite, Sodium bisulfite
 az:E222, Natrium bisulfit
-bg:E222, Натриев бисулфит
+bg:E222, Натриев бисулфит, Натриев бисулфит
 ca:E222, Bisulfit de sodi, sulfit àcid de sodi
-cs:E222, Hydrogensiřičitan sodný, NaHSO3, E 222, Kyselý siřičitan sodný, Hydrosulfit
+cs:E222, Hydrogensiřičitan sodný, Hydrogensiřičitan sodný, NaHSO3, E 222, Kyselý siřičitan sodný, Hydrosulfit
 da:E222, Natriumhydrogensulfit, Natriumbisulfit
 de:E222, Natriumhydrogensulfit, Natriumbisulfit, NaHSO3, E 222
 el:E222, Οξινο θειωδες νατριο
@@ -8903,18 +8904,18 @@ hu:E222, Nátrium-hidrogén-szulfit, Nátrium-biszulfit
 hy:E222, Նատրիումի հիդրոսուլֆիտ
 it:E222, Sodio bisolfito, Bisolfito di sodio, Idrogenosolfito di sodio
 ja:E222, 亜硫酸水素ナトリウム
-lt:E222, Natrio bisulfitas
-lv:E222, Nātrija bisulfīts
-mt:E222, Bisulfit tas-sodju
-nl:E222, Natriumwaterstofsulfiet, Natriumbisulfiet
+lt:E222, Natrio bisulfitas, Natrio bisulfitas
+lv:E222, Nātrija bisulfīts, Nātrija bisulfīts
+mt:E222, Bisulfit tas-sodju, Bisulfit tas-sodju
+nl:E222, Natriumwaterstofsulfiet, Natriumwaterstofsulfiet, Natriumbisulfiet
 pl:E222, Wodorosiarczyn sodu, Kwaśny siarczyn sodu, Siarczyn sodowo-wodorowy, WodorosiarczanIV sodu
 pt:E222, Hidrogenossulfito de sódio, Bissulfito de sódio, Hidrogenosulfito de sódio
-ro:E222, Bisulfit de sodiu
+ro:E222, Bisulfit de sodiu, Bisulfit de sodiu
 sh:E222, Natrijum bisulfit
 sk:E222, Hydrogensiričitan sodný
-sl:E222, Natrijev bisulfit
+sl:E222, Natrijev bisulfit, natrijev bisulfit
 sr:E222, Natrijum bisulfit
-sv:E222, Natriumvätesulfit
+sv:E222, Natriumvätesulfit, Natriumvätesulfit
 tr:E222, Sodyum bisülfit, Sodyum hidrojen sülfit
 vi:E222, Natri bisunfit
 zh:E222, 亚硫酸氢钠
@@ -9264,9 +9265,9 @@ wikipedia_url:nl: https://nl.wikipedia.org/wiki/Calciumsulfiet
 wikipedia_url:ru: https://ru.wikipedia.org/wiki/Сульфит кальция
 
 en:E227, Calcium bisulphite, Calcium bisulfite
-bg:E227, Калциев бисулфит
+bg:E227, Калциев бисулфит, Калциев бисулфит
 ca:E227, sulfit àcid de calci, bisulfit de calci
-cs:E227, Hydrogensiřičitan vápenatý
+cs:E227, Hydrogensiřičitan vápenatý, Hydrogensiřičitan vápenatý
 da:E227, Calciumhydrogensulfit, Calciumbisulfit
 de:E227, Calciumhydrogensulfit, Calciumbisulfit, E 227
 el:E227, Οξινο θειωδες ασβεστιο
@@ -9276,16 +9277,16 @@ fi:E227, Kalsiumvetysulfiitti, Kalsiumvetysulfiittia
 fr:E227, Sulfite acide de calcium, Bisulfite de calcium
 hu:E227, Kalcium-hidrogén-szulfit, Kalcium-biszulfit
 it:E227, Calcio bisolfito, Bisolfito di calcio
-lt:E227, Kalcio bisulfitas
-lv:E227, Kalcija bisulfīts
-mt:E227, Bisulfit tal-kalċju
+lt:E227, Kalcio bisulfitas, Kalcio bisulfitas
+lv:E227, Kalcija bisulfīts, Kalcija bisulfīts
+mt:E227, Bisulfit tal-kalċju, Bisulfit tal-kalċju
 nl:E227, Calciumwaterstofsulfiet synoniemen, Calciumwaterstofsulfiet, Calciumbisulfiet
 pl:E227, Wodorosiarczyn wapnia, Kwaśny siarczyn wapnia, Siarczek wodorowo-wapniowy, WodorosiarczanIV wapnia
 pt:E227, Hidrogenossulfito de cálcio, Bissulfito de cálcio
-ro:E227, Bisulfit de calciu
+ro:E227, Bisulfit de calciu, Bisulfit de calciu
 sk:E227, Hydrogensiričitan vápenatý, Disiričitan vápenatý
-sl:E227, Kalcijev bisulfit
-sv:E227, Kalciumvätesulfit
+sl:E227, Kalcijev bisulfit, kalcijev bisulfit
+sv:E227, Kalciumvätesulfit, Kalciumvätesulfit
 e_number:en: 227
 efsa_evaluation:en: Scientific Opinion on the re-evaluation of sulfur dioxide -E 220-, sodium sulfite -E 221-, sodium bisulfite -E 222-, sodium metabisulfite -E 223-, potassium metabisulfite -E 224-, calcium sulfite -E 226-, calcium bisulfite -E 227- and potassium bisulfite -E 228- as food additives
 efsa_evaluation_adi:en: 0.7
@@ -9326,9 +9327,9 @@ wikipedia_url:pl: https://pl.wikipedia.org/wiki/Wodorosiarczyn wapnia
 wikipedia_url:ru: https://ru.wikipedia.org/wiki/Гидросульфит кальция
 
 en:E228, Potassium bisulphite, Potassium bisulfite
-bg:E228, Калиев бисулфит
+bg:E228, Калиев бисулфит, Калиев бисулфит
 ca:E228, Sulfit àcid de potassi, bisulfit de potassi
-cs:E228, Hydrogensiřičitan draselný, E 228
+cs:E228, Hydrogensiřičitan draselný, Hydrogensiřičitan draselný, E 228
 da:E228, Kaliumhydrogensulfit, Kaliumbisulfit
 de:E228, Kaliumhydrogensulfit, Kaliumbisulfit, KHSO3, E 228
 el:E228, Οξινο θειωδες καλιο
@@ -9338,16 +9339,16 @@ fi:E228, Kaliumvetysulfiitti, Kaliumbisulfiitti, Kaliumvetysulfiittia, Kaliumbis
 fr:E228, Sulfite acide de potassium, Bisulfite de potassium, HKSO3
 hu:E228, Kálium-hidrogén-szulfit, Kálium-biszulfit
 it:E228, Potassio solfito acido, Bisolfito di potassio
-lt:E228, Kalio bisulfitas
-lv:E228, Kālija bisulfīts
-mt:E228, Bisulfit tal-potassju
+lt:E228, Kalio bisulfitas, Kalio bisulfitas
+lv:E228, Kālija bisulfīts, Kālija bisulfīts
+mt:E228, Bisulfit tal-potassju, Bisulfit tal-potassju
 nl:E228, Kaliumwaterstofsulfiet synoniemen, Kaliumwaterstofsulfiet, Kaliumbisulfiet
 pl:E228, Wodorosiarczyn potasu, Kwaśny siarczyn potasu, WodorosiarczanIV potasu
 pt:E228, Hidrogenossulfito de potássio, Bissulfito de potássio
-ro:E228, Bisulfit de potasiu
+ro:E228, Bisulfit de potasiu, Bisulfit de potasiu
 sk:E228
-sl:E228, Kalijev bisulfit
-sv:E228, Kaliumvätesulfit
+sl:E228, Kalijev bisulfit, kalijev bisulfit
+sv:E228, Kaliumvätesulfit, Kaliumvätesulfit
 e_number:en: 228
 efsa_evaluation:en: Scientific Opinion on the re-evaluation of sulfur dioxide -E 220-, sodium sulfite -E 221-, sodium bisulfite -E 222-, sodium metabisulfite -E 223-, potassium metabisulfite -E 224-, calcium sulfite -E 226-, calcium bisulfite -E 227- and potassium bisulfite -E 228- as food additives
 efsa_evaluation_adi:en: 0.7
@@ -9718,7 +9719,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Натамицин
 
 en:E236, Formic acid, methanoic acid
 bg:E236, Мравчена киселина, Метанова киселина
-ca:E236, Àcid fòrmic
+ca:E236, Àcid fòrmic, acid formic
 cs:E236, Kyselina mravenčí, Metanová kyselina, E 236, Kyselina methanová, Formiát, Kyselina metanová, Methanová kyselina
 da:E236, Myresyre
 de:E236, Ameisensäure, Formiate, E 236, Formiat, Formalinsäure, HCOOH, Formic acid, Acidum formicum, Formylsäure, Hydrocarbonsäure, Methanoate, Methanoat, CH2O2, Methansäure
@@ -10357,7 +10358,7 @@ nl:E250, Natriumnitriet
 pl:E250, Azotyn sodu, AzotanIII sodu
 pt:E250, Nitrito de sódio
 ro:E250, Nitrit de sodiu, Azotit de sodiu
-ru:E250, Нитрит натрия, Натрия нитрит, Натрий азотокислый, фиксатор окраски, фиксатор окраски-нитрит натрия
+ru:E250, Нитрит натрия, Натрия нитрит, Натрий азотокислый, фиксатор окраски, фиксатор окраски-нитрит натрия, фиксатор окраски нитрит натрия
 sh:E250, Natrijum nitrit
 sk:E250, Dusitan sodný
 sl:E250, Natrijev nitrit
@@ -10574,7 +10575,7 @@ ar:E252, نترات البوتاسيوم
 bg:E252, Калиев нитрат, Калиева селитра
 bn:E252, পটাসিয়াম নাইট্রেট
 bs:E252, Kalij-nitrat
-ca:E252, Nitrat de potassi, Hidròxid de potassi, hydroxid de potassi
+ca:E252, Nitrat de potassi
 cs:E252, Dusičnan draselný, Salnytr, Sanitr, Ledek draselný, Salnitr, Draselný ledek, Sanytr
 da:E252, Kaliumnitrat, KNO3, Kalisalpeter
 de:E252, Kaliumnitrat, Kalisalpeter, Kaliumsalpeter, Salpeter
@@ -10719,18 +10720,18 @@ af:E260, Asynsuur
 ar:E260, حمض الخليك
 az:E260, Sirkə turşusu
 be:E260, воцатная кіслата
-bg:E260, Оцетна киселина, Етанова киселина
+bg:E260, Оцетна киселина, Оцетна киселина, Етанова киселина
 bn:E260, অ্যাসিটিক এসিড
 bs:E260, Acetatna kiselina
-ca:E260, Àcid acètic
-cs:E260, Kyselina octová, Etanová kyselina, Ethanová kyselina, Kyselina ethanová, Kyselina etanová, Acidum aceticum
+ca:E260, Àcid acètic, acid acetic
+cs:E260, Kyselina octová, Kyselina octová, Etanová kyselina, Ethanová kyselina, Kyselina ethanová, Kyselina etanová, Acidum aceticum
 cy:E260, Asid asetig
-da:E260, Eddikesyre, Acetat, Ethansyre
-de:E260, Essigsäure, Haushaltsessig, Methancarbonsäure, Acidum aceticum, Acetoxylsäure, Acetat-Ion, Ethansäure, Säureessig, Acetylsäure, Eisessig, Ethoxylsäure, Äthansäure, Methylcarbonsäure, Holzsäure, Essigessenz
+da:E260, Eddikesyre, Eddikesyre, Acetat, Ethansyre
+de:E260, Essigsäure, Essigsäure, Haushaltsessig, Methancarbonsäure, Acidum aceticum, Acetoxylsäure, Acetat-Ion, Ethansäure, Säureessig, Acetylsäure, Eisessig, Ethoxylsäure, Äthansäure, Methylcarbonsäure, Holzsäure, Essigessenz
 el:E260, Οξικο οξυ, Οξικό οξύ, Αιθανικό οξύ, Αιθανοϊκό οξύ
 eo:E260, aceta acido
 es:E260, Ácido acético, Conservante E260, Ácido acético glacial, Ácido etanoico, Conservante E 260, Etanoico
-et:E260, Äädikhape, Etaanhape
+et:E260, Äädikhape, Äädikhape, Etaanhape
 eu:E260, azido azetiko
 fa:E260, استیک اسید
 fi:E260, Etikkahappo, Etaanihappo, Asetometri, E 260, Jääetikka, CH3COOH, Etikkahappoa, Etaanihappoa, Asetometriä, Jääetikkaa
@@ -10740,13 +10741,13 @@ gl:E260, Ácido acético
 he:E260, חומצה אצטית
 hi:E260, एसिटिक अम्ल
 hr:E260, Octena kiselina
-hu:E260, Ecetsav, Jégecet, Etánsav, Acetát
+hu:E260, Ecetsav, Ecetsav, Jégecet, Etánsav, Acetát
 hy:E260, Քացախաթթու
 ia:E260, Acido acetic
 id:E260, Asam asetat
 io:E260, Acetat-acido
 is:E260, Ediksýra
-it:E260, Acido acetico, Acido etanoico, C2H4O2, AcOH, CH3COOH, Acido acetico glaciale
+it:E260, Acido acetico, Acido acetico, Acido etanoico, C2H4O2, AcOH, CH3COOH, Acido acetico glaciale
 ja:E260, 酢酸
 jv:E260, Asam asetat
 kk:E260, Сірке қышқылы
@@ -10754,26 +10755,26 @@ kn:E260, ಅಸಿಟಿಕ್ ಆಮ್ಲ
 ko:E260, 아세트산
 la:E260, Acidum aceticum
 li:E260, Aekzoer
-lt:E260, Acto rūgštis, Vandenilio acetatas, Metankarboksilinė rūgštis, CH3COOH, Acetilo hidroksidas, Etano rūgštis
-lv:E260, Etiķskābe, Acetāti, Ch3cooh, Acetāts, Metānkarbonskābe, Etānskābe, Ledus etiķskābe
+lt:E260, Acto rūgštis, Acto rūgštis, Vandenilio acetatas, Metankarboksilinė rūgštis, CH3COOH, Acetilo hidroksidas, Etano rūgštis
+lv:E260, Etiķskābe, Etiķskābe, Acetāti, Ch3cooh, Acetāts, Metānkarbonskābe, Etānskābe, Ledus etiķskābe
 mk:E260, Оцетна киселина
 ml:E260, അസറ്റിക് അമ്ലം
 ms:E260, Asid asetik
-mt:E260, Aċidu aċetiku
+mt:E260, Aċidu aċetiku, Aċidu aċetiku
 nb:E260, eddiksyre
-nl:E260, Azijnzuur, 64-19-7, CH3COOH, ijsazijn, ethaanzuur
+nl:E260, Azijnzuur, Azijnzuur, 64-19-7, CH3COOH, ijsazijn, ethaanzuur
 pa:E260, ਐਸੀਟਿਕ ਤੇਜ਼ਾਬ
-pl:E260, Kwas octowy, CH3COOH, Kwas etanowy, Kwas metanokarboksylowy, Lodowaty kwas octowy
-pt:E260, Ácido acético, Ácido etanoico, Ácido acético glacial, Ácido metanocarboxílico, CH3COOH
+pl:E260, Kwas octowy, Kwas octowy, CH3COOH, Kwas etanowy, Kwas metanokarboksylowy, Lodowaty kwas octowy
+pt:E260, Ácido acético, Ácido acético, Ácido etanoico, Ácido acético glacial, Ácido metanocarboxílico, CH3COOH
 qu:E260, Mama aqha p'uchqu
-ro:E260, Acid acetic
+ro:E260, Acid acetic, Acid acetic
 sh:E260, Sirćetna kiselina
 si:E260, ඇසිටික් අම්ලය
-sk:E260, Kyselina octová, Kyselina etánová
-sl:E260, Ocetna kislina
+sk:E260, Kyselina octová, Kyselina octová, Kyselina etánová
+sl:E260, Ocetna kislina, ocetna kislina
 sr:E260, сирћетна киселина
 su:E260, Asam asétat
-sv:E260, Ättiksyra, Ätiksyra, CH3COOH, Isättika, E 260, Ättikssyra, Etansyra
+sv:E260, Ättiksyra, Ättiksyra, Ätiksyra, CH3COOH, Isättika, E 260, Ättikssyra, Etansyra
 ta:E260, அசிட்டிக் காடி
 te:E260, ఎసిటిక్ ఆమ్లం
 th:E260, กรดน้ำส้ม
@@ -11428,7 +11429,7 @@ ar:E270, حمض اللبنيك
 be:E270, Малочная кіслата
 bg:E270, Млечна киселина, Лактат
 bs:E270, Mliječna kiselina
-ca:E270, Àcid làctic
+ca:E270, Àcid làctic, acid lactic
 cs:E270, Kyselina mléčná, Laktát
 cy:E270, Asid lactig
 da:E270, Mælkesyre, Laktat
@@ -11562,29 +11563,29 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Молочная кислота
 wikipedia_url:sk: https://sk.wikipedia.org/wiki/Kyselina mliečna
 wikipedia_url:sl: https://sl.wikipedia.org/wiki/Mlečna kislina
 
-en:E280, Propionic acid, Propanoic acid, CH3CH2COOH
-bg:E280, Пропионова киселина, Пропанова киселина
-ca:E280, Àcid propiònic
-cs:E280, Kyselina propionová, Propanová kyselina, Kyselina propanová, CH3CH2COOH, Propionát, E 280
-da:E280, Propionsyre
-de:E280, Propionsäure, Propionate, CH3CH2COOH, Propanoate, Propansäure, E 280, Ethancarbonsäure, Metacetonsäure, Propionat, Propanoat
+en:E280, Propionic acid, Propionic acid, Propanoic acid, CH3CH2COOH
+bg:E280, Пропионова киселина, Пропионова киселина, Пропанова киселина
+ca:E280, Àcid propiònic, acid propionic
+cs:E280, Kyselina propionová, Kyselina propionová, Propanová kyselina, Kyselina propanová, CH3CH2COOH, Propionát, E 280
+da:E280, Propionsyre, Propionsyre
+de:E280, Propionsäure, Propionsäure, Propionate, CH3CH2COOH, Propanoate, Propansäure, E 280, Ethancarbonsäure, Metacetonsäure, Propionat, Propanoat
 el:E280, Προπιονικο οξυ, Προπιονικό οξύ, Προπανικό οξύ
-es:E280, Ácido propiónico, Ácido propanoico, Ácido propílico, E 280, Conservante E 280, Propanoico, Conservante E280
-et:E280, Propioonhape
+es:E280, Ácido propiónico, Ácido propiónico, Ácido propanoico, Ácido propílico, E 280, Conservante E 280, Propanoico, Conservante E280
+et:E280, Propioonhape, Propioonhape
 fi:E280, Propionihappo, Propaanihappo, Etaanikarboksyylihappo, Etyylimuurahaishappo, Metyylietikkahappo, Propionihappoa, Propaanihappoa, Etaanikarboksyylihappoa, Etyylimuurahaishappoa, Metyylietikkahappoa
 fr:E280, Acide propionique, Acide propanoïque, CH3CH2COOH, 79-09-4, Acide a-cétopropionique
-hu:E280, Propionsav
-it:E280, Acido propionico, C2H5COOH, Propanoato, Acido propanoico
-lt:E280, Propiono rūgštis
-lv:E280, Propionskābe, Propānskābe, Propionāti
-mt:E280, Aċidu propjoniku
-nl:E280, Propionzuur, Propaanzuur
-pl:E280, Kwas propionowy, Kwas propanowy, Kwas etanokarboksylowy
-pt:E280, Ácido propiónico, Ácido propanoico, Ácido propriônico, Ácido propílico, Propionato
-ro:E280, Acid propionic, Acid propanoic
-sk:E280, Kyselina propiónová, Kyselina propánová
-sl:E280, Propionska kislina
-sv:E280, Propionsyra, Propansyra, E 280, Propiat, Propanoat
+hu:E280, Propionsav, Propionsav
+it:E280, Acido propionico, Acido propionico, C2H5COOH, Propanoato, Acido propanoico
+lt:E280, Propiono rūgštis, Propiono rūgštis
+lv:E280, Propionskābe, Propionskābe, Propānskābe, Propionāti
+mt:E280, Aċidu propjoniku, Aċidu propjoniku
+nl:E280, Propionzuur, Propionzuur, Propaanzuur
+pl:E280, Kwas propionowy, Kwas propionowy, Kwas propanowy, Kwas etanokarboksylowy
+pt:E280, Ácido propiónico, Ácido propiónico, Ácido propanoico, Ácido propriônico, Ácido propílico, Propionato
+ro:E280, Acid propionic, Acid propionic, Acid propanoic
+sk:E280, Kyselina propiónová, Kyselina propiónová, Kyselina propánová
+sl:E280, Propionska kislina, propionska kislina
+sv:E280, Propionsyra, Propionsyra, Propansyra, E 280, Propiat, Propanoat
 additives_classes:en: en:preservative
 e_number:en: 280
 efsa_evaluation:en: Scientific Opinion on the re-evaluation of propionic acid -E 280-, sodium propionate -E 281-, calcium propionate -E 282- and potassium propionate -E 283- as food additives
@@ -11654,36 +11655,36 @@ wikipedia_url:sk: https://sk.wikipedia.org/wiki/Kyselina propiónová
 
 en:E281, Sodium propionate
 ar:E281, بروبيونات الصوديوم
-bg:E281, Натриев пропионат
+bg:E281, Натриев пропионат, Натриев пропионат
 bs:E281, Natrijum propionat
 ca:E281, Propionat de sodi
 cs:E281, Propionan sodný synonyma, Propionát sodný
-da:E281, Natriumpropionat
+da:E281, Natriumpropionat, Natriumpropionat
 de:E281, Natriumpropionat
 el:E281, Προπιονικο νατριο, Προπιονικό νάτριο
 eo:E281, Natria propanoato
 es:E281, Propionato sódico, Propionato de sodio, Propanoato de sodio, Propanoato sodico, Conservante E281, Conservante E-281
-et:E281, Naatriumpropionaat
+et:E281, Naatriumpropionaat, Naatriumpropionaat
 fa:E281, سدیم پروپیونات
 fi:E281, Natriumpropionaatti, Natriumpropanaatti, Natriumpropionaattia, Natriumpropanaattia
 fr:E281, Propionate de sodium
 hu:E281, Nátrium-propionát
 hy:E281, Նատրիումի պրոպիոնատ
-it:E281, Propionato di sodio
+it:E281, Propionato di sodio, Propionato di sodio
 ja:E281, プロピオン酸ナトリウム
-lt:E281, Natrio propionatas
-lv:E281, Nātrija propionāts
-mt:E281, Propjonat tas-sodju
-nl:E281, Natriumpropionaat
-pl:E281, Propionian sodu
-pt:E281, Propionato de sódio
-ro:E281, Propionat de sodiu
+lt:E281, Natrio propionatas, Natrio propionatas
+lv:E281, Nātrija propionāts, Nātrija propionāts
+mt:E281, Propjonat tas-sodju, Propjonat tas-sodju
+nl:E281, Natriumpropionaat, Natriumpropionaat
+pl:E281, Propionian sodu, Propionian sodu
+pt:E281, Propionato de sódio, Propionato de sódio
+ro:E281, Propionat de sodiu, Propionat de sodiu
 ru:E281, Пропионат натрия
 sh:E281, Natrijum propionat
-sk:E281, Propionan sodný
-sl:E281, Natrijev propionat
+sk:E281, Propionan sodný, Propionan sodný
+sl:E281, Natrijev propionat, natrijev propionat
 sr:E281, Natrijum propionat
-sv:E281, Natriumpropionat
+sv:E281, Natriumpropionat, Natriumpropionat
 ta:E281, சோடியம் புரோப்பனோயேட்டு
 tr:E281, Sodyum propionat
 vi:E281, Natri propionat
@@ -11808,29 +11809,29 @@ wikipedia_url:pl: https://pl.wikipedia.org/wiki/Propionian wapnia
 wikipedia_url:pt: https://pt.wikipedia.org/wiki/Propanoato de cálcio
 wikipedia_url:ru: https://ru.wikipedia.org/wiki/Пропионат кальция
 
-en:E283, Potassium propionate, Potassium propanoate
-bg:E283, Калиев пропионат
+en:E283, Potassium propionate, Potassium propionate, Potassium propanoate
+bg:E283, Калиев пропионат, Калиев пропионат
 ca:E283, Propionat de potassi
 cs:E283, Propionan draselný synonyma, Propionát draselný
-da:E283, Kaliumpropionat
+da:E283, Kaliumpropionat, Kaliumpropionat
 de:E283, Kaliumpropionat, E 283
 el:E283, Προπιονικο καλιο, Προπιονικό κάλιο
 es:E283, Propionato potásico, Propionato de potasio, Propanoato de potasio, Conservante E283, Propanoato potásico, E-283, Conservante E 283
-et:E283, Kaaliumpropionaat
+et:E283, Kaaliumpropionaat, Kaaliumpropionaat
 fi:E283, Kaliumpropionaatti, Kaliumpropanaatti, Kaliumpropionaattia, Kaliumpropanaattia
 fr:E283, Propionate de potassium, Propanoate de potassium
 hu:E283, Kálium-propionát
-it:E283, Propionato di potassio
-lt:E283, Kalio propionatas
-lv:E283, Kālija propionāts
+it:E283, Propionato di potassio, Propionato di potassio
+lt:E283, Kalio propionatas, Kalio propionatas
+lv:E283, Kālija propionāts, Kālija propionāts
 mt:E283, Propjonat tal-potassju
-nl:E283, Kaliumpropionaat
-pl:E283, Propionian potasu
-pt:E283, Propionato de potássio
-ro:E283, Propionat de potasiu
-sk:E283, Propionan draselný
-sl:E283, Kalijev propionat
-sv:E283, Kaliumpropionat
+nl:E283, Kaliumpropionaat, Kaliumpropionaat
+pl:E283, Propionian potasu, Propionian potasu
+pt:E283, Propionato de potássio, Propionato de potássio
+ro:E283, Propionat de potasiu, Propionat de potasiu
+sk:E283, Propionan draselný, Propionan draselný
+sl:E283, Kalijev propionat, kalijev propionat
+sv:E283, Kaliumpropionat, Kaliumpropionat
 additives_classes:en: en:preservative
 e_number:en: 283
 efsa_evaluation:en: Scientific Opinion on the re-evaluation of propionic acid -E 280-, sodium propionate -E 281-, calcium propionate -E 282- and potassium propionate -E 283- as food additives
@@ -11872,19 +11873,19 @@ wikipedia_url:pl: https://pl.wikipedia.org/wiki/Propionian potasu
 wikipedia_url:pt: https://pt.wikipedia.org/wiki/Propionato de potássio
 
 en:E284, Boric acid, Boracic acid, Orthoboric acid
-bg:E284, Борна киселина, ортоборна киселина
-ca:E284, Àcid bòric
+bg:E284, Борна киселина, Борна киселина, ортоборна киселина
+ca:E284, Àcid bòric, acid boric
 cs:E284, Kyselina boritá, Kyselina orthoboritá, E 284, Kyselina trihydorenboritá, H3BO3, Borová voda
 da:E284, Borsyre, Orthoborsyre, Boric acid
-de:E284, Borsäure, Orthoborsäure, Borsäuretitration, Trihydrogenborat, Borhydroxid, Borwasser, E 284, H3BO3
+de:E284, Borsäure, Borsäure, Orthoborsäure, Borsäuretitration, Trihydrogenborat, Borhydroxid, Borwasser, E 284, H3BO3
 el:E284, Βορικο οξυ, Βορακικό οξύ, ορθοβορικό οξύ
 es:E284, Ácido bórico, Ácido borácico, Conservante E284, Ácido (orto)borico, Acido ortoborico, Conservante E 284
 et:E284, Boorhape
 fi:E284, Boorihappo, Ortoboorihappo, H3BO3, Boorihappoa, Ortoboorihappoa
 fr:E284, Acide borique, Acide monoborique, acide orthoborique, Alcool boriqué, Acide boracique, 10043-35-3, Borate d'hydrogène, H3BO3
-hu:E284, Bórsav, orto-Bórsav
+hu:E284, Bórsav, Bórsav, orto-Bórsav
 it:E284, Acido borico, Acido boracico, acido ortoborico, Acido triossoborico, H3BO3, Acqua borica, Acido triossoboricoIII
-lt:E284, Boro rūgštis, ortoboro rūgštis, B(OH)3, H3BO3
+lt:E284, Boro rūgštis, Boro rūgštis, ortoboro rūgštis, B(OH)3, H3BO3
 lv:E284, Borskābe, Borakskābe, ortoborskābe
 mt:E284, Aċidu boriku, Aċidu boraċiku, Aċidu ortoboriku
 nl:E284, Boorzuur, Monoboorzuur, orthoboorzuur, H3BO3
@@ -11892,7 +11893,7 @@ pl:E284, Kwas borowy, Kwas borny, kwas ortoborowy
 pt:E284, Ácido bórico, Ácido ortobórico, Ortoborato de hidrogênio
 ro:E284, Acid boric, Acid boracic, Acid ortoboric, Hidroxid de bor
 sk:E284, Kyselina boritá, Kyselina boracitová, Kyselina ortoboritá
-sl:E284, Borova kislina, ortoborova kislina
+sl:E284, Borova kislina, borova kislina, ortoborova kislina
 sv:E284, Borsyra, Ortoborsyra, Boraxsyra, Borater, E 284, Borat
 e_number:en: 284
 efsa_evaluation:en: Scientific Opinion on the re-evaluation of boric acid -E 284- and sodium tetraborate -borax- -E 285- as food additives.
@@ -11964,7 +11965,7 @@ wikipedia_url:sl: https://sl.wikipedia.org/wiki/Borova kislina
 
 en:E285, Sodium tetraborate (borax), borax, sodium borate, sodium tetraborate, disodium tetraborate
 bg:E285, Натриев тетраборат (боракс)
-ca:E285, Tetraborat de sodi, bòrax
+ca:E285, Tetraborat de sodi, bòrax, borax
 cs:E285, Tetraboritan sodný (borax), Borax
 da:E285, Natriumtetraborat (boraks), Boraks
 de:E285, Natriumtetraborat (borax), Natriumtetraborat, wasserfreies Borax, Na2B4O7
@@ -12066,7 +12067,7 @@ bg:E290, Въглероден диоксид, Газ на въглена кис�
 bn:E290, কার্বন ডাই অক্সাইড
 bo:E290, དབྱང་གཉིས་སོལ་འགྱུར།
 bs:E290, Ugljik-dioksid
-ca:E290, Diòxid de carboni
+ca:E290, Diòxid de carboni, dioxid de carboni
 cs:E290, Oxid uhličitý, Plynný oxid uhličitý
 cy:E290, carbon deuocsid
 da:E290, Carbondioxid, Kuldioxidgas, Kuldioxid
@@ -12238,7 +12239,7 @@ ar:E296, حمض التفاح
 az:E296, Alma turşusu
 be:E296, Яблычная кіслата
 bg:E296, Ябълчна киселина, Ябълчена киселина, Хидроксиянтарна киселина
-ca:E296, Àcid màlic
+ca:E296, Àcid màlic, acid malic
 cs:E296, Kyselina jablečná, Kyselina hydroxybutandiová, kyselina hydroxyjantarová, Malát
 da:E296, Æblesyre, Malinsyre, Malat
 de:E296, Äpfelsäure, Aepfelsäure, Apfelsäure, 2-Hydroxybutan-1.4-disäure, Malat, 2-Hydroxybutandisäure, Hydroxybutandisäure, 2-Hydroxybernsteinsäure, Malate, Hydroxybernsteinsäure, 2-Hydroxyethan-1., 2-dicarbonsäure
@@ -12355,7 +12356,7 @@ wikipedia_url:sk: https://sk.wikipedia.org/wiki/Kyselina jablčná
 
 en:E297, Fumaric acid, trans-Butenedioic acid
 bg:E297, Фурмарова киселина, транс-бутендиова киселина
-ca:E297, Àcid fumàric
+ca:E297, Àcid fumàric, acid fumaric
 cs:E297, Kyselina fumarová, Kyselina (E)-butendiová
 da:E297, Fumarsyre, trans-Butendisyre
 de:E297, Fumarsäure, trans-Butendisäure
@@ -12440,15 +12441,15 @@ wikipedia_url:sk: https://sk.wikipedia.org/wiki/Kyselina fumarová
 
 en:E300, Ascorbic acid, l-ascorbic acid, Synonyms L-xylo-Ascorbic acid
 bg:E300, Аскорбинова киселина, l-аскорбинова киселина, L-ксило-аскорбинова киселина
-ca:E300, Àcid ascòrbic
+ca:E300, Àcid ascòrbic, acid ascorbic
 cs:E300, Kyselina askorbová, kyselina l-askorbová
 da:E300, Ascorbinsyre, L-askorbinsyre, Vitamin C, Askorbinsyre, E-300, L-ascorbinsyre, Ascorbat, C-vitamin, Askorbat
 de:E300, Ascorbinsäure, Askorbinsäure
 el:E300, Ασκορβικο οξυ, l-ασκορβικο οξυ
-es:E300, Ácido ascórbico, Ácido l-ascórbico, E 200
+es:E300, Ácido ascórbico, Ácido l-ascórbico, Ácido L-ascórbico, E 200
 et:E300, Askorbiinhape
 fi:E300, Askorbiinihappo, L-askorbiinihappo, C-vitamiini, Askorbiinihappoa, L-askorbiinihappoa, C-vitamiinia
-fr:E300, Acide ascorbique, Acide L-ascorbique, Vitamine C, Acide ascorbique (L-), Ascorbate
+fr:E300, Acide ascorbique, Acide L-ascorbique, Vitamine C, Acide ascorbique (L-), Acide L(+)-ascorbique, Ascorbate
 hu:E300, Aszkorbinsav, l-aszkorbinsav
 it:E300, Acido ascorbico, acido l-ascorbico, Ascorbato
 lt:E300, Askorbo rūgštis, l-askorbo rūgštis, Askorbinas
@@ -12488,7 +12489,7 @@ es:E301, Ascorbato sódico, Ascorbato de sodio, L-ascorbato sódico, E 301, L-as
 et:E301, Naatriumaskorbaat
 fa:E301, اسکوربات سدیم
 fi:E301, Natriumaskorbaatti, Natrium-L-Askorbaatti, Natriumaskorbaattia, Natrium-L-Askorbaattia
-fr:E301, Ascorbate de sodium, L-ascorbate de sodium, sel monosodique de l'acide L-ascorbique, 134-03-2, C6H7O6Na
+fr:E301, Ascorbate de sodium, Ascorbate de sodium, L-ascorbate de sodium, sel monosodique de l'acide L-ascorbique, L-ascorbate de Sodium, 134-03-2, C6H7O6Na
 hu:E301, Nátrium-aszkorbát, Nátrium-L-aszkorbát
 hy:E301, Նատրիումի ասկորբատ
 it:E301, Ascorbato di sodio, L-Ascorbato di sodio
@@ -12555,7 +12556,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Аскорбат натрия
 en:E302, Calcium ascorbate
 bg:E302, Калциев аскорбат
 ca:E302, Ascorbat de calci
-cs:E302, Askorban vápenatý
+cs:E302, Askorban vápenatý, Askorban vápenatý
 da:E302, Calciumascorbat
 de:E302, Calciumascorbat
 el:E302, Ασκορβικο ασβεστιο
@@ -12769,7 +12770,7 @@ hu:E304ii, Aszkorbil-sztearát
 it:E304ii, Stearato di ascorbile
 lt:E304ii, Askorbilstearatas
 lv:E304ii, Askorbilstearāts
-mt:E304ii, Stearat askorbili, Stearat L-askorbili
+mt:E304ii, Stearat askorbili, Stearat askorbili, Stearat L-askorbili
 nl:E304ii, Ascorbylstearaat
 pl:E304ii, Stearynian askorbylu
 pt:E304ii, Estearato de ascorbilo
@@ -13102,29 +13103,29 @@ wikipedia_url:en: https://en.wikipedia.org/wiki/Delta-Tocopherol
 wikipedia_url:fi: https://fi.wikipedia.org/wiki/Delta-tokoferoli
 wikipedia_url:fr: https://fr.wikipedia.org/wiki/Δ-Tocophérol
 
-en:E310, Propyl gallate, Propyl ester of gallic acid
+en:E310, Propyl gallate, Propyl gallate, Propyl ester of gallic acid
 bg:E310, Пропил галат
 ca:E310, Gal·lat de propil
-cs:E310, Propylgallát, propylester kyseliny gallové
-da:E310, Propylgallat, propylester af gallusgarvesyre
-de:E310, Propylgallat, Propylester der Gallussäure
+cs:E310, Propylgallát, Propylgallát, propylester kyseliny gallové
+da:E310, Propylgallat, Propylgallat, propylester af gallusgarvesyre
+de:E310, Propylgallat, Propylgallat, Propylester der Gallussäure
 el:E310, Γαλλικος προπυλεστερας, Γαλλικό προπύλιο, Γαλλικός προπυλεστέρας
 es:E310, Galato de propilo
-et:E310, Propüülgallaat, gallushappe propüülester
+et:E310, Propüülgallaat, Propüülgallaat, gallushappe propüülester
 fi:E310, Propyyligallaatti, Gallushapon propyyliesteri, Propyyligallaattia, Gallushapon propyyliesteriä
 fr:E310, Gallate de propyle
-hu:E310, Propil-gallát, Galluszsav propil-észtere
+hu:E310, Propil-gallát, Propil-gallát, Galluszsav propil-észtere
 it:E310, Gallato di propile, Propil gallato
 lt:E310, Propilo galatas, Propilgalatas, galo rūgšties propilo esteris
-lv:E310, Propilgallāts, Gallusskābes propilesteris
+lv:E310, Propilgallāts, Propilgallāts, Gallusskābes propilesteris
 mt:E310, Gallat tal-propil
-nl:E310, Propylgallaat, propylester van galluszuur
+nl:E310, Propylgallaat, Propylgallaat, propylester van galluszuur
 pl:E310, Galusan propylu
 pt:E310, Galato de propilo
 ro:E310, Galat de propil
 sk:E310, Propylgalát, Propyl-galát, propylester kyseliny gálovej
-sl:E310, Propil galat, propilester galne kisline
-sv:E310, Propylgallat, gallussyrans propylester
+sl:E310, Propil galat, propil galat, propilester galne kisline
+sv:E310, Propylgallat, Propylgallat, gallussyrans propylester
 additives_classes:en: en:antioxidant
 e_number:en: 310
 efsa_evaluation:en: Scientific Opinion on the re-evaluation of propyl gallate -E 310- as a food additive
@@ -13158,29 +13159,29 @@ wikipedia_url:it: https://it.wikipedia.org/wiki/Gallato di propile
 wikipedia_url:nl: https://nl.wikipedia.org/wiki/Propylgallaat
 wikipedia_url:ru: https://ru.wikipedia.org/wiki/Пропилгаллат
 
-en:E311, Octyl gallate, Octyl ester of gallic acid
+en:E311, Octyl gallate, Octyl gallate, Octyl ester of gallic acid
 bg:E311, Октил галат
 ca:E311, Gal·lat d'octil
-cs:E311, Oktylgallát, oktylester kyseliny gallové
-da:E311, Octylgallat, octylester af gallusgarvesyre
-de:E311, Octylgallat, Octylester der Gallussäure
+cs:E311, Oktylgallát, Oktylgallát, oktylester kyseliny gallové
+da:E311, Octylgallat, Octylgallat, octylester af gallusgarvesyre
+de:E311, Octylgallat, Octylgallat, Octylester der Gallussäure
 el:E311, Γαλλικος οκτυλεστερας, Γαλλικό οκτύλιο, Γαλλικός οκτυλεστέρας
 es:E311, Galato de octilo
-et:E311, Oktüülgallaat, Gallushappe oktüülester
+et:E311, Oktüülgallaat, Oktüülgallaat, Gallushappe oktüülester
 fi:E311, Oktyyligallaatti, Gallushapon oktyyliesteri, Oktyyligallaattia, Gallushapon oktyyliesteriä
 fr:E311, Gallate d'octyle
-hu:E311, Oktil-gallát, Galluszsav oktil-észtere
+hu:E311, Oktil-gallát, Oktil-gallát, Galluszsav oktil-észtere
 it:E311, Gallato di ottile
 lt:E311, Oktilo galatas, Oktilgalatas, galo rūgšties oktilo esteris
-lv:E311, Oktilgallāts, gallusskābes oktilesteris
+lv:E311, Oktilgallāts, Oktilgallāts, gallusskābes oktilesteris
 mt:E311, Gallat tal-ottil
-nl:E311, Octylgallaat, octylester van galluszuur
+nl:E311, Octylgallaat, Octylgallaat, octylester van galluszuur
 pl:E311, Galusan oktylu
 pt:E311, Galato de octilo
 ro:E311, Galat de octil
 sk:E311, Oktylgalát, Oktyl-galát, oktylester kyseliny gálovej, n-oktylester kyseliny 3, 4
-sl:E311, Oktilgalat, oktilester galne kisline
-sv:E311, Oktylgallat, gallussyrans oktylester
+sl:E311, Oktilgalat, oktilgalat, oktilester galne kisline
+sv:E311, Oktylgallat, Oktylgallat, gallussyrans oktylester
 e_number:en: 311
 efsa_evaluation:en: Scientific Opinion on the re-evaluation of octyl gallate -E 311- as a food additive
 efsa_evaluation_date:en: 2015-10-01
@@ -13322,7 +13323,7 @@ da:E315, Erythorbinsyre, Isoascorbinsyre
 de:E315, Isoascorbinsäure, Erythorbinsäure
 el:E315, Ερυθορβικο οξυ, Ισοασκορβικό οξύ
 es:E315, Ácido eritórbico, Ácido isoascórbico
-et:E315, Isoaskorbiinhape
+et:E315, Isoaskorbiinhape, Isoaskorbiinhape
 fi:E315, Erytorbiinihappo, Isoaskorbiinihappo, D-araboaskorbiinihappo, Erytorbiinihappoa, Isoaskorbiinihappoa, D-araboaskorbiinihappoa
 fr:E315, Acide érythorbique, Acide isoascorbique, Acide D-isoascorbique, acide araboascorbique, acide saccharosonique, eryscorbine, CAS 89-65-6
 hu:E315, Eritroaszkorbinsav, Izoaszkorbinsav
@@ -13524,7 +13525,7 @@ nl:E319, Tert-butylhydrochinon (tbhq), tert-Butyl-1‚4-benzeendiol, Tert-butylh
 pl:E319, Tert-butylohydrochinon (tbhq)
 pt:E319, Terc butil-hidroquinona (tbhq), terc-Butil-1‚4-benzenodiol
 ro:E319, Butilhidrochinonă terțiară (tbhq), Terț-butil-1‚4-benzendiol
-ru:E319, Трет-бутилгидрохинон
+ru:E319, e319, Трет-бутилгидрохинон, Трет бутилгидрохинон
 sk:E319, Terciálny butylhydrochinón (tbhq), Terc-butyl-1‚4-benzéndiol
 sl:E319, Terc-butilhidrokinon (tbhq), terc-butil-1‚4-benzendiol
 sv:E319, Tertiär-butylhydrokinon (tbhq), Tertbutyl-1‚4-bensendiol
@@ -13560,7 +13561,7 @@ bg:E320, Бутил хидроксианизол (бха)
 ca:E320, Butilhidroxianisol, BHA
 cs:E320, Butylhydroxyanisol (bha), 3-terc-butyl-4-hydroxyanisol
 da:E320, Butylhydroxyanisol (bha), 3-tert-Butyl-4-hydroxyanisol, Butylhydroxyanisol
-de:E320, Butylhydroxyanisol, BHA, 3-tert-Butyl-4-hydroxyanisol, E 320
+de:E320, Butylhydroxyanisol, BHA, 3-tert-Butyl-4-hydroxyanisol, Butylhydroxyanisol, E 320
 el:E320, Βουτυλ-υδροξυανισολη (bha), 3-τριτ. βουτυλ-4-υδροξυανισόλη
 es:E320, Butilhidroxianisol, 3-t-butil-4-hidroxianisol, BHA, E 320, Hidroxibutilanisol
 et:E320, Butüülhüdroksüanisool (bha)
@@ -13575,7 +13576,7 @@ nl:E320, Butylhydroxyanisool (bha), 3-tert-Butyl-4-hydroxyanisool, Butylhydroxya
 pl:E320, Butylohydroksyanizol (bha), Butylowany hydroksyanizol, Butylohydroksyanizol
 pt:E320, Butil-hidroxianisole (bha), 3-terc-Butil-4-hidroxianisole, BHA
 ro:E320, Butilhidroxianisol (bha), 3-terț-butil-4-hidroxianisol
-ru:E320, Бутилгидроксианизол
+ru:E320, e320, Бутилгидроксианизол
 sk:E320, Butylovaný hydroxyanizol (bha)
 sl:E320, Butilhidroksianizol (bha), 3-terc-butil-4-hidroksianizol
 sv:E320, Butylhydroxianisol (bha), Butylhydroxianisol, E 320
@@ -13633,7 +13634,7 @@ wikipedia_url:pl: https://pl.wikipedia.org/wiki/Butylowany hydroksyanizol
 wikipedia_url:pt: https://pt.wikipedia.org/wiki/BHA
 wikipedia_url:ru: https://ru.wikipedia.org/wiki/Бутилгидроксианизол
 
-en:E321, Butylated hydroxytoluene, BHT, 2‚6-Ditertiary-butyl-p-cresol, bht added to preserve freshness
+en:E321, Butylated hydroxytoluene, BHT, 2‚6-Ditertiary-butyl-p-cresol, Butylated hydroxytoluene, bht added to preserve freshness
 bg:E321, Бутилхидрокситолуол (бхт), 2‚6-дитретичен-бутил-р-крезол
 ca:E321, Butilhidroxitoluè, BHT
 cs:E321, Butylhydroxytoluen (bht), 2‚6-diterciární butyl-p-krezol, Butylhydroxytoluen
@@ -13653,7 +13654,7 @@ nl:E321, Butylhydroxytolueen (bht), 2‚6-Di-tert-butyl-p-kresol, Butylhydroxyto
 pl:E321, Butylohydroksytoluen (bht), 2‚6-ditert-butylo-p-krezol, Butylowany hydroksytoluen
 pt:E321, Butil-hidroxitolueno (bht), 2‚6-Di-terc-butil-p-cresol, BHT
 ro:E321, Butilhidroxitoluen (bht), 2‚6-diterț-butil-p-cresol
-ru:E321, бутилгидрокситолуол
+ru:E321, e321, бутилгидрокситолуол
 sk:E321, Butylovaný hydroxytoluén (bht), 2‚6-diterc-butyl-p-krezol
 sl:E321, Butilhidroksitoluen (bht), 2‚6-diterc-butil-p-krezol
 sv:E321, Butylhydroxitoluen (bht), 2‚6-Ditertiär-butyl-p-kresol
@@ -13717,7 +13718,7 @@ es:E322, Lecitinas, Fosfátidos
 et:E322, Letsitiinid, Fosfatiidid
 fi:E322, Lesitiinit, Fosfatidit, Lesitiinejä, Fosfatidejä
 fr:E322, Lécithines, Phosphatidylcholine, Phosphatides, Phospholipides, Phospho lutéines
-he:E322, לציטינים, לציטין, פוספטידים, תרכובות שומניות
+he:E322, לציטינים, פוספטידים, תרכובות שומניות
 hu:E322, Lecitinek, Foszfatidek
 it:E322, Lecitine, Fosfatidi
 lt:E322, Lecitinai, Fosfatidai
@@ -13732,7 +13733,7 @@ ru:E322, Лецитины, е322, соевый лецитин-e322
 sk:E322, Lecitíny, Fosfatidy
 sl:E322, Lecitini, fosfatidi
 sv:E322, Lecitiner, Fosfatider
-tr:E322, Lesitin
+tr:E322
 additives_classes:en: en:antioxidant,en:emulsifier
 e_number:en: 322
 organic_eu:en: authorized
@@ -14321,7 +14322,7 @@ az:E330, Limon turşusu
 be:E330, Лімонная кіслата
 bg:E330, Лимонена киселина, Лимонова киселина
 bn:E330, সাইট্রিক অ্যাসিড
-ca:E330, acid citric
+ca:E330, acid citric, àcid citric, àcid cítric
 cs:E330, Kyselina citronová, Citrát
 cy:E330, Asid sitrig
 da:E330, Citronsyre, Citrat
@@ -14357,13 +14358,13 @@ ml:E330, സിട്രിക് ആസിഡ്
 ms:E330, Asid sitrik
 mt:E330, Aċidu ċitriku
 nb:E330, Sitronsyre
-nl:E330, Citroenzuur, C6H8O7, Citraten
+nl:E330, E330, Citroenzuur, C6H8O7, Citraten
 nn:E330, sitronsyre
 pa:E330, ਸਿਟਰਿਕ ਤੇਜ਼ਾਬ
 pl:E330, Kwas cytrynowy, Kwasek cytrynowy, Cytrynian
 pt:E330, Ácido cítrico, Ins 330
 ro:E330, Acid citric, Sare de lămâie
-ru:E330, Лимонная кислота, Бензилоранж, Цитраты, Лимонная кислота моногидрат, Кислота лимонная моногидрат, Кислота лимонная
+ru:E330, Лимонная кислота, Бензилоранж, Цитраты, Лимонная кислота моногидрат, Кислота лимонная моногидрат, Кислота лимонная, регулятор кислотности лимонная кислота
 sh:E330, Limunska kiselina
 sk:E330, Kyselina citrónová
 sl:E330, Citronska kislina
@@ -14501,7 +14502,7 @@ wikipedia_url:sk: https://sk.wikipedia.org/wiki/Citrát sodný
 < en:E331
 en:E331i, Monosodium citrate
 bg:E331i, Мононатриев цитрат
-ca:E331i, Citrat monosòdic
+ca:E331i, Citrat monosòdic, citrat monosodic
 cs:E331i, Citronan monosodný
 da:E331i, Mononatriumcitrat
 de:E331i, Mononatriumcitrat
@@ -14541,7 +14542,7 @@ wikipedia_url:sk: https://sk.wikipedia.org/wiki/Citrát sodný
 < en:E331
 en:E331ii, Disodium citrate
 bg:E331ii, Динатриев цитрат
-ca:E331ii, Citrat disòdic
+ca:E331ii, Citrat disòdic, citrat disodic
 cs:E331ii, Disodium citrate
 da:E331ii, Dinatriumcitrat
 de:E331ii, Dinatriumcitrat
@@ -14580,7 +14581,7 @@ wikipedia_url:sk: https://sk.wikipedia.org/wiki/Citrát sodný
 
 < en:E331
 en:E331iii, Trisodium citrate
-ca:E331iii, Citrat trisòdic
+ca:E331iii, Citrat trisòdic, citrat trisodic
 da:E331iii, Trinatriumcitrat
 de:E331iii, Trinatriumcitrat
 es:E331iii, Citrato trisódico
@@ -14592,7 +14593,7 @@ nb:E331iii, Trinatriumsitrat
 nl:E331iii, trinatriumcitraat
 pl:E331iii, Cytrynian trisodowy
 pt:E331iii, Citrato trissódico
-ru:E331iii, цитрат натрия 3-замещенный
+ru:E331iii, цитрат натрия 3-замещенный, цитрат натрия 3 замещенный
 sv:E331iii, Trinatriumcitrat
 e_number:en: 331
 wikipedia_abstract:en: Sodium citrate may refer to any of the sodium salts of citrate -though most commonly the third-:  Monosodium citrate Disodium citrate Trisodium citrateThe three forms of the salt are collectively known by the E number E331. Sodium citrates are used as acidity regulators in food and drinks, and also as emulsifiers for oils. They enable cheeses to melt without becoming greasy.
@@ -15025,45 +15026,45 @@ ar:E334, حمض الطرطريك
 bg:E334, L(+)-винена киселина, винена киселина, Лимонтузу, Лимонтозу
 bn:E334, টারটারিক অ্যাসিড
 bs:E334, Vinska kiselina
-ca:E334, àcid L(+)-tartàric, Àcid tartàric, tàrtic, tartàric
+ca:E334, àcid L(+)-tartàric, Àcid tartàric, acid tartaric, àcid tartàric, tàrtic, tartàric
 cs:E334, L(+)-kyselina vinná, Kyselina vinná, E 334, Kyselina hroznová
 cy:E334, Asid tartarig
-da:E334, L(+)-tartaric acid, tartaric acid, L-Vinsyre, L-2‚3-dihydroxybutandisyre, Vinsyre
-de:E334, L(+)-Weinsäure, Weinsäure (L+), L-2‚3-Dihydroxybutandisäure, Weinsäure, Threarsäure, Tartaric acid, 2‚3-Dihydroxybutandisäure, 2‚3-Dihydroxybernsteinsäure, Dihydroxybernsteinsäure, D-(-)-Weinsäure, Traubensäure, Weinsteinsäure
+da:E334, L(+)-tartaric acid, tartaric acid, L-Vinsyre, L-2‚3-dihydroxybutandisyre, Vinsyre, tartaric acid
+de:E334, L(+)-Weinsäure, Weinsäure (L+), L-Weinsäure, L-2‚3-Dihydroxybutandisäure, Weinsäure, Threarsäure, Tartaric acid, 2‚3-Dihydroxybutandisäure, 2‚3-Dihydroxybernsteinsäure, Dihydroxybernsteinsäure, D-(-)-Weinsäure, Traubensäure, Weinsteinsäure, Weinsäure
 el:E334, L(+)-τρυγικο οξυ, τρυγικο οξυ
 eo:E334, Tartrata acido
-es:E334, Ácido tartárico, Ácido l(+)-tartárico, Crémor tartaro, Ácido tártrico, tártico, tartárico
-et:E334, L(+)-viinhape, viinhape, L-2‚3-dihüdroksübutaandihape
+es:E334, Ácido tartárico, Ácido l(+)-tartárico, Crémor tartaro, Ácido tártrico, Acido tartrico, tártico, tartárico
+et:E334, L(+)-viinhape, viinhape, L-viinhape, L-2‚3-dihüdroksübutaandihape
 eu:E334, Azido tartariko
 fa:E334, اسید تارتاریک
-fi:E334, L(+)-viinihappo, viinihappo, L-2‚3-Dihydroksibutaanidihappo, 2‚3-dihydroksibutaanidihappo, L(+)-viinihappoa, viinihappoa, 2‚3-dihydroksibutaanidihappoa, viinhape
-fr:E334, Acide L-tartrique, Acide tartrique, Acide d-α, β-dihydroxysuccinique, Acide dextrotartarique, acide 3-hydroxy malique, Acide DL-tartrique, Acide DL-tartrique monohydraté, Acide racémique, Acide D-tartrique, Tartrate, Acide mesotartrique
+fi:E334, L(+)-viinihappo, viinihappo, L-Viinihappo, L-2‚3-Dihydroksibutaanidihappo, 2‚3-dihydroksibutaanidihappo, L(+)-viinihappoa, viinihappoa, L-Viinihappoa, L-2‚3-Dihydroksibutaanidihappo, 2‚3-dihydroksibutaanidihappoa, viinhape
+fr:E334, Acide L-tartrique, Acide tartrique, Acide L(+)tartrique, Acide d-α, β-dihydroxysuccinique, Acide dextrotartarique, acide 3-hydroxy malique, Acide DL-tartrique, Acide DL-tartrique monohydraté, Acide racémique, Acide D-tartrique, Tartrate, Acide mesotartrique
 ga:E334, Aigéad tartarach
 gl:E334, Ácido tartárico
 he:E334, חומצה טרטרית
 hi:E334, टार्टरिक अम्ल
 hr:E334, Vinska kiselina
-hu:E334, L(+)-borkősav, borkősav, L-tartarát L-2‚3-Dihidroxi-butándisav
+hu:E334, L(+)-borkősav, L-(+)-borkősav, borkősav, L-Borkősav, L-tartarát L-2‚3-Dihidroxi-butándisav
 hy:E334, Գինեթթու
 id:E334, Asam tartarat
 it:E334, L(+)-acido tartarico, acido tartarico, Acido 2‚3-diidrossibutandioico, Tartaro emetico, Tartrato
 ja:E334, 酒石酸
 ko:E334, 타타르산
 lt:E334, Vyno rūgštis (l(+)-), vyno rūgštis
-lv:E334, L(+)-vīnskābe, vīnskābe, L-2‚3-dihidroksibutāndiskābe, Tartrāti, Mezovīnskābe, Vīnogskābe
+lv:E334, L(+)-vīnskābe, vīnskābe, L-vīnskābe, L-2‚3-dihidroksibutāndiskābe, Tartrāti, Mezovīnskābe, Vīnogskābe
 mk:E334, Винска киселина
 ml:E334, ടാർട്ടാറിക് അമ്ലം
 mt:E334, L(+)-aċidu tartariku, aċidu tartariku
 my:E334, တာတာရစ် အက်ဆစ်
-nl:E334, L(+)-wijnsteenzuur, wijnsteenzuur, L-2‚3-dihydroxybutaandizuur, Druivenzuur
+nl:E334, L(+)-wijnsteenzuur, wijnsteenzuur, L-Wijnsteenzuur, L-2‚3-dihydroxybutaandizuur, Wijnsteenzuur, Druivenzuur
 pl:E334, Kwas winowy l(+), kwas winowy, Kwas winny, Winiany
 pt:E334, Ácido l(+)-tartárico, ácido tartárico, Tartarato
-ro:E334, Acid l(+)- tartric, acid tartric, Acid L-2‚3-dihidroxibutandioic
+ro:E334, Acid l(+)- tartric, acid tartric, Acid L-tartric, Acid L-2‚3-dihidroxibutandioic
 sh:E334, Vinska kiselina
 sk:E334, Kyselina l-(+)-vínna, kyselina vínna
 sl:E334, Vinska kislina (l (+) -), vinska kislina
 sr:E334, винска киселина
-sv:E334, L(+)-vinsyra, L-2‚3-dihydroxibutandisyra, Vinsyra, Tartrat
+sv:E334, L(+)-vinsyra, L-vinsyra, L-2‚3-dihydroxibutandisyra, Vinsyra, Tartrat
 te:E334, టార్టారిక్ ఆమ్లం
 tr:E334, Tartarik asit
 uk:E334, Винна кислота
@@ -15465,15 +15466,15 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Сегнетова соль
 
 en:E338, Phosphoric acid, Orthophosphoric acid, phosphoricV acid
 bg:E338, Фосфорна киселина, Ортофосфорна киселина
-ca:E338, Àcid fosfòric
-cs:E338, Kyselina fosforečná, Kyselina orthofosforečná, E 338, Kyselina ortofosforečná, Kyselina orto-fosforečná, Kyselina trihydrogenfosforečná, H3PO4, Kyselina ortho-fosforečná
-da:E338, Phosphorsyre, Orthophosphorsyre, Fosforsyre, E-338
-de:E338, Phosphorsäure, ortho-Phosphorsäure, E 338, H3PO4, Orthophosphorsäure
+ca:E338, Àcid fosfòric, acid fosforic
+cs:E338, Kyselina fosforečná, Kyselina orthofosforečná, Kyselina ortofosforečná, Kyselina orto-fosforečná, Kyselina trihydrogenfosforečná, H3PO4, Kyselina ortho-fosforečná
+da:E338, Phosphorsyre, Orthophosphorsyre, Fosforsyre
+de:E338, Phosphorsäure, ortho-Phosphorsäure, Orthophosphorsäure
 el:E338, Φωσφορικο οξυ
-es:E338, Ácido fosfórico, Ácido ortofosfórico, E 338, H3PO4, Ortofosforico, Fosfato monoamónico, Fosforico
+es:E338, Ácido fosfórico, Ácido ortofosfórico, Ortofosforico, Fosfato monoamónico, Fosforico
 et:E338, Fosforhape, Ortofosforhape
 fi:E338, Fosforihappo, Ortofosforihappo, Divetyfosfaatti, Vetyfosfaatti, H3PO4, Fosforihappoa, Ortofosforihappoa, Divetyfosfaattia, Vetyfosfaattia
-fr:E338, Acide orthophosphorique, acide phosphorique, Sels de potassium de l'acide phosphorique, sels de potassium de E338, Phosphate d'hydrogène, Acide monophosphorique, Dihydrogénophosphate, H3PO4, 7664-38-2, Acide phophorique, Hydrogénophosphate
+fr:E338, Acide orthophosphorique, acide phosphorique, Sels de potassium de l'acide phosphorique, sels de potassium de E338, Phosphate d'hydrogène, Acide monophosphorique, Dihydrogénophosphate, Acide phophorique, Hydrogénophosphate
 hu:E338, Foszforsav, Ortofoszforsav
 it:E338, Acido fosforico, Acido ortofosforico, Acido tetraossofosforicoV, H3PO4
 lt:E338, Fosforo rūgštis, Ortofosforo rūgštis
@@ -15642,7 +15643,7 @@ de:E339i, Mononatriumphosphat
 el:E339i, Δισοξινο φωσφορικο νατριο, Δισόξινο ορθοφωσφορικό νάτριο
 eo:E339i, Natria bifosfato
 es:E339i, Fosfato monosódico, Monofosfato monosódico, monofosfato ácido monosódico, ortofosfato monosódico, fosfato monobásico sódico, Sodio (mono) dihidrógeno monofosfato, sodio (mono) orto-fosfato, sodio fosfato monobásico, sodio fosfato ácido, sodio bifosfato, sodio dihidrógeno fosfato, sodio (mono) dihidrógeno ortofosfato
-et:E339i, Naatriumdivesinikfosfaat
+et:E339i, Naatriumdivesinikfosfaat, Naatriumdivesinikfosfaat
 fi:E339i, Mononatriumfosfaatti, Mononatriummonofosfaatti, Hapan mononatriummonofosfaatti, Mononatriumortofosfaatti, Yhdenarvoinen natriumfosfaatti, Mononatriumfosfaattia, Mononatriummonofosfaattia, Hapanta mononatriummonofosfaattia, Mononatriumortofosfaattia, Yhdenarvoista natriumfosfaattia
 fr:E339i, Phosphate monosodique
 hu:E339i, Mononátrium-foszfát
@@ -15747,7 +15748,7 @@ de:E339ii, Dinatriumphosphat, Dinatriummonophosphat, sekundäres Natriumphosphat
 el:E339ii, Οξινο φωσφορικο νατριο
 eo:E339ii, Dunatria fosfato
 es:E339ii, Fosfato disódico, Monofosfato disódico, fosfato sódico secundario, Sodio (di) fosfato, sodio (di) hidrógeno monofosfato, sodio (di) hidrógeno orto-fosfato, sodio fosfato dibásico, sodio (di) fosfato ácido, sodio secundario fosfato, sodio (di) hidrógeno fosfato
-et:E339ii, Dinaatriumvesinikfosfaat
+et:E339ii, Dinaatriumvesinikfosfaat, Dinaatriumvesinikfosfaat
 fa:E339ii, دی‌سدیم فسفات
 fi:E339ii, Dinatriumfosfaatti, Dinatriummonofosfaatti, Sekundaarinen natriumfosfaatti, Dinatriumfosfaattia, Dinatriummonofosfaattia, Sekundaarista natriumfosfaattia
 fr:E339ii, Phosphate disodique, Monophosphate disodique, phosphate de sodium secondaire
@@ -15793,7 +15794,7 @@ wikipedia_url:fr: https://fr.wikipedia.org/wiki/Phosphate de sodium -homonymie-
 wikipedia_url:pt: https://pt.wikipedia.org/wiki/Fosfatos de sódio
 wikipedia_url:ru: https://ru.wikipedia.org/wiki/Фосфаты натрия
 
-en:E340, Potassium phosphates, potassium phosphate, KH2PO4, K2HPO4, K3PO4
+en:E340, Potassium phosphates, potassium phosphate
 bg:E340, E340 food additive
 ca:E340, Fosfat de potassi
 cs:E340, E340 food additive
@@ -15803,7 +15804,7 @@ el:E340, E340 food additive
 es:E340, Fosfatos de potasio, Fosfato de potasio, Fosfato potásico
 et:E340, E340 food additive
 fi:E340, Kaliumfosfaatti, Kaliumfosfaattia
-fr:E340, Orthophosphates de potassium, Orthophosphate de potassium, Orthophosphate monopotassique, Orthophosphate dipotassique, Orthophosphate tripotassique, Phosphate de potassium, Phosphates de potassium, K3PO4, E 340, Dihydrogénophosphate de potassium, Phosphate de monopotassium
+fr:E340, Orthophosphates de potassium, Orthophosphate de potassium, Orthophosphate monopotassique, Orthophosphate dipotassique, Orthophosphate tripotassique, Phosphate de potassium, Phosphates de potassium, Dihydrogénophosphate de potassium, Phosphate de monopotassium
 hu:E340, Kálium-foszfátok, kálium-foszfát
 it:E340, E340 food additive
 lt:E340, E340 food additive
@@ -15843,7 +15844,7 @@ da:E340i, Monokaliumphosphat, Monobasisk kaliumphosphat, monokaliummonophosphat
 de:E340i, Monokaliumphosphat, einbasiges Kaliumphosphat, Monokaliummonophosphat
 el:E340i, Δισοξινο φωσφορικο καλιο
 es:E340i, Fosfato monopotásico, Fosfato monobásico potásico, monofosfato monopotásico
-et:E340i, Kaaliumdivesinikfosfaat
+et:E340i, Kaaliumdivesinikfosfaat, Kaaliumdivesinikfosfaat
 fi:E340i, Monokaliumfosfaatti, Yhdenarvoinen kaliumfosfaatti, Monokaliummonofosfaatti, Monokaliumfosfaattia, Yhdenarvoista kaliumfosfaattia, Monokaliummonofosfaattia
 fr:E340i, Phosphate monopotassique
 hu:E340i, Monokálium-foszfát, Egybázisú kálium-foszfát, Monokálium-monofoszfát
@@ -15876,7 +15877,7 @@ da:E340ii, Dikaliumphosphat, Dikaliummonophosphat, sekundært kaliumphosphat, di
 de:E340ii, Dikaliumphosphat, Dikaliummonophosphat, sekundäres Kaliumphosphat, Dikaliumorthophosphat
 el:E340ii, Οξινο φωσφορικο καλιο, Όξινο ορθοφωσφορικό κάλιο
 es:E340ii, Fosfato dipotásico, Monofosfato dipotásico, fosfato potásico secundario, ortofosfato dipotásico
-et:E340ii, Dikaaliumvesinikfosfaat
+et:E340ii, Dikaaliumvesinikfosfaat, Dikaaliumvesinikfosfaat
 fi:E340ii, Dikaliumfosfaatti, Dikaliummonofosfaatti, Sekundäärinen kaliumfosfaatti, Dikaliumortofosfaatti, Dikaliumfosfaattia, Dikaliummonofosfaattia, Sekundääristä kaliumfosfaattia, Dikaliumortofosfaattia
 fr:E340ii, Phosphate dipotassique
 hu:E340ii, Dikálium-foszfát, Dikálium-monofoszfát, Szekunder kálium-foszfát, Dikálium-ortofoszfát
@@ -15936,7 +15937,7 @@ wikipedia_url:fr: https://fr.wikipedia.org/wiki/Phosphate de potassium
 
 en:E341, Calcium phosphates, calcium phosphate
 bg:E341, E341 food additive
-ca:E341, Fosfat de calci, Fosfat càlcic
+ca:E341, Fosfat de calci, Fosfat càlcic, fosfat calcic
 cs:E341, CaPO4
 da:E341, E341 food additive
 de:E341, Calciumphosphate, E 341
@@ -15999,8 +16000,8 @@ cs:E341i, Fosforečnan monovápenatý, Bis(dihydrogenfosforečnan) vápenatý, F
 da:E341i, Monocalciumphosphat, Monobasisk calciumphosphat
 de:E341i, Monocalciumphosphat, einbasiges Calciumphosphat
 el:E341i, Δισοξινο φωσφορικο ασβεστιο, Μονοβασικό φωσφορικό ασβέστιο
-es:E341i, Fosfato monocálcico, Fosfato monobásico cálcico, Calcio (mono) fosfato, calcio fosfato monobásico, calcio (mono) ortofosfato, calcio bifosfato, calcio fosfato ácido, calcio dihidrógeno fosfato
-et:E341i, Kaltsiumdivesinikfosfaat
+es:E341i, Fosfato monocálcico, Fosfato monobásico cálcico, Calcio (mono) fosfato, calcio fosfato monobásico, calcio (mono) ortofosfato, calcio fosfato monobásico, calcio bifosfato, calcio fosfato ácido, calcio dihidrógeno fosfato
+et:E341i, Kaltsiumdivesinikfosfaat, Kaltsiumdivesinikfosfaat
 fi:E341i, Monokalsiumfosfaatti, Yhdenarvoinen kalsiumfosfaatti, Monokalsiumfosfaattia, Yhdenarvoista kalsiumfosfaattia
 fr:E341i, Phosphate monocalcique, orthophosphate monocalcique
 hu:E341i, Monokalcium-foszfát, Egybázisú kalcium-foszfát
@@ -16049,8 +16050,8 @@ cs:E341ii, Hydrogenfosforečnan vápenatý
 da:E341ii, Dicalciumphosphat, Dibasisk calciumphosphat
 de:E341ii, Dicalciumphosphat, zweibasiges Calciumphosphat
 el:E341ii, Οξινο φωσφορικο ασβεστιο, Διβασικό φωσφορικό ασβέστιο
-es:E341ii, Fosfato dicálcico, Fosfato dibásico cálcico, Calcio (di) fosfato, calcio fosfato dibásico, calcio hidrógeno orto-fosfato, calcio secundario fosfato, calcio hidrógeno fosfato, calcio hidrógeno monofosfato
-et:E341ii, Kaltsiumvesinikfosfaat
+es:E341ii, Fosfato dicálcico, Fosfato dibásico cálcico, Calcio (di) fosfato, calcio fosfato dibásico, calcio hidrógeno orto-fosfato, calcio fosfato dibásico, calcio secundario fosfato, calcio hidrógeno fosfato, calcio hidrógeno monofosfato
+et:E341ii, Kaltsiumvesinikfosfaat, Kaltsiumvesinikfosfaat
 fi:E341ii, Dikalsiumfosfaatti, Dikalsiumfosfaattia
 fr:E341ii, Phosphate dicalcique, Phosphate de calcium dibasique
 hu:E341ii, Dikalcium-foszfát, Kétbázisú kalcium-foszfát
@@ -16206,34 +16207,38 @@ vegetarian:en: yes
 wikidata:en: Q2634889
 
 < en:E343
-en:E343i, Monomagnesium phosphate, Magnesiumdihydrogenphosphate, Magnesiumphosphate, monobasic
+en:E343i, Monomagnesium phosphate, Magnesiumdihydrogenphosphate, Magnesiumphosphate, monobasic, magnesium phosphate
+ar:فوسفات المغنسيوم
 bg:E343i, Мономагнезиев фосфат, Магнезиев дихидрогенфосфат, магнезиев фосфат едноосновен
 cs:E343i, Dihydrogenfosforečnan hořečnatý, Kyselý fosforečnan hořečnatý
 da:E343i, Monomagnesiumphosphat, Magnesiumdihydrogenphosphat, monobasisk magnesiumphosphat
-de:E343i, Monomagnesiumphosphat, Magnesiumdihydrogenphosphat, einbasiges Magnesiumphosphat
+de:E343i, Monomagnesiumphosphat, Magnesiumdihydrogenphosphat, einbasiges Magnesiumphosphat, Magnesiumphosphat
 el:E343i, Δισοξινο φωσφορικο μαγνησιο, Φωσφορικό μαγνήσιο μονοβασικό
-es:E343i, Fosfato de monomagnesio, Dihidrogenofosfato de magnesio, fosfato monobásico de magnesio
+es:E343i, Fosfato de monomagnesio, Dihidrogenofosfato de magnesio, fosfato monobásico de magnesio, Fosfato de magnesio
 et:E343i, Magneesiumdivesinikfosfaat
-fi:E343i, Monomagnesiumfosfaatti, Magnesiumdivetyfosfaatti, Magnesiumfosfaatti monoemäksinen, Monomagnesiumfosfaattia, Magnesiumdivetyfosfaattia
-fr:E343i, Phosphate monomagnésique
-hu:E343i, Monomagnézium-foszfát, Magnézium-dihidrogén-foszfát, Magnézium-foszfát egybázisú
+fi:E343i, Monomagnesiumfosfaatti, Magnesiumdivetyfosfaatti, Magnesiumfosfaatti monoemäksinen, Monomagnesiumfosfaattia, Magnesiumdivetyfosfaattia, magnesiumfosfaatti, magnesiumfosfaattia
+fr:E343i, Phosphate monomagnésique, phosphate de magnésium
+hu:E343i, Monomagnézium-foszfát, Magnézium-dihidrogén-foszfát, Magnézium-foszfát egybázisú, Magnézium-foszfát
 it:E343i, Fosfato di magnesio, Diidrogeno fosfato di magnesio, fosfato di magnesio monobasico
-lt:E343i, Monomagnio fosfatas, Magnio divandenilio fosfatas, magnio fosfatas vienbazis
+lt:E343i, Monomagnio fosfatas, magnio fosfatas vienbazis
 lv:E343i, Monomagnija fosfāts, Magnija dihidrogēnfosfāts, Vienbāziskais magnija fosfāts
 mt:E343i, Fosfat monomanjeżiku
-nl:E343i, Monomagnesiumfosfaat, Magnesiumdiwaterstoffosfaat, monobasisch magnesiumfosfaat
+nl:E343i, Monomagnesiumfosfaat, Magnesiumdiwaterstoffosfaat, monobasisch magnesiumfosfaat, Magnesiumfosfaat
 pl:E343i, Fosforan monomagnezu, Diwodorofosforan magnezu, fosforan magnezu monozasadowy
 pt:E343i, Fosfato de monomagnési
 ro:E343i, Fosfat monomagnezic, Fosfat diacid de magneziu, Fosfat de magneziu monobazic
+sh:Magnezijum fosfat
 sk:E343i, Fosforečnan horečnatý
 sl:E343i, Monomagnezijev fosfat, magnezijev dihidrogenfosfat, magnezijev fosfat monobazični
-sv:E343i, Monomagnesiumfosfat, Magnesiumdivätefosfat
+sv:E343i, Monomagnesiumfosfat, Magnesiumdivätefosfat, Magnesiumfosfat
+ta:மக்னீசியம் பாசுபேட்டு
 additives_classes:en: en:stabiliser,en:thickener
 e_number:en: 343
 wikidata:en: Q2634889
+wikipedia:en: https://en.wikipedia.org/wiki/Magnesium_phosphate
 
 < en:E343
-en:E343ii, Dimagnesium phosphate, Magnesiumhydrogenphosphate, Magnesiumphosphate, dibasic, Dimagnesium orthophosphate
+en:E343ii, Dimagnesium phosphate, Magnesiumhydrogenphosphate, Magnesiumphosphate - dibasic, Dimagnesium orthophosphate
 bg:E343ii, Димагнезиев фосфат, Магнезиев хидрогенфосфат, магнезиев фосфат двуосновен, димагнезиев ортофосфат
 cs:E343ii, Hydrogenfosforečnan hořečnatý, Orthofosforečnan dihořečnatý
 da:E343ii, Dimagnesiumphosphat, Magnesiumhydrogenphosphat, dibasisk magnesiumphosphat, dimagnesiumorthophosphat
@@ -16689,7 +16694,7 @@ wikipedia_url:it: https://it.wikipedia.org/wiki/Malato di calcio
 
 en:E353, Metatartaric acid
 bg:E353, Метавинена киселина
-ca:E353, Àcid metatartàric
+ca:E353, Àcid metatartàric, acid metatartaric
 cs:E353, Metatartaric acid
 da:E353, Metavinsyre
 de:E353, Metaweinsäure
@@ -16769,7 +16774,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Тартрат кальция
 
 en:E355, Adipic acid, Hexanedioic acid
 bg:E355, Адипинова киселина, Хександиолова киселина
-ca:E355, Àcid adípic
+ca:E355, Àcid adípic, acid adipic
 cs:E355, Kyselina adipová, Kyselina hexandiová, Adipát
 da:E355, Adipinsyre, Hexandisyre
 de:E355, Adipinsäure, Hexandisäure, Hexan-1‚6-disäure, Adipate
@@ -16976,7 +16981,7 @@ wikidata:en: Q4747299
 
 en:E363, Succinic acid, Asuccin, Amber acid, 1/2-Ethanedicarboxylic acid, Butanedioic acid, Bernsteinsaeure, Ethylenesuccinic acid, Spirit of amber, Butanedionic acid, Bernsteinsaure, Succinate, Butandisaeure, Dihydrofumaric acid, Acidum succinicum, Acide butanedioique, Acide succinique
 bg:E363, Сукцинова киселина, Янтарна киселина, Бискарбоксиметил, Бутандиова киселина
-ca:E363, Àcid succínic
+ca:E363, Àcid succínic, acid succinic
 cs:E363, Kyselina jantarová, Sukcinát
 da:E363, Ravsyre, Succinat
 de:E363, Bernsteinsäure, 1/4-Butandisäure, Succinylsäure, Butandisäure
@@ -17423,7 +17428,7 @@ e_number:en: 384
 vegan:en: yes
 vegetarian:en: yes
 
-en:E385, Calcium disodium ethylenediaminetetraacetate, Calcium disodium EDTA, Calcium disodium ethylene diamine tetra-acetate, calcium-dinatrium-EDTA
+en:E385, Calcium disodium ethylenediaminetetraacetate, Calcium disodium EDTA, Calcium disodium ethylene diamine tetra-acetate, Calcium disodium ethylene diamine tetra-acetate, calcium disodium EDTA, calcium-dinatrium-EDTA
 bg:E385, Калциев динатриев етилен диамин тетраацетат, Калциев динатриев ЕДТА
 ca:E385, Etilendiaminotetracetat de calci i disodi, EDTA de calci i disodi
 cs:E385, Dvojsodnovápenatá sůl kyseliny diamintetraoctové
@@ -17663,7 +17668,7 @@ wikipedia_url:sl: https://sl.wikipedia.org/wiki/Fitična kislina
 
 en:E392, Extracts of rosemary, rosemary extract
 bg:E392, Екстракти от розмарин
-ca:E392, Extracte de romaní
+ca:E392, Extracte de romaní, extracte de romani
 cs:E392, Výtažky z rozmarýnu, Rozmarýnové extrakty
 da:E392, Ekstrakter af rosmarin, rosmarinekstrakt
 de:E392, Extrakt aus Rosmarin, Rosmarinextrakt
@@ -17724,7 +17729,7 @@ wikipedia_url:en: https://en.wikipedia.org/wiki/Lactobionic acid
 
 en:E400, Alginic acid
 bg:E400, Алгинова киселина, Линеен гликуроногликан
-ca:E400, Àcid algínic
+ca:E400, Àcid algínic, acid alginic
 cs:E400, Kyselina alginová, Lineární glykuronoglykan
 da:E400, Alginsyre, Lineær glycuronglycan, Alginat, Algininsyre
 de:E400, Alginsäure, Einkettiges Glycuronglycan
@@ -18353,7 +18358,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Арабиногалактан
 
 en:E410, Locust bean gum, Carob bean gum, Carob gum, garrofin gum
 bg:E410, Гума локуст бийн, Гума кароб бийн
-ca:E410, Goma de garrofí, Goma de garrofer
+ca:E410, Goma de garrofí, Goma de garrofer, goma de garrofi
 cs:E410, Guma karubin, karubin
 da:E410, Locust bean gum
 de:E410, Johannisbrotgummi
@@ -18369,7 +18374,7 @@ it:E410, Farina di carrube, Gomma di carrube
 ja:E410, ローカストビーンガム
 lt:E410, Saldžiųjų ceratonijų derva, Ceratonijų derva
 lv:E410, Ceratoniju augļu sveķi, Baltās akācijas sveķi, Ceratonijas sveķi
-mt:E410, Gomma tal-fażola tal-ħarrub
+mt:E410, Gomma tal-fażola tal-ħarrub, Gomma tal-fażola tal-ħarrub
 nb:E410, Johannesbrødkjernemel, Karobin
 nl:E410, Carobbegom
 pl:E410, Guma karobowa
@@ -18442,19 +18447,19 @@ e_number:en: 411
 vegan:en: yes
 vegetarian:en: yes
 
-en:E412, Guar gum, Gum cyamopsis
+en:E412, Guar gum, Gum cyamopsis, guar flour
 bg:E412, Гума гуар, Гума циамопсис, Гуарова гума
 ca:E412, Goma de guar
-cs:E412, Guma guar, Guma cyamopsis, Guarová guma, E 412, Guaranová guma
+cs:E412, Guma guar, Guma cyamopsis, Guarová guma, Guaranová guma
 da:E412, Guargummi
-de:E412, Guarkernmehl, Cyamopsis-Gummi, Guaran, Guakernmehl, E 412
+de:E412, Guarkernmehl, Cyamopsis-Gummi, Guaran, Guakernmehl, Guarkernmehl
 el:E412, Κομμι γκουαρ, Κόμμι κυάμοψης
-es:E412, Goma guar, Goma de guar, Goma de Cyamopsis, Goma de jaguar, E 412
+es:E412, Goma guar, Goma de guar, Goma de Cyamopsis, Goma de jaguar, Harina de guar
 et:E412, Guarkummi
-fi:E412, Guarkumi, Cyamopsiskumi, E 412, Guarkumia, Cyamopsiskumia
-fr:E412, Gomme de guar, gomme guar, gommes de guar, gomme de jaguar, Gomme cyamopsis, Farine de guar, CAS 9000-30-0, Farine Galligum de Guar, GALLIGUM G, Gyamopsis Tetragonolobus, farine de graines de guar, guar, 9000-30-0, farine de graine de guar
-hu:E412, Guargumi, Gum cyamopsis, guarenyv, guargyanta, guarmézga
-it:E412, Gomma di guar, Farina di semi di guar, Gomma cyamopsis, Guarano
+fi:E412, Guarkumi, Cyamopsiskumi, Guarkumia, Cyamopsiskumia, guarjauho
+fr:E412, Gomme de guar, gomme guar, gommes de guar, gomme de jaguar, Gomme cyamopsis, Farine de guar, CAS 9000-30-0, Farine Galligum de Guar, GALLIGUM G, Gyamopsis Tetragonolobus, farine de graines de guar, guar, farine de graine de guar, farine de guar
+hu:E412, Guargumi, Gum cyamopsis, guarenyv, guargyanta, guarmézga, guarliszt, guar liszt
+it:E412, Gomma di guar, Farina di semi di guar, Gomma cyamopsis, Guarano, Farina di guar
 lt:E412, Pupenių derva, Cyamopsis derva, Pupenių lipai
 lv:E412, Guāra sveķi, Ciamopsis sveķi
 mt:E412, Gomma tal-guar, Gomma cyamopsis
@@ -18463,10 +18468,10 @@ nl:E412, Guarpitmeel, Cyamopsisgom, Guargom
 pl:E412, Guma guar, Guma cyamopsis
 pt:E412, Goma de guar, Goma de cyamopsis, Goma guar
 ro:E412, Gumă de guar, Gumă de Cyamopsis
-ru:E412, Гуаровая камедь, Е412, Гуаран
+ru:E412, Гуаровая камедь, Гуаран
 sk:E412, Guarová guma, Guma cyamopsis
 sl:E412, Guar gumi, guma cyamopsis
-sv:E412, Guarkärnmjöl, Guargummi, Guarmjöl, E 412, Guarkärnsmjöl
+sv:E412, Guarkärnmjöl, Guargummi, Guarmjöl, Guarkärnsmjöl
 tr:E412, Guar zamkı, Guar gam, Guar gum, Guar gamı
 additives_classes:en: en:emulsifier,en:stabiliser,en:thickener
 e_number:en: 412
@@ -18594,7 +18599,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Трагакант
 
 en:E414, Acacia gum, gum arabic, gum acacia
 bg:E414, Акациева гума, Гума арабика
-ca:E414, Goma aràbiga
+ca:E414, Goma aràbiga, goma arabiga
 cs:E414, Arabská guma
 da:E414, Arabisk gummi (akaciegummi), Gummi arabikum
 de:E414, Gummi arabicum
@@ -18767,7 +18772,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Гуммиарабик
 
 en:E415, Xanthan gum
 bg:E415, Гума ксантан, Ксантанова гума
-ca:E415, Goma de xantè
+ca:E415, Goma de xantè, goma de xante
 cs:E415, Xanthan, Xanthanová guma, E 415, Xantan
 da:E415, Xanthangummi
 de:E415, Xanthan, Xanthangummi, E 415, Xantan
@@ -18782,7 +18787,7 @@ lt:E415, Ksantano derva
 lv:E415, Ksantāna sveķi
 mt:E415, Gomma xanthan
 nb:E415, Xantangummi
-nl:E415, Xanthaangom, Xanthaan
+nl:E415, Xanthaangom, Xanthaan, Xanthan
 pl:E415, Guma ksantanowa
 pt:E415, Goma xantana
 ro:E415, Gumă de xantan
@@ -18851,7 +18856,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Ксантановая каме�
 wikipedia_url:sl: https://sl.wikipedia.org/wiki/Ksantan gumi
 
 en:E416, Karaya-gum, Katilo, Kadaya, Gum sterculia, Sterculia, Karaya, gum karaya, Kullo
-bg:E416, Гума карая, Катило, кадая, гума sterculia, Sterculia, карая, куло
+bg:E416, Гума карая, Катило, кадая, гума sterculia, Sterculia, карая, гума карая, куло
 ca:E416, Goma de karaya
 cs:E416, Guma karaya, Katilo, kadaya, guma sterculia, karaya, kullo
 da:E416, Karaya-gum
@@ -18862,16 +18867,16 @@ et:E416, Karaiakummi
 fi:E416, Karaijakumi, Katilo, Kadaya, Sterculia-kumi, Sterculia, Karaija, Kullo, Karaijakumia, Sterculia-kumia
 fr:E416, Gomme karaya, Katilo, Kadaya, Gomme sterculia, Sterculia, Karaya, Kullo, Kuterra, Gomme de Sterculia
 hu:E416, Karayagumi, Katilo, Kadaya, Sterculia-gumi, Sterculia, Karaya, Gumi-Karaya Kullo, Karaya-gumi
-it:E416, Gomma karaya, Katilo, Kadaya, Gomma sterculia, Sterculia, Karaya, Kullo
+it:E416, Gomma karaya, Katilo, Kadaya, Gomma sterculia, Sterculia, Karaya, gomma karaya, Kullo
 lt:E416, Karaja derva, Katilo, Kadaya, sterkulijų derva, Sterculia, Karaya derva, Kullo, Sterkulijų lipai
-lv:E416, Karaja sveķi, Katilo, Kadaja, Sterculia sveķi, Sterculia, Karaja, Kullo
-mt:E416, Gomma tal-karaya, Katilo Kadaya, Gomma sterculia, Sterculia, Karaya, Kullo
+lv:E416, Karaja sveķi, Katilo, Kadaja, Sterculia sveķi, Sterculia, Karaja, Karaja sveķi, Kullo
+mt:E416, Gomma tal-karaya, Katilo Kadaya, Gomma sterculia, Sterculia, Karaya, gomma tal-karaya, Kullo
 nl:E416, Karayagom, Katilo, kadaya, sterculiagom, Sterculia, karaya, gom karaya kullo
 pl:E416, Guma karaya, Katilo, Kadaya, Guma sterculia, Sterculia, Karaya, Kullo
 pt:E416, Goma karaya, Katilo, kadaya, goma sterculia, Sterculia, Karaya, Kullo
-ro:E416, Gumă karaya, Katilo, Kadaya, Gumă sterculia, Sterculia, Karaya, Kullo
-sk:E416, Guma karaya, Katilo, Kadaya, Guma sterculia, Sterculia, Karaya, Kullo
-sl:E416, Karaja gumi, Katilo, Kadaya, gum sterculia, Sterculia, Karaya, Kullo
+ro:E416, Gumă karaya, Katilo, Kadaya, Gumă sterculia, Sterculia, Karaya, gumă Karaya, Kullo
+sk:E416, Guma karaya, Katilo, Kadaya, Guma sterculia, Sterculia, Karaya, guma karaya, Kullo
+sl:E416, Karaja gumi, Katilo, Kadaya, gum sterculia, Sterculia, Karaya, karaja gumi, Kullo
 sv:E416, Karayagummi
 additives_classes:en: en:emulsifier,en:stabiliser,en:thickener
 e_number:en: 416
@@ -19301,7 +19306,7 @@ el:E421, Μαννιτολη
 es:E421, Manitol, E 421
 et:E421, mannitool
 fi:E421, Mannitoli, Mannitolia
-fr:E421, Mannitol, 69-65-8
+fr:E421, Mannitol, mannitol, 69-65-8
 hu:E421, Mannit
 it:E421, mannitolo, Mannite, D-(-)-mannitolo
 lt:E421, manitolis, Manitas
@@ -19562,6 +19567,7 @@ nl:E425i, Konjacgom
 pl:E425i, Guma konjac
 pt:E425i, Goma de konjac
 ro:E425i, Gumă konjac
+ru:E425i, загуститель конжаковая камедь
 sk:E425i, Konjaková guma
 sl:E425i, Konjac gumi
 sv:E425i, Konjakgummi
@@ -19624,7 +19630,7 @@ wikidata:en: Q18967285
 
 en:E427, Cassia gum
 bg:E427, Гума касия
-ca:E427, Goma de càssia
+ca:E427, Goma de càssia, goma de cassia
 cs:E427, Guma cassia synonyma
 da:E427, Cassiagummi
 de:E427, Cassia-gummi
@@ -19796,7 +19802,7 @@ cs:E430, E430 food additive
 da:E430, E430 food additive
 de:E430, E430 food additive
 el:E430, E430 food additive
-es:E430, E430 food additive, Polioxietilen (8) estearato, Polioxietilen estearato, Polioxietilen (20) estearato
+es:E430, E430 food additive, Polioxietilen (8) estearato, Polioxietilen estearato, Polioxietilen (20) estearato, Polioxietilen estearato
 et:E430, E430 food additive
 fi:E430, Polyoksietyleeni(8)monostearaatti, Polyoksietyleeni(8)monostearaattia
 fr:E430, Stéarate de polyoxyéthylène (8)
@@ -19827,7 +19833,7 @@ el:E431, Στεατικο πολυοξυαιθυλενιο (40)
 es:E431, Estearato de polioxietileno (40), Estearato de polioxilo (40)
 et:E431, Polüoksüetüleen(40)stearaat, Polüoksüül(40)stereaat
 fi:E431, Polyoksyetyleeni(40)stearaatti, Polyoksyyli(40)stearaatti, Polyoksyetyleeni(40)stearaattia, Polyoksyyli(40)stearaattia
-fr:E431, Stéarate de polyoxyéthylène (40), Polyoxyethylene (40) stearate
+fr:E431, Stéarate de polyoxyéthylène (40), Polyoxyethylene (40) stearate, Stéarate de polyoxyéthylène 40
 hu:E431, Polioxietilén(40)-sztearát, Polioxil(40)-sztearát
 it:E431, Stearato di poliossietilene(40), Stearato poliossile (40)
 lt:E431, Polioksietileno (40) stearatas, Polioksilo (40) stearatas
@@ -20876,7 +20882,7 @@ e_number:en: 441
 
 en:E442, Ammonium phosphatides, Mixed ammonium salts of phosphorylated glycerides, Emulsifier YN, Ammonium phosphatide
 bg:E442, Амониеви фосфатиди
-ca:E442, Fosfàtid d'amoni
+ca:E442, Fosfàtid d'amoni, fosfatid d'amoni
 cs:E442, Amonné soli fosfatidových kyselin
 da:E442, Ammoniumphosphatider
 de:E442, Ammoniumphosphatide
@@ -21160,26 +21166,26 @@ wikidata:en: Q290828
 
 < en:E450
 en:E450iii, Tetrasodium diphosphate, Tetrasodium pyrophosphate, Tetrasodium disphosphate
-bg:E450iii, Тетранатриев дифосфат, Тетранатриев пирофосфат
+bg:E450iii, Тетранатриев дифосфат, Тетранатриев пирофосфат, тетранатриев дифосфат
 cs:E450iii, Difosforečnan sodný, Pyrofosforečnan tetrasodný
-da:E450iii, Tetranatriumdiphosphat, Tetranatriumpyrophosphat
-de:E450iii, Tetranatriumdiphosphat, Tetranatriumpyrophosphat
+da:E450iii, Tetranatriumdiphosphat, Tetranatriumpyrophosphat, tetranatriumdiphosphat
+de:E450iii, Tetranatriumdiphosphat, Tetranatriumpyrophosphat, Tetranatriumdiphosphat
 el:E450iii, Πυροφωσφορικο νατριο, Πυροφωσφορικό άλας νατρίου, διφωσφορικό νάτριο
 es:E450iii, Difosfato tetrasódico, Pirofosfato tetrasódico, difosfato de tetrasodio
 et:E450iii, Tetranaatriumdifosfaat
 fi:E450iii, Tetranatriumdifosfaatti, Tetranatriumdifosfaattia
 fr:E450iii, Diphosphate tétrasodique, Tetra-sodium pyrophosphate, CAS 7722-88-5, Pyrophosphate tétrasodique
-hu:E450iii, Tetranátrium-difoszfát, Tetranátrium-pirofoszfát
+hu:E450iii, Tetranátrium-difoszfát, Tetranátrium-pirofoszfát, Tetranátrium-difoszfát
 it:E450iii, Difosfato tetrasodico, Pirofosfato tetrasodico, disfosfato tetrasodico
-lt:E450iii, Tetranatrio difosfatas, Tetranatrio pirofosfatas
-lv:E450iii, Tetranātrija difosfāts, Tetranātrija pirofosfāts
+lt:E450iii, Tetranatrio difosfatas, Tetranatrio pirofosfatas, tetranatrio difosfatas
+lv:E450iii, Tetranātrija difosfāts, Tetranātrija pirofosfāts, Tetranātrija difosfāts
 mt:E450iii, Difosfat tetrasodiku, Pirofosfat tetrasodiku, Disfosfat tetrasodiku
 nl:E450iii, Tetranatriumdifosfaat, Tetranatriumpyrofosfaat
 pl:E450iii, Difosforan tetrasodowy, Pirofosforan czterosodowy, difosforan czterosodowy
 pt:E450iii, Difosfato tetrassódico, Pirofosfato tetrassódico, difosfato de tetrassódio
-ro:E450iii, Difosfat tetrasodic, Pirofosfat tetrasodic
-sk:E450iii, Difosforečnan tetrasodný, Pyrofosforečnan tetrasodný
-sl:E450iii, Tetranatrijev difosfat, tetranatrijev pirofosfat
+ro:E450iii, Difosfat tetrasodic, Pirofosfat tetrasodic, Difosfat tetrasodic
+sk:E450iii, Difosforečnan tetrasodný, Pyrofosforečnan tetrasodný, difosforečnan tetrasodný
+sl:E450iii, Tetranatrijev difosfat, tetranatrijev pirofosfat, tetranatrijev difosfat
 sv:E450iii, Tetranatriumdifosfat, Tetranatriumpyrofosfat
 additives_classes:en: en:emulsifier,en:humectant,en:sequestrant,en:stabiliser,en:thickener
 e_number:en: 450
@@ -21532,7 +21538,7 @@ el:E452i, Πολυφωσφορικο νατριο
 es:E452i, Polifosfato de sodio, Polifosfato sódico
 et:E452i, Naatriumpolüfosfaat
 fi:E452i, Natriumpolyfosfaatti, Natriumpolyfosfaatteja
-fr:E452i, Polyphosphate de sodium, Sel de Maddrell, Sel de Graham, Polyphosphates de sodium vitreux, Polyphosphates de sodium, Polyphosphate sodique, Polyphosphate de sodium insoluble, Polymétaphosphate de sodium, Métaphosphate de sodium insoluble, Métaphosphate de sodium, IMP, Héxamétaphosphate de sodium, Tétrapolyphosphate de sodium
+fr:E452i, Polyphosphate de sodium, Sel de Maddrell, Sel de Graham, Polyphosphates de sodium vitreux, Polyphosphates de sodium, Polyphosphate sodique, Polyphosphate de sodium insoluble, Polymétaphosphate de sodium, Métaphosphate de sodium insoluble, Métaphosphate de sodium, IMP, Héxamétaphosphate de sodium, Tétrapolyphosphate de sodium, Polyphosphate de sodium
 hu:E452i, Nátrium-polifoszfát
 it:E452i, Polifosfato di sodio
 lt:E452i, Natrio polifosfatas
@@ -21583,27 +21589,27 @@ wikipedia_title:cs: E 452
 wikipedia_url:cs: https://cs.wikipedia.org/wiki/E 452
 
 < en:E452
-en:E452iii, Sodium calcium polyphosphate
-bg:E452iii, Натриево-калциев полифосфат
+en:E452iii, Sodium calcium polyphosphate, Sodium calcium polyphosphate
+bg:E452iii, Натриево-калциев полифосфат, Натриево-калциев полифосфат
 cs:E452iii, Polyfosforečnan sodno-vápenatý
 da:E452iii, Natriumcalciumpolyphosphater, Natriumcalciumpolyphosphat
 de:E452iii, Natriumcalciumpolyphosphat
 el:E452iii, Πολυφωσφορικο νατριοασβεστιο, Πολυφωσφορικό νατριοασβέστιο
-es:E452iii, Polifosfato de sodio y calcio
+es:E452iii, Polifosfato de sodio y calcio, Polifosfato de sodio y calcio
 et:E452iii, Naatriumkaltsiumpolüfosfaat
-fi:E452iii, Natriumkalsiumpolyfosfaatti, Natriumkalsiumpolyfosfaattia
+fi:E452iii, Natriumkalsiumpolyfosfaatti, Natriumkalsiumpolyfosfaatti, Natriumkalsiumpolyfosfaattia, Natriumkalsiumpolyfosfaattia
 fr:E452iii, Polyphosphate de sodium-calcium, Polyphosphate calco-sodique
-hu:E452iii, Nátrium-kalcium-polifoszfát
+hu:E452iii, Nátrium-kalcium-polifoszfát, Nátrium-kalcium-polifoszfát
 it:E452iii, Polifosfato di sodio e calcio
-lt:E452iii, Natrio kalcio polifosfatas
-lv:E452iii, Nātrija kalcija polifosfāts
+lt:E452iii, Natrio kalcio polifosfatas, Natrio kalcio polifosfatas
+lv:E452iii, Nātrija kalcija polifosfāts, Nātrija kalcija polifosfāts
 mt:E452iii, Polifosfat tal-kalċju u tas-sodju
-nl:E452iii, Natriumcalciumpolyfosfaat
-pl:E452iii, Polifosforan sodowo-wapniowy
+nl:E452iii, Natriumcalciumpolyfosfaat, Natriumcalciumpolyfosfaat
+pl:E452iii, Polifosforan sodowo-wapniowy, Polifosforan sodowo-wapniowy
 pt:E452iii, Polifosfato de sódio e cálcio
-ro:E452iii, Polifosfat de sodiu și calciu
+ro:E452iii, Polifosfat de sodiu și calciu, Polifosfat de sodiu și calciu
 sk:E452iii, Polyfosforečnan sodno-vápenatý
-sl:E452iii, Natrijev kalcijev polifosfat
+sl:E452iii, Natrijev kalcijev polifosfat, natrijev kalcijev polifosfat
 sv:E452iii, Natriumkalciumpolyfosfat
 additives_classes:en: en:emulsifier,en:humectant,en:sequestrant,en:stabiliser,en:thickener
 e_number:en: 452
@@ -21622,7 +21628,7 @@ el:E452iv, Πολυφωσφορικο ασβεστιο, Μεταφωσφορικ
 es:E452iv, Polifosfato de calcio, Metafosfato cálcico
 et:E452iv, Kaltsiumpolüfosfaat, Kaltsiummetafosfaat
 fi:E452iv, Kalsiumpolyfosfaatti, Kalsiummetafosfaatti, Kalsiumpolyfosfaattia, Kalsiummetafosfaattia
-fr:E452iv, Polyphosphate de calcium, Polyphosphate calcique, Polymétaphosphate de calcium, Métaphosphate de calcium
+fr:E452iv, Polyphosphate de calcium, Polyphosphate de calcium, Polyphosphate calcique, Polymétaphosphate de calcium, Métaphosphate de calcium
 hu:E452iv, Kalcium-polifoszfát, Kalcium-metafoszfát
 it:E452iv, Polifosfato di calcio, Metafosfato di calcio
 lt:E452iv, Kalcio polifosfatas, Kalcio metafosfatas
@@ -22590,7 +22596,7 @@ from_palm_oil:en: maybe
 vegan:en: maybe
 vegetarian:en: maybe
 
-en:E470a, Sodium/potassium and calcium salts of fatty acids
+en:E470a, Sodium/potassium and calcium salts of fatty acids, Sodium/potassium and calcium salts of fatty acids
 bg:E470a, Натриеви/калиеви и калциеви соли на мастни киселини
 ca:E470a, Sal sòdica d'àcids grassos
 cs:E470a, Sodné/draselné a vápenaté soli mastných kyselin
@@ -22680,10 +22686,10 @@ cs:E471, Mono- a diglyceridy mastných kyselin, Glycerylmonostearát, glycerylmo
 da:E471, Mono- og diglycerider af fedtsyrer, Glycerylmonostearat, glycerylmonopalmitat
 de:E471, Mono- und Diglyceride von Speisefettsäuren, Glycerylmonostearat, Glycerylmonopalmitat, Glycerylmonooleat, Monostearin, Monopalmitin, Monoolein, E 471
 el:E471, Μονο- και διγλυκεριδια λιπαρων οξεων, Μονοστεατικό γλυκερύλιο, μονοπαλμιτικό γλυκερύλιο, μονοελαϊκό γλυκερύλιο, μονοστεατίνη, μονοπαλμιτίνη
-es:E471, mono- y diglicéridos de ácidos grasos, Monoglicéridos y diglicéridos de ácidos grasos, mono y diglicéridos de los ácidos grasos, Monodiglicéridos de ácidos grasos, Monoestearato de glicerilo, monopalmitato de glicerilo, monooleato de glicerilo, monoestearina, monopalmitina, monooleína, monoestearato de glicerina
+es:E471, mono- y diglicéridos de ácidos grasos, Monoglicéridos y diglicéridos de ácidos grasos, Mono y diglicéridos de ácidos grasos, mono y diglicéridos de los ácidos grasos, Monodiglicéridos de ácidos grasos, Monoestearato de glicerilo, monopalmitato de glicerilo, monooleato de glicerilo, monoestearina, monopalmitina, monooleína, monoestearato de glicerina
 et:E471, Rasvhapete mono- ja diglütseriidid, Glütserüülmonostearaat, glütserüülmonopalmitaat, glütserüülmonooleaat, monosteariin, monopalmitiin
 fi:E471, Rasvahappojen mono- ja diglyseridit, Glyseryylimonostearaatti, Glyseryylimonopalmitaatti, Glyseryylimono-oleaatti, Monosteariini, Monopalmitiini, Mono-oleiini
-fr:E471, Mono- et diglycérides d'acides gras alimentaires, Mono- et diglycérides d'acides gras, Monoglycérides et diglycérides d'acides gras, Monostéarate de glycérine, Monopalmitate de glycérine, Monooléate de glycérine, Monostéarine, monopalmitine, monooléine, Mono and diglycerides of fatty acids, glyceryl monostearate, glyceryl distearate
+fr:E471, Mono- et diglycérides d'acides gras alimentaires, Mono- et diglycérides d'acides gras, Monoglycérides et diglycérides d'acides gras, Mono et diglycérides d'acides gras, Monostéarate de glycérine, Monopalmitate de glycérine, Monooléate de glycérine, Monostéarine, monopalmitine, monooléine, Mono and diglycerides of fatty acids, glyceryl monostearate, glyceryl distearate, Monostéarine
 hu:E471, Zsírsavak mono- és digliceridjei, Gliceril-monosztearát, Gliceril-monopalmitát, Gliceril-monooleát, Monosztearin, monopalmitin, monoolein
 it:E471, Mono- e digliceridi degli acidi grassi, Monostearato di glicerile, monopalmitato di glicerile, monooleato di glicerile, monostearina, monopalmitina, monooleina, mono- e digliceridi degli acidi grassi alimentari
 lt:E471, Riebalų rūgščių mono- ir digliceridai, Glicerilmonostearatas, glicerilmonopalmitatas, glicerilmonooleatas, monostearinas, monopalmitinas, monooleinas
@@ -22880,7 +22886,7 @@ el:E472e, Εστερες του μονο- και διακετυλοτρυγικ�
 es:E472e, Ésteres monoacetiltartárico y diacetiltartárico de monoglicéridos y diglicéridos de ácidos grasos, Éster monoacetiltartárico de mono- y diglicéridos de ácidos grasos
 et:E472e, Rasvhapete mono- ja diglütseriidide estrid mono- ja diatsetüülviinhappega
 fi:E472e, Rasvahappojen mono- ja diglyseridien mono- ja diasetyyliviinihappoesterit, Rasvahappojen mono- ja diglyseridien mono- ja diasetyyliviinihappoestereitä
-fr:E472e, Ester Monoacéthyltartrique de mono- et diglycérides d'acides gras, Esters monoacétyltartriques et diacétyltartriques des mono- et diglycérides d'acides gras, esters monoacétyltartrique et diacétyltartrique des mono- et diglycérides d'acides gras, E 472e, DATEM
+fr:E472e, Ester Monoacéthyltartrique de mono- et diglycérides d'acides gras, Esters monoacétyltartriques et diacétyltartriques des mono- et diglycérides d'acides gras, esters monoacétyltartrique et diacétyltartrique des mono- et diglycérides d'acides gras, esters monoacétyltartriques et diacétyltartriques des mono- et diglycérides d'acides gras, E 472e, DATEM
 hu:E472e, Zsírsavak mono- és digliceridjeinek mono- és diacetil-borkősav-észterei
 it:E472e, Esteri mono- e diacetiltartarici di mono- e digliceridi degli acidi grassi
 lt:E472e, Riebalų rūgščių mono- ir digliceridų mono- ir diacetilvyno rūgšties esteriai, Riebiųjų rūgščių mono- ir digliceridų mono- ir diacetilvyno rūgšties esteriai
@@ -23010,7 +23016,7 @@ el:E473a, E473a food additive
 es:E473a, E473a food additive
 et:E473a, E473a food additive
 fi:E473a, E473a elintarvikelisäaine
-fr:E473a, Oligoesters de saccharose de type I, Oligoesters de saccharose de type II, Oligoesters de saccharose
+fr:E473a, Oligoesters de saccharose de type I, Oligoesters de saccharose de type II, Oligoesters de saccharose, Oligoesters de saccharose
 hu:E473a, Szacharóz oligoészterei
 it:E473a, E473a food additive
 lt:E473a, E473a food additive
@@ -23163,7 +23169,7 @@ wikipedia_url:pl: https://pl.wikipedia.org/wiki/Polirycynooleinian poliglicerolu
 wikipedia_url:pt: https://pt.wikipedia.org/wiki/Polirricinoleato de poliglicerol
 wikipedia_url:ru: https://ru.wikipedia.org/wiki/Полиглицерол полирицинолеат
 
-en:E477, Propane-1‚2-diol esters of fatty acids
+en:E477, Propane-1‚2-diol esters of fatty acids, Propane-1‚2-diol esters of fatty acids
 bg:E477, Пропан-1‚2-диол естери на мастни киселини
 ca:E477, Èster d'1‚2-propà-diol d'àcids grassos
 cs:E477, Estery propan-1‚2-diolu s mastnými kyselinami
@@ -23230,7 +23236,7 @@ el:E479b, Θερμικως οξειδωμενο σογιελαιο που εχε
 es:E479b, Aceite de soja oxidado térmicamente en interacción con monoglicéridos y diglicéridos de ácidos grasos
 et:E479b, Termiliselt oksüdeeritud sojaõli rasvhapete mono- ja diglütseriidide estrid
 fi:E479b, Termisesti hapetettu polymeroitu soijaöljy
-fr:E479b, Huile de soja oxydée par chauffage ayant réagi avec des mono- et diglycérides d'acides gras
+fr:E479b, Huile de soja oxydée par chauffage ayant réagi avec des mono- et diglycérides d'acides gras, Huile de soja oxydée par chauffage ayant réagi avec des mono- et diglycérides d'acides gras
 hu:E479b, Hőkezeléssel oxidált szójaolaj zsírsavak mono- és digliceridjeivel reagáltatva
 it:E479b, Prodotto di reazione dell'olio di soia ossidato termicamente con mono- e digliceridi degli acidi grassi, Olio di soia ossidato
 lt:E479b, Termiškai oksiduotas sojų aliejus, paveiktas riebalų rūgščių mono- ir digliceridų
@@ -23252,7 +23258,7 @@ en:E481, Sodium stearoyl-2-lactylate, Sodium stearoyl lactylate
 bg:E481, Натриев стераоил-2-лактилат, Натриев стеароил лактилат
 ca:E481, Estearoïl-2-lactilat de sodi, estearoïl-2-lactilat sòdic
 cs:E481, Stearoyl-2-mléčnan sodný, Stearoyllaktylát sodný
-da:E481, Natriumstearoyllactylat
+da:E481, Natriumstearoyllactylat, Natriumstearoyllactylat
 de:E481, Natriumstearoyl-2-lactylat, Natriumstearoyllaktylat, E 481, Natriumstearoyllactylat
 el:E481, Στεατοϋλο-2-γαλακτυλικο νατριο, Στεατοϋλογαλακτυλικό νάτριο
 es:E481, Estearoil-2-lactilato de sodio, Estearoil-lactilato de sodio, Sodio estearoil lactato, sodio estearoil lactilato
@@ -23351,7 +23357,7 @@ wikipedia_url:hu: https://hu.wikipedia.org/wiki/Kalcium-sztearoil-2-laktilát
 
 en:E483, Stearyl tartrate, Stearyl palmityl tartrate
 bg:E483, Стеарил тартарат
-ca:E483, Tartrat d'estearoïl
+ca:E483, Tartrat d'estearoïl, tartrat d'estearoil
 cs:E483, Vinan stearylu
 da:E483, Stearyltartrat
 de:E483, Stearyltartrat, Stearoyltartrat, E 483
@@ -23750,7 +23756,7 @@ nl:E492, Sorbitaantristearaat
 pl:E492, Tristearynian sorbitolu
 pt:E492, Triestearato de sorbitano
 ro:E492, Tristearat de sorbitan
-ru:E492, сорбитан-тристеарат
+ru:E492, сорбитан-тристеарат, сорбитан тристеарат
 sk:E492, Sorbitantristearát
 sl:E492, Sorbitan tristearat
 sv:E492, Sorbitantristearat, Sorbitan tristearat
@@ -23928,7 +23934,7 @@ es:E500, Carbonatos de sodio
 et:E500, E500 food additive
 fi:E500, natriumkarbonaatit
 fr:E500, Carbonates de sodium
-he:E500, קרבונטים של נתרן, נתרן קרבונט, נתרן ביקרבונט, נתרן מימן-קרבונט, נתרן ססקויקרבונט, נתרן פחמתי, סודיום קרבונטים, סודיום קרבונט, חומר מווסת חומציות, חומר התפחה, מווסת חומציות
+he:E500, קרבונטים של נתרן, נתרן קרבונט, נתרן ביקרבונט, נתרן מימן-קרבונט, נתרן ססקויקרבונט, נתרן פחמתי, סודיום קרבונטים, סודיום קרבונט
 hu:E500, nátrium-karbonátok
 it:E500, Carbonati di sodio
 lt:E500, E500 food additive
@@ -23944,7 +23950,7 @@ ru:E500, Карбонаты натрия
 sk:E500, E500 food additive
 sl:E500, E500 food additive
 sv:E500, natriumkarbonater
-tr:E500, Sodyum karbonat
+tr:E500
 additives_classes:en: en:stabiliser,en:thickener
 description:en: SODIUM CARBONATES is the generic term for a Na and CO3 combination.
 e_number:en: 500
@@ -24189,13 +24195,13 @@ hy:E500ii, Սոդա
 ia:E500ii, Bicarbonato de Sodium
 id:E500ii, Natrium bikarbonat
 is:E500ii, Matarsódi
-it:E500ii, Carbonato acido di sodio, Bicarbonato di sodio
+it:E500ii, Carbonato acido di sodio, Bicarbonato di sodio, carbonato acido di sodio
 ja:E500ii, 炭酸水素ナトリウム
 kk:E500ii, Ас содасы
 kn:E500ii, ಸೋಡಿಯಂ ಬೈ ಕಾರ್ಬೋನೇಟ್
 ko:E500ii, 탄산 수소 나트륨
-lt:E500ii, Natrio hidrokarbonatas, natrio rūgštusis karbonatas, sodos bikarbonatas
-lv:E500ii, Nātrija hidrogēnkarbonāts, Nātrija bikarbonāts, nātrija skābais karbonāts
+lt:E500ii, Natrio hidrokarbonatas, Natrio hidrokarbonatas, natrio rūgštusis karbonatas, sodos bikarbonatas
+lv:E500ii, Nātrija hidrogēnkarbonāts, Nātrija bikarbonāts, nātrija skābais karbonāts, nātrija bikarbonāts
 ml:E500ii, സോഡിയം ബൈകാർബണേറ്റ്
 mt:E500ii, Karbonat idroġenat tas-sodju, Bikarbonat tas-sodju, karbonat tal-aċidu tas-sodju, Bikarbonat tas-soda
 nb:E500ii, Natriumbikarbonat, Natriumhydrogenkarbonat
@@ -24207,10 +24213,10 @@ pa:E500ii, ਮਿੱਠਾ ਸੋਡਾ
 pl:E500ii, Wodorowęglan sodu, Diwęglan sodu, kwaśny węglan sodu, diwęglan sodowy
 pt:E500ii, Hidrogenocarbonato de sódio, Bicarbonato de sódio, carbonato ácido de sódio
 ro:E500ii, Bicarbonat de sodiu, Carbonat acid de sodiu, Bicarbonat
-ru:E500ii, натрий двууглекислый, бикарбонат натрия
+ru:E500ii, e500ii, натрий двууглекислый, бикарбонат натрия, бикарбонат-натрия
 sh:E500ii, Natrijum hidrogenkarbonat
 si:E500ii, සෝඩියම් බයිකාබනේට්
-sk:E500ii, Hydrogenuhličitan sodný, bikarbonát sodný, sóda bikarbóna
+sk:E500ii, Hydrogenuhličitan sodný, Hydrogenuhličitan sodný, bikarbonát sodný, sóda bikarbóna
 sl:E500ii, Natrijev hidrogenkarbonat, natrijev bikarbonat, kisli natrijev karbonat, soda bikarbona
 so:E500ii, Saadiyom bicarbonate
 sq:E500ii, Bikarbonati i natriumit
@@ -24625,7 +24631,7 @@ nl:E501ii, Kaliumwaterstofcarbonaat, Kaliumbicarbonaat
 pl:E501ii, Wodorowęglan potasu, Diwęglan potasu
 pt:E501ii, Hidrogenocarbonato de potássio, Bicarbonato de potássio
 ro:E501ii, Bicarbonat de potasiu
-sk:E501ii, Hydrogenuhličitan draselný
+sk:E501ii, Hydrogenuhličitan draselný, Hydrogenuhličitan draselný
 sl:E501ii, Kalijev hidrogenkarbonat, kalijev bikarbonat
 sv:E501ii, Kaliumvätekarbonat, Kaliumbikarbonat
 additives_classes:en: en:stabiliser
@@ -25284,7 +25290,7 @@ wikidata:en: Q18967227
 
 en:E507, Hydrochloric acid, Hydrogen chloride
 bg:E507, Солна киселина, Хлороводород
-ca:E507, Àcid clorhídric
+ca:E507, Àcid clorhídric, acid clorhidric
 cs:E507, Kyselina chlorovodíková, Chloran, E 507, Kyselina solná
 da:E507, Saltsyre
 de:E507, Salzsäure, E 507, Chlorwasserstoffsäure, Acidum hydrochloricum, Hydrochlorsäure
@@ -25750,20 +25756,20 @@ cs:E512, Stannous chloride, Chlorid cínatý
 da:E512, Stannochlorid, Tinchlorid
 de:E512, Zinnii-chlorid, Zinnchlorid
 el:E512, Χλωριουχος κασσιτερος(ιι), Χλωριούχος κασσίστερος
-es:E512, Cloruro de estaño, Cloruro de estaño II
+es:E512, Cloruro de estaño, Cloruro de estaño, Cloruro de estaño II
 et:E512, Tinakloriid, Tinakloriiddihüdraat
 fi:E512, Tinakloridi, TinaIIkloridi, Tinakloridia, Tina(II)kloridia
-fr:E512, Chlorure stanneux, chlorure d'étain, chlorure d'étainII, sel d'étain ou dichlorure d'étain, Dichlorure d'étain, Tin (II) dichloride, CI 77864, sel d'étain
+fr:E512, Chlorure stanneux, chlorure d'étain, chlorure d'étainII, sel d'étain ou dichlorure d'étain, Dichlorure d'étain, Tin (II) dichloride, CI 77864, sel d'étain, dichlorure d'étain
 hu:E512, Ón-klorid, ÓnII-klorid
 it:E512, Stannous cloruri, Cloruro di stagno, Cloruro stannoso
-lt:E512, Alavo chloridas
-lv:E512, Alvas hlorīds
+lt:E512, Alavo chloridas, Alavo chloridas
+lv:E512, Alvas hlorīds, Alvas hlorīds
 mt:E512, Klorur stannuż, Klorur tal-landa
 nl:E512, Tiniichloride, Tinchloride
 pl:E512, Chlorek cynawy, Chlorek cyny II
 pt:E512, Cloreto estanoso, Cloreto de estanho, Cloreto de estanho II
 ro:E512, Clorură stanoasă, Clorură de staniu
-sk:E512, Chlorid cínatý
+sk:E512, Chlorid cínatý, Chlorid cínatý
 sl:E512, Kositrov ii klorid, kositrov klorid
 sv:E512, Tennklorid, TennIIklorid
 additives_classes:en: en:antioxidant
@@ -25817,7 +25823,7 @@ wikipedia_url:sk: https://sk.wikipedia.org/wiki/Chlorid cínatý
 
 en:E513, Sulphuric acid, Oil of vitriol, sulfuric acid, H2SO4
 bg:E513, Сярна киселина
-ca:E513, Àcid sulfúric
+ca:E513, Àcid sulfúric, acid sulfuric
 cs:E513, Kyselina sírová
 da:E513, Svovlsyre
 de:E513, Schwefelsäure, Vitriolöl
@@ -26110,7 +26116,7 @@ el:E514ii, Οξινο θειικο νατριο, Όξινο θειικό άλα�
 es:E514ii, Sulfato ácido de sodio, Hidrogenosulfato de sodio
 et:E514ii, Naatriumvesiniksulfaat
 fi:E514ii, Natriumvetysulfaatti, Hapan natriumsulfaatti, natriumbisulfaatti, Natriumvetysulfaattia, natriumbisulfaattia, Glaubersuola, Sal mirabilis, Glauberin suola, Sal mirabile, Glaubersuolaa, Glauberin suolaa
-fr:E514ii, Sulfate acide de sodium, bisulfate de sodium, Hydrogénosulfate de sodium, Sel de Glauber, Sulfate de soude
+fr:E514ii, Sulfate acide de sodium, bisulfate de sodium, Hydrogénosulfate de sodium, bisulfate de sodium, Sel de Glauber, Sulfate de soude
 hu:E514ii, Nátrium-hidrogén-szulfát, Savas nátrium-szulfát
 it:E514ii, Solfato acido di sodio
 lt:E514ii, Natrio vandenilio sulfatas, Rūgštusis natrio sulfatas, natrio bisulfatas
@@ -26933,7 +26939,7 @@ wikidata:en: Q419370
 
 en:E524, Sodium hydroxide, Caustic soda
 bg:E524, Натриев хидроксид, Сода каустик, натриева основа
-ca:E524, Hidròxid de sodi
+ca:E524, Hidròxid de sodi, hidroxid de sodi
 cs:E524, Hydroxid sodný, Kaustická soda, Louh sodný
 da:E524, Natriumhydroxid, Kaustisk soda, Ætsnatron, Natronlud
 de:E524, Natriumhydroxid, Ätznatron, Natriumoxydhydrat, Natronhydrat, Ätzsoda, Kaustisches Soda
@@ -27031,7 +27037,7 @@ wikipedia_url:sl: https://sl.wikipedia.org/wiki/Natrijev hidroksid
 
 en:E525, Potassium hydroxide
 bg:E525, Калиев хидроксид
-ca:E252, Nitrat de potassi, Hidròxid de potassi, hydroxid de potassi
+ca:E525, Hidròxid de potassi, hydroxid de potassi
 cs:E525, Hydroxid draselný, Louh draselný
 da:E525, Kaliumhydroxid
 de:E525, Kaliumhydroxid, Kaliumoxidhydrat, Kaustisches Kali, Kaliumhydrat, Ätzkali, Kalihydrat, E 525
@@ -27302,7 +27308,7 @@ wikipedia_url:sl: https://sl.wikipedia.org/wiki/Amonijev hidroksid
 
 en:E528, Magnesium hydroxide
 bg:E528, Магнезиев хидроксид
-ca:E528, Hidròxid de magnesi
+ca:E528, Hidròxid de magnesi, hidroxid de magnesi
 cs:E528, Hydroxid hořečnatý
 da:E528, Magnesiumhydroxid
 de:E528, Magnesiumhydroxid
@@ -27382,7 +27388,7 @@ wikipedia_url:sl: https://sl.wikipedia.org/wiki/Magnezijev hidroksid
 
 en:E529, Calcium oxide
 bg:E529, Калциев оксид, Негасена вар
-ca:E529, Òxid de calci
+ca:E529, Òxid de calci, oxid de calci
 cs:E529, Oxid vápenatý, Vápno, Nehašené vápno, Pálené vápno, Kysličník vápenatý
 da:E529, Calciumoxid, Kalciumoxid, Brændt kalk
 de:E529, Calciumoxid, Kalziumoxid, Ätzkalk, Freikalk, Branntkalk, Kalkerde, Hartbrannt, Feinkalk, Brandkalk, Weichbrannt, E 529, gebrannter Kalk, ungelöschter Kalk
@@ -27479,7 +27485,7 @@ wikipedia_url:sl: https://sl.wikipedia.org/wiki/Kalcijev oksid
 
 en:E530, Magnesium oxide, magnesia
 bg:E530, Магнезиев оксид
-ca:E530, Òxid de magnesi
+ca:E530, Òxid de magnesi, oxid de magnesi
 cs:E530, Oxid hořečnatý
 da:E530, Magnesiumoxid
 de:E530, Magnesiumoxid, Bittererde, E 530, Weiße Magnesia
@@ -27633,7 +27639,7 @@ es:E536, Ferrocianuro de potasio, Ferrocianuro potásico, Prusiato de potasa, He
 et:E536, Kaaliumheksatsüanoferraatii, Kollane veresool
 fi:E536, Kaliumferrosyanidi, Kaliumferrosyanidia
 fr:E536, Ferrocyanure de potassium, ferronitrile de potassium, K4Fe(CN)6, 13943-58-3, 14459-95-1, C6FeK4N6
-hu:E536, Kálium-ferro-cianid, Sárgavérlúgsó, Kálium-ferrocianid
+hu:E536, Kálium-ferro-cianid, Kálium-ferro-cianid, Sárgavérlúgsó, Kálium-ferrocianid
 it:E536, Ferrocianuro di potassio, K4(Fe(CN)6)·3H2O
 lt:E536, Kalio ferocianidas, Šarmo geltonasis prusidas
 lv:E536, Kālija ferocianīds, Kālija dzeltenais asinssāls, Kālija heksacianoferāts
@@ -28145,7 +28151,7 @@ wikidata:en: Q18944661
 
 en:E551, Silicon dioxide, Silica, SiO2
 bg:E551, Силициев диоксид
-ca:E551, Diòxid de silici
+ca:E551, Diòxid de silici, dioxid de silici
 cs:E551, Oxid křemičitý
 da:E551, Siliciumdioxid
 de:E551, Siliciumdioxid, Kieselsäure
@@ -28153,7 +28159,7 @@ el:E551, Διοξειδιο του πυριτιου, Πυριτία
 es:E551, Dióxido de silicio, Sílice, óxido de silicio IV
 et:E551, Ränidioksiid
 fi:E551, Piidioksidi, Silika, Piidioksidia, Silikaa
-fr:E551, Dioxyde de silicium, silice, Gel bleu de silice, Gel 60 de silice, Silicon dioxide, terre diatomée, terre de diatomée, Silica, CI 7811, Cab-o-sil, Diatomaceous earth calcined, Diatomaceous silica, Dioxosilane, Pigment White 27, Silanox 101, Siliceous earth, Solum diatomeae, White carbon, CAS 7631-86-9
+fr:E551, Dioxyde de silicium, silice, Gel bleu de silice, Gel 60 de silice, Dioxyde de silicium, Silicon dioxide, terre diatomée, terre de diatomée, Silica, CI 7811, Cab-o-sil, Diatomaceous earth calcined, Diatomaceous silica, Dioxosilane, Pigment White 27, Silanox 101, Siliceous earth, Silicon dioxide, Solum diatomeae, White carbon, CAS 7631-86-9
 hu:E551, Szilícium-dioxid, Szilika
 it:E551, Biossido di silicio, Silice
 ja:E551, 二酸化ケイ素, 微粒二酸化ケイ素
@@ -28370,7 +28376,7 @@ pl:E553b, Talk, Kamień mydlany
 pt:E553b, Talco, Pedra sabão, Esteatite, Esteatita
 ro:E553b, Talc
 ru:E553b, Тальк
-sk:E553b, Mastenec, Talk
+sk:E553b, Mastenec, Mastenec, Talk
 sl:E553b, Smukec, Lojevec
 sv:E553b, Talk
 additives_classes:en: en:thickener
@@ -28383,7 +28389,7 @@ en:E553ai, Magnesium silicate, Synthetic magnesium silicate
 bg:E553ai, Магнезиев силикат
 cs:E553ai, Křemičitan hořečnatý
 da:E553ai, Magnesiumsilicat
-de:E553ai, Magnesiumsilicat, Florisil, Magnesiumtrisilikat
+de:E553ai, Magnesiumsilicat, Florisil, Magnesiumtrisilikat, Magnesiumsilicat
 el:E553ai, Πυριτικο μαγνησιο
 es:E553ai, Silicato magnésico
 et:E553ai, Magneesiumsilikaat
@@ -28664,7 +28670,7 @@ wikipedia_url:sk: https://sk.wikipedia.org/wiki/Bentonit
 
 en:E559, Aluminium silicate, Kaolin
 bg:E559, Алуминиев силикат, Каолин
-ca:E559, Silicat d'alumini, Caolí
+ca:E559, Silicat d'alumini, Caolí, caoli
 cs:E559, Křemičitan hlinitý, Hydratovaný křemičitan hlinitý, kaolin
 da:E559, Aluminiumsilicat, Kaolin
 de:E559, Aluminiumsilicat, Kaolin
@@ -28747,7 +28753,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Метасиликат кали�
 
 en:E570, Fatty acids, Linear fatty acids, caprylic acid (C8), caprylic acid, capric acid (C10), capric acid, lauric acid (C12), lauric acid, myristic acid (C14), myristic acid, palmitic acid (C16), palmitic acid, stearic acid (C18), stearic acid, fatty acid
 bg:E570, Мастни киселини, Мастна киселина
-ca:E570, Àcid gras
+ca:E570, Àcid gras, acid gras
 cs:E570, Mastné kyseliny, Mastné kyseliny s rovným, nerozvětveným řetězcem, kyselina kaprylová (C8), kyselina kaprinová (C10), kyselina laurová (C12), kyselina myristová (C14), kyselina palmitová (C16), kyselina stearová (C18), Mastná kyselina, Nenasycené mastné kyseliny, Nenasycená mastná kyselina, E 570
 da:E570, Fedtsyrer, Lineære fedtsyrer, caprylsyre (C8), caprinsyre (C10), laurinsyre (C12), myristinsyre (C14), palmitinsyre (C16), stearinsyre (C18), Fedtsyre, Enbasisk syre
 de:E570, Speisefettsäuren, Fettsäuren, Ungesättigte Fettsäure, Fettsäuremuster, Essentielle Fettsäure, Gesättigte Fettsäure, Fettsäure, E 570
@@ -28879,7 +28885,7 @@ de:E572, Magnesiumstearat
 el:E572, E572 food additive
 es:E572, E572 food additive, estearato de calcio
 et:E572, E572 food additive
-fi:E572, Magnesiumstearaatti
+fi:E572, Magnesiumstearaatti, Magnesiumstearaatti
 fr:E572, Stéarate de magnésium, C36H70MgO4, 557-04-0
 hu:E572, Magnézium-sztearát
 it:E572, Stearato di magnesio, C36H70MgO4
@@ -28962,7 +28968,7 @@ vegetarian:en: yes
 
 en:E574, Gluconic acid, D-gluconic acid
 bg:E574, Глюконова киселина, D-глюконова киселина
-ca:E574, Àcid glucònic
+ca:E574, Àcid glucònic, acid gluconic
 cs:E574, Kyselina glukonová
 da:E574, Gluconsyre
 de:E574, Gluconsäure, D-Gluconsäure, Glukonsäure, E 574, Gluconat, Dextronsäure
@@ -29317,7 +29323,7 @@ wikipedia_url:en: https://en.wikipedia.org/wiki/Magnesium gluconate
 
 en:E585, Ferrous lactate, Iron-II lactate
 bg:E585, Феро лактат, желязо-II лактат
-ca:E585, Lactat ferrós
+ca:E585, Lactat ferrós, lactat ferros
 cs:E585, Mléčnan železnatý
 da:E585, Ferrolactat, Jern-II-lactat
 de:E585, Eisen-ii-lactat, Eisenlactat
@@ -29385,7 +29391,7 @@ efsa_evaluation_url:en: http://dx.doi.org/10.2903/j.efsa.2014.3643
 
 en:E620, Glutamic acid, L-Glutamic acid
 bg:E620, Глутаминова киселина, L-глутаминова киселина, Глутамат
-ca:E620, Àcid glutàmic
+ca:E620, Àcid glutàmic, acid glutamic
 cs:E620, Kyselina glutamová, Kyselina L-glutamová, kyselina 2-aminoglutarová, E 620, L-glutamát
 da:E620, Glutaminsyre, L-Glutaminsyre, Glutamat, E-620
 de:E620, Glutaminsäure, L-Glutaminsäure, E 620
@@ -29503,9 +29509,9 @@ nl:E621, Mononatriumglutamaat, Natriumglutamaat, MSG, Vetsin, Ve tsin
 pl:E621, Glutaminian monosodowy, Glutaminian sodu
 pt:E621, Glutamato monossódico, Glutamato de sódio, Glutamato
 ro:E621, Glutamat monosodic, Glutamat de sodiu, Glumat de monosodiu
-rs:E621, mononatrijum glutamat, mononatrijum-glutaminat
-ru:E621, Глутамат натрия, Вэйцзин, Фе-цзин, Вейцзин, Глютамат натрия, Адзи-но-мото, Глутаминат натрия, Е621, Е-621, глутамат натрия 1-замещенный, усилитель вкуса и аромата e621, усилитель вкуса и аромата глутамат натрия
-sk:E621, Glutaman sodný, E 621
+rs:E621, mononatrijum glutamat, mononatrijum-glutaminat, mononatrijum-glutamat, mononatrijum glutaminat
+ru:E621, Глутамат натрия, Вэйцзин, Фе-цзин, Вейцзин, Глютамат натрия, Адзи-но-мото, Глутаминат натрия, Е621, Е-621, глутамат натрия 1-замещенный, глутамат натрия 1 замещенный, усилитель вкуса и аромата e621, усилитель вкуса и аромата глутамат натрия
+sk:E621, Glutaman sodný, Glutaman sodný, E 621
 sl:E621, Mononatrijev glutamat, natrijev glutamat, mononatrijevgluamat
 sv:E621, Mononatriumglutamat, Natriumglutamat, Monosodiumglutamat, E 621, Smaksalt, Weijing
 additives_classes:en: en:flavour-enhancer
@@ -29611,7 +29617,7 @@ nl:E622, Monokaliumglutamaat, Kaliumglutamaat
 pl:E622, Glutaminian monopotasowy, Glutaminian potasu
 pt:E622, Glutamato monopotássico, Glutamato de potássio
 ro:E622, Glutamat monopotasic, Glutamat de potasiu
-sk:E622, Glutaman draselný
+sk:E622, Glutaman draselný, Glutaman draselný
 sl:E622, Monokalijev glutamat, kalijev glutamat
 sv:E622, Monokaliumglutamat
 e_number:en: 622
@@ -29759,7 +29765,7 @@ wikipedia_url:nl: https://nl.wikipedia.org/wiki/Magnesiumdiglutamaat
 
 en:E626, Guanylic acid, guanosine monophosphate
 bg:E626, Гуанилова киселина
-ca:E626, Àcid guanílic
+ca:E626, Àcid guanílic, acid guanilic
 cs:E626, Guanylic acid
 da:E626, Guanylsyre, Guanosinmonofosfat
 de:E626, Guanylsäure, Guanosinmonophosphat
@@ -29840,11 +29846,11 @@ it:E627, Guanilato bisodico, Guanilato sodico
 lt:E627, Dinatrio guanilatas, Natrio guanilatas
 lv:E627, Dinātrija guanilāts, Nātrija guanilāts
 mt:E627, Gwanilat disodiku, Gwanilat tas-sodju
-nl:E627, Natriumguanylaat
+nl:E627, Natriumguanylaat, Natriumguanylaat
 pl:E627, Guanylan disodowy, Guanylan sodu, guanozyno-5′-monofosforan disodu
 pt:E627, Guanilato dissódico, Guanilato de sódio
 ro:E627, Guanilat disodic, Guanilat de sodiu
-ru:E627, Двунатриевый гуанилат
+ru:E627, e627, Двунатриевый гуанилат
 sk:E627, Guanylan disodný, Guanylan sodný
 sl:E627, Dinatrijev gvanilat, natrijev gvanilat
 sv:E627, Dinatriumguanylat, Natriumguanylat
@@ -29944,7 +29950,7 @@ wikipedia_url:es: https://es.wikipedia.org/wiki/Guanilato de calcio
 
 en:E630, Inosinic acid
 bg:E630, Инозинова киселина
-ca:E630, Àcid inosínic
+ca:E630, Àcid inosínic, acid inosinic
 cs:E630, Inosinová kyselina
 da:E630, Inosinsyre
 de:E630, Inosinsäure, Inosinmonophosphat
@@ -30160,7 +30166,7 @@ es:E635, 5'-ribonucleótido disódico
 et:E635, Dinaatrium-5'-ribonukleotiid
 fi:E635, Dinatrium-5'-ribonukleotidi, Dinatrium-5'-ribonukleotidia
 fr:E635, 5'-ribonucléotide disodique, 5'-ribonucléotides disodiques, 5'-ribonucléotides de sodium
-hu:E635, Dinátrium-5'-ribonukleotid, dinátrium-5-ribonukleotidok
+hu:E635, Dinátrium-5'-ribonukleotid, dinátrium-5-ribonukleotid, dinátrium-5-ribonukleotidok
 it:E635, 5'ribonucleotide di disodio, disodio 5'-ribonucleotidi
 lt:E635, Dinatrio 5'-ribonukleotidas
 lv:E635, Dinātrija 5'-ribonukleotīds
@@ -30169,7 +30175,7 @@ nl:E635, Dinatrium-5'-ribonucleotiden
 pl:E635, 5'-rybonukleotydy disodowe
 pt:E635, 5'-ribonucleótidos dissódicos
 ro:E635, 5'-ribonucleotidă disodică
-ru:E635, 5-рибонуклеотиды натрия 2-замещенные, 2-замещенный 5'-гуанилат натрия, 5 гуанилат натрия 2 замещенный
+ru:E635, e635, 5-рибонуклеотиды натрия 2-замещенные, 2-замещенный 5'-гуанилат натрия, 5 гуанилат натрия 2 замещенный
 sk:E635, 5'-ribonukleotid disodný
 sl:E635, Dinatrijev 5'-ribonukleotid
 sv:E635, Dinatrium-5'-ribonukleotider
@@ -30642,7 +30648,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Полидиметилсилок
 < en:E900
 en:E900a, Dimethyl polysiloxane, Polydimethyl siloxane, Silicone fluid, Silicone oil, Polydimethylsiloxane, dimethicone, dimethylpolysiloxane
 bg:E900a, Диметилполисилоксан, Полидиметил силоксан, течен силикон, силиконово масло
-ca:E900a, Dimetilpolisiloxà
+ca:E900a, Dimetilpolisiloxà, dimetilpolisiloxa
 cs:E900a, Dimethylpolysiloxan, silikonový olej, Amodimethicone
 da:E900a, Dimethylpolysiloxan, Polydimethylsiloxan, siliconeolie
 de:E900a, Dimethylpolysiloxan, Polydimethylsiloxan, Silicone, Baysilon, Dimeticon
@@ -30780,11 +30786,11 @@ bg:E901, Пчелен восък бял и жълт, Пчелен восък, П
 ca:E901, Cera d'abelles
 cs:E901, Včelí vosk bílý a žlutý, Včelí vosk, Včelí vosk bílý, Včelí vosk žlutý, Bílý vosk, E 901
 da:E901, Bivoks hvidt og gult, Bivoks, Bivoks hvidt, Bivoks gult, Hvidt voks, E-901
-de:E901, Bienenwachs weiß und gelb, Bienenwachs, Bienenwachs weiß, Bienenwachs gelb, weißes Wachs, E 901, Myricin, Cera Flava, Bienenwachs weiss und gelb
+de:E901, Bienenwachs weiß und gelb, Bienenwachs, Bienenwachs weiß, Bienenwachs gelb, weißes Wachs, Bienenwachs, E 901, Myricin, Cera Flava, Bienenwachs weiss und gelb
 el:E901, Κηρος μελισσων, λευκος και κιτρινος, Λευκός κηρός
 es:E901, Cera de abeja blanca y amarilla, Cera de abeja, Cera de abeja blanca, Cera de abeja amarilla, Cera blanca, Cera estampada, cera amarilla de abejas
 et:E901, Kollane ja valge meevaha, Valge vaha, Mesilasvaha, Vaha
-fi:E901, Mehiläisvaha valkoinen ja keltainen, Mehiläisvaha, Mehiläisvaha valkoinen, Mehiläisvaha keltainen, Valkoinen mehiläisvaha, Mehiläisvahaa valkoista ja keltaista, Mehiläisvahaa, Mehiläisvahaa valkoista, Mehiläisvahaa keltaista, Valkoista mehiläisvahaa
+fi:E901, Mehiläisvaha valkoinen ja keltainen, Mehiläisvaha, Mehiläisvaha valkoinen, Mehiläisvaha keltainen, Valkoinen mehiläisvaha, Mehiläisvahaa valkoista ja keltaista, Mehiläisvahaa, Mehiläisvahaa valkoista, Mehiläisvahaa keltaista, Valkoista mehiläisvahaa, Mehiläisvaha‚ valkoinen ja keltainen
 fr:E901, Cire d'abeille, Cire d'abeille alimentaire, Cire d'abeille blanchâtre, Cire d'abeille jaunâtre, Cire blanche, cire jaune, Cire d'abeilles, Cire d'abeille blanche et jaune, 8012-89-3, 8006-40-4
 hu:E901, Fehér és sárga méhviasz, Méhviasz, Fehér méhviasz, Sárga méhviasz, Fehér viasz
 it:E901, Cera d'api binaca e gialla, Cera d'api, Cera d'api binaca, Cera d'api gialla, Cera vergine
@@ -31006,7 +31012,7 @@ et:E904, Shellac, Šellak
 fa:E904, شلاک
 fi:E904, Sellakka, Valkaistu sellakka, Sellakkaa, Valkaistua sellakkaa
 fo:E904, Skellakk
-fr:E904, Gomme-laque, Shellac, Gomme laque blanchie, gomme schellac
+fr:E904, Gomme-laque, gomme laque, Shellac, Gomme laque blanchie, gomme schellac
 he:E904, שלאק
 hi:E904, चपड़ा
 hu:E904, Sellak, Fehérített sellak
@@ -31157,7 +31163,7 @@ hi:E905a, खनिज तेल
 hu:E905a, Ásványi olaj
 hy:E905a, Հանքային յուղեր
 id:E905a, Minyak mineral
-it:E905a, Olio minerale
+it:E905a, E905a, Olio minerale
 ja:E905a, 鉱油
 ko:E905a, 광물유
 lt:E905a, E905a food additive
@@ -31665,11 +31671,11 @@ fi:E907, Vetykäsitelty poly-1-dekeeni, Vetykäsitelty polydek-1-eeni, Puhdistet
 fr:E907, Poly-1-décène hydrogéné, Polydéc-1-ène hydrogéné
 hu:E907, Hidrogénezett poli-1-decén, Hidrogénezett polidec-1-én
 it:E907, Poli-1-decene idrogenato, Polidec-1-ene idrogenato
-lt:E907, Hidrintas poli(1-decenas)
+lt:E907, Hidrintas poli(1-decenas), Hidrintas poli(1-decenas)
 lv:E907, Hidrogenēts poli-1-decēns, Hidrogenēts polidec-1-ēns
 mt:E907, Poli-1-deċen idroġinata, Polideċ-1-en idroġenat
 nl:E907, Gehydrogeneerd poly-1-deceen, Gehydrogeneerd polydec-1-een
-pl:E907, Uwodorniony poli-1-deken
+pl:E907, Uwodorniony poli-1-deken, Uwodorniony poli-1-deken
 pt:E907, Poli-1-deceno hidrogenado, Polidec-1-eno hidrogenado
 ro:E907, Poli-1-decenă hidrogenată, Polidec-1-enă hidrogenată
 sk:E907, Hydrogenovaný poly-1-decén, Hydrogenovaný polydec-1-én
@@ -31844,7 +31850,7 @@ wikidata:en: Q18944655
 
 en:E912, Montanic acid esters, Montan acid esters
 bg:E912, Естери на монтановата киселина
-ca:E912, Èster d'àcid montànic
+ca:E912, Èster d'àcid montànic, ester d'acid montanic
 cs:E912, Montan acid esters
 da:E912, Montansyreestere
 de:E912, Montansäureester
@@ -32231,7 +32237,7 @@ wikipedia_url:ru: https://ru.wikipedia.org/wiki/Хлорид нитрозила
 
 en:E920, L-cysteine hydrochloride, L-Cysteine, L-2-Amino-3-mercaptopropionic acid, L-Cys, (R)-2-Amino-3-mercaptopropanoic acid, (2R)-2-amino-3-sulfanylpropanoic acid, (2R)-2-amino-3-mercaptopropanoic acid
 bg:E920, L-цистеин
-ca:E920, L-cisteïna
+ca:E920, L-cisteïna, L-cisteina
 cs:E920, L-cystein, Cystein
 da:E920, L-cystein, Cystein
 de:E920, L-cystein, Cystein, D-Cystein, Cysteinhydrochlorid-Monohydrat, Zystein, E 920
@@ -32819,7 +32825,7 @@ sh:E927a, Azodikarbonamid
 sk:E927a, E927a food additive
 sl:E927a, E927a food additive
 sr:E927a, Azodikarbonamid
-sv:E927a, E927a food additive
+sv:E927a, E927a, E927a food additive
 ta:E927a, அசோ-டை-கார்போனமைடு
 zh:E927a, 偶氮甲酰胺
 e_number:en: 927a
@@ -32874,7 +32880,7 @@ ml:E927b, യൂറിയ
 mn:E927b, Шүвтэр
 mr:E927b, युरिया खत
 ms:E927b, Urea
-mt:E927b, Karbamida
+mt:E927b, E927b, Karbamida
 nb:E927b, urea
 ne:E927b, युरिया
 nl:E927b, Carbamide, Ureum, Urea
@@ -32914,7 +32920,7 @@ de:E928, Dibenzoylperoxid, DBPO, Benzoylperoxid, Benzylperoxyd
 el:E928, E928 food additive
 es:E928, Peróxido de benzoílo
 et:E928, Bensoüülperoksiid
-fi:E928, Bentsoyyliperoksidi, Basiron AC, Brevoxyl, Bentsoyylisuperoksidi, Dibentsoyyliperoksidi, Bentsoeyyliperoksidi, Bentsoyylisuperoksidia, Dibentsoyyliperoksidia, Bentsoeyyliperoksidia
+fi:E928, Bentsoyyliperoksidi, Basiron AC, Brevoxyl, Bentsoyylisuperoksidi, Dibentsoyyliperoksidi, Bentsoeyyliperoksidi, Bentsoyyliperoksidi, Basiron AC, Brevoxyl, Bentsoyylisuperoksidia, Dibentsoyyliperoksidia, Bentsoeyyliperoksidia
 fr:E928, peroxyde de benzoyle
 hu:E928, benzoil-peroxid, benzol-peroxid
 it:E928, Benzoperossido
@@ -33483,7 +33489,7 @@ wikidata:en: Q627
 
 en:E942, Nitrous oxide
 bg:E942, Азотист оксид, Диазотен оксид, Райски газ
-ca:E942, Òxid nitrós
+ca:E942, Òxid nitrós, oxid nitros
 cs:E942, Oxid dusný, Azoxid, Rajský plyn, Kysličník dusný, Azooxid, E 942
 da:E942, Dinitrogenoxid, Lattergas
 de:E942, Distickstoffoxid, Distickstoffmonoxid, Lachgas, E 942, Stickoxidul, Stickoxydul, R-744A, Kapsler, Distickstoffmonooxid, Azo-oxid, Azooxid
@@ -33612,7 +33618,7 @@ vegetarian:en: yes
 
 en:E943b, Isobutane
 bg:E943b, Изобутан
-ca:E943b, Isobutà
+ca:E943b, Isobutà, isobuta
 cs:E943b, Isobutan, 2-methylpropan, 2-metylpropan, Izobutan, Methylpropan, Izo-butan, Iso-butan, R-600a
 da:E943b, Isobutan
 de:E943b, Isobutan, Methylpropan, Iso-Butan
@@ -33887,13 +33893,13 @@ en:E950, Acesulfame k, Acesulfame potassium
 bg:E950, Ацесулфам к, Калиев ацесулфам
 ca:E950, Acesulfam K
 cs:E950, Acesulfam k, Acesulfam draselný
-da:E950, Acesulfamkalium, Acesulfam K
+da:E950, Acesulfamkalium, Acesulfamkalium, Acesulfam K
 de:E950, Acesulfam-K
 el:E950, Ακεσουλφαμη κ, Ακεσουλφάμη (άλας με Κ)
-es:E950, Acesulfamo K, Acesulfame K, Acesulfamo potásico, acesulfame potásico, acesulfamo
+es:E950, Acesulfamo K, Acesulfamo k, Acesulfame K, Acesulfamo potásico, acesulfame potásico, acesulfamo
 et:E950, Kaaliumatsesulfaam, Atsesulfaamkaalium, atsesulfaam-K
 fi:E950, Asesulfaami k, Asesulfaamikalium, Asesulfaamikaliumia
-fr:E950, Acésulfame K, acésulfame de potassium, Acésulfame potassium, sel de potassium de l'acésulfame, Ace K, Acesulfamo-k
+fr:E950, Acésulfame K, Acésulfame-K, acésulfame de potassium, Acésulfame potassium, sel de potassium de l'acésulfame, Ace K, Acesulfamo-k
 hu:E950, Aceszulfám k, Aceszulfám-kálium
 it:E950, Acesulfame K, acesulfame potassico
 ja:E950, アセスルファムK
@@ -33905,7 +33911,7 @@ pl:E950, Acesulfam k, Acesulfam potasu
 pt:E950, Acessulfame k, Acessulfame de potássio, Acesulfame-K
 ro:E950, Acesulfam k, Acesulfam de potasiu
 sk:E950, Acesulfám k, Acesulfám draselný
-sl:E950, Acesulfam k, Kalijev acesulfam
+sl:E950, Acesulfam k, acesulfam K, Kalijev acesulfam
 sv:E950, Acesulfam k, Acesulfame k, Acesulfamkalium
 additives_classes:en: en:sweetener
 e_number:en: 950
@@ -34338,7 +34344,7 @@ nl:E955, Sucralose
 pl:E955, Sukraloza, Splenda
 pt:E955, Sucralose
 ro:E955, Sucraloză
-ru:E955, Сукралоза, подсластитель-сукралоза
+ru:E955, Сукралоза, подсластитель-сукралоза, подсластитель сукралоза
 sk:E955, Sukralóza
 sl:E955, Sukraloza
 sv:E955, Sukralos, Sucralose, E 955, Splenda
@@ -34587,7 +34593,7 @@ el:E960, Γλυκοζιτες στεβιολης συνώνυμα
 es:E960, Glucósidos de esteviol, Glicósidos de esteviol
 et:E960, Steviooglükosiidid
 fi:E960, Stevioliglykosidit, Stevioliglykosidejä, Steviaglykosidit
-fr:E960, Glucosides de stéviol, stévioside, rébaudioside A, extrait de stévia, glycosides de stéviol, extrait de feuille de Stévia, Stévia
+fr:E960, Glucosides de stéviol, stévioside, rébaudioside A, extrait de stévia, glycosides de stéviol, Stévioside, extrait de feuille de Stévia, Stévia
 hu:E960, Szteviol-glikozidok szinonimák
 it:E960, Glicosidi dello steviolo, glicosidi steviolici
 lt:E960, Steviolio glikozidai
@@ -35015,10 +35021,10 @@ es:E966, Lactitol, Lactita, lactositol, E 966
 et:E966, Laktitool, Laktiit, laktositool
 fi:E966, Laktitoli, Laktiitti, laktositoli, Laktitolia, Laktiittia, laktositolia
 fr:E966, Lactitol, Lactite, lactositol, E 966, 585-86-4
-hu:E966, Laktit, Laktozit, Laktitol
+hu:E966, Laktit, Laktit, Laktozit, Laktitol
 it:E966, Lactitolo, Lactite, lactositolo, Lattitolo
 lt:E966, Laktitolis, Laktitas, laktozitolis
-lv:E966, Laktīts, laktozīts
+lv:E966, Laktīts, Laktīts, laktozīts
 mt:E966, Lattitol, Lattit, Lattositol
 nl:E966, Lactitol, Lactiet, lactositol
 pl:E966, Laktitol, Laktyt, laktozytol
@@ -35244,7 +35250,7 @@ pl:E999, Ekstrakt quillaia, Wyciąg z kory mydłoki, wyciąg z kory quillay, wyc
 pt:E999, Extracto de quilaia, Quillajaceae
 ro:E999, Extract de quillaia
 sk:E999, Extrakt quillaia, Extrakt z mydlovej kôry, extrakt z kôry kviláje, extrakt z panamskej kôry, Quillai extrakt, extrakt z murilovej kôry
-sl:E999, Izvleček quillaia, izvleček saponinov iz lubja, izvleček lubja Quillay, izvleček lubja paname, izvleček lubja murillo
+sl:E999, Izvleček quillaia, izvleček saponinov iz lubja, izvleček lubja Quillay, izvleček lubja paname, izvleček Quillaia, izvleček lubja murillo
 sv:E999, Kvillajaextrakt, Såpbarkextrakt, kvillajabarksextrakt
 additives_classes:en: en:emulsifier
 e_number:en: 999

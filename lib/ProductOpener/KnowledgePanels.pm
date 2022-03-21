@@ -199,14 +199,16 @@ The template is thus responsible for all the display logic (what to display and 
 
 Some special features that are not included in the JSON format are supported:
 
-1. Multiline strings can be included using backticks ` at the start and end of the multinine strings.
+1. Relative links are converted to absolute links using the requested country / language subdomain
+
+2. Multiline strings can be included using backticks ` at the start and end of the multinine strings.
 - The multiline strings will be converted to a single string.
 - Quotes " are automatically escaped unless they are already escaped
 
-2. Comments can be included by starting a line with //
+3. Comments can be included by starting a line with //
 - Comments will be removed in the resulting JSON, they are only intended to make the source template easier to understand.
 
-3. Trailing commas are removed
+4. Trailing commas are removed
 - For each loops in templates can result in trailing commas when separating items in a list with a comma
 (e.g. if want to generate a list of labels)
 
@@ -276,6 +278,9 @@ sub create_panel_from_json_template ($$$$$$) {
         # /m modifier: ^ and $ match the start and end of each line
         $panel_json =~ s/^(\s*)\/\/(.*)$//mg;
 
+        # Turn relative links to absolute links using the requested country / language subdomain
+        $panel_json =~ s/href="\//href="$formatted_subdomain\//g;        
+
         # Convert multilines strings between backticks `` into single line strings
         # In the template, we use multiline strings for readability
         # e.g. when we want to generate HTML
@@ -292,7 +297,7 @@ sub create_panel_from_json_template ($$$$$$) {
         # As it is a trailing comma inside a string, it's not a terrible issue, the string will be valid,
         # but it will have an unneeded trailing comma.
         # The group (\W) at the end is to avoid removing commas before an opening quote (e.g. for "field": true, "other_field": ..)
-        $panel_json =~ s/(?<!("|'|\]|\}|\d))\s*,\s*"(\W)/"$2/g;
+        $panel_json =~ s/(?<!("|'|\]|\}|\d))\s*,\s*"(\W)/"$2/sg;
 
         # Remove trailing commas after the last element of a array or hash, as they will make the JSON invalid
         # It makes things much simpler in templates if they can output a trailing comma though
@@ -300,6 +305,9 @@ sub create_panel_from_json_template ($$$$$$) {
         # So we remove them here.
 
         $panel_json =~ s/,(\s*)(\]|\})/$2/sg;
+
+        # Transform the JSON in a Perl structure
+
         $panel_json =  encode('UTF-8', $panel_json);
 
         eval {
@@ -325,6 +333,98 @@ sub create_panel_from_json_template ($$$$$$) {
                 "json" => $panel_json,
                 "json_debug_url" => $static_subdomain . $target_file
             };            
+        }
+    }
+}
+
+
+=head2 extract_data_from_impact_estimator_best_recipe ($product_ref, $panel_data_ref)
+
+The impact estimator adds a lot of data to products. This function extracts the data we need to display knowledge panels.
+
+=cut
+
+sub extract_data_from_impact_estimator_best_recipe($$) {
+
+    my $product_ref = shift;
+    my $panel_data_ref = shift;
+
+    # Copy data from product data (which format may change) to panel data to make it easier to use in the template
+
+    $panel_data_ref->{climate_change} = $product_ref->{ecoscore_extended_data}{impact}{likeliest_impacts}{Climate_change};
+    $panel_data_ref->{ef_score} = $product_ref->{ecoscore_extended_data}{impact}{likeliest_impacts}{EF_single_score};
+
+    # Compute the index of the recipe with the maximum confidence
+    my $max_confidence = 0;
+    my $max_confidence_index;
+    my $i = 0;
+
+
+    foreach my $confidence (@{$product_ref->{ecoscore_extended_data}{impact}{confidence_score_distribution}}) {
+        if ($confidence > $max_confidence) {
+
+            $max_confidence_index = $i;
+            $max_confidence = $confidence;
+        }
+        $i++;
+    }
+
+    my $best_recipe_ref = $product_ref->{ecoscore_extended_data}{impact}{recipes}[$max_confidence_index];
+    
+    # list ingredients for max confidence recipe, sorted by quantity 
+    my @ingredients = ();
+
+    my @ingredients_by_quantity = sort { $best_recipe_ref->{$b} <=> $best_recipe_ref->{$a} } keys %{$best_recipe_ref};
+    foreach my $ingredient (@ingredients_by_quantity) {
+        push @ingredients, {
+            id => $ingredient,
+            quantity => $best_recipe_ref->{$ingredient},
+        }
+    }
+
+    $product_ref->{ecoscore_extended_data}{impact}{max_confidence_recipe} = \@ingredients;
+
+    $panel_data_ref->{ecoscore_extended_data_more_precise_than_agribalyse} = is_ecoscore_extended_data_more_precise_than_agribalyse($product_ref);
+
+    # TODO: compute the complete score, using Agribalyse impacts except for agriculture where we use the estimator impact
+}
+
+
+=head2 compare_impact_estimator_data_to_category_average ($product_ref, $panel_data_ref, $target_cc)
+
+gen_top_tags_per_country.pl computes stats for categories for nutrients, and now also for the
+extended ecoscore impacts computed by the impact estimator.
+
+For a specific product, this function finds the most specific category for which we have impact stats to compare with.
+
+=cut
+
+sub compare_impact_estimator_data_to_category_average($$$) {
+
+    my $product_ref = shift;
+    my $panel_data_ref = shift;
+    my $target_cc = shift;
+
+    # Comparison to other products
+
+    my $categories_nutriments_ref = $categories_nutriments_per_country{$target_cc};
+
+    if (defined $categories_nutriments_ref) {
+
+        foreach my $cid (reverse @{$product_ref->{categories_tags}}) {
+
+            if ((defined $categories_nutriments_ref->{$cid})
+                and (defined $categories_nutriments_ref->{$cid}{nutriments})
+                and (defined $categories_nutriments_ref->{$cid}{nutriments}{climate_change})) {
+
+                $panel_data_ref->{ecoscore_extended_data_for_category} = {
+                    category_id => $cid,
+                    climate_change => $categories_nutriments_ref->{$cid}{nutriments}{climate_change},
+                    ef_score => $categories_nutriments_ref->{$cid}{nutriments}{ef_score},
+                };
+
+                last;
+            }
         }
     }
 }
@@ -419,6 +519,21 @@ sub create_ecoscore_panel($$$) {
 
         create_panel_from_json_template("ecoscore_agribalyse", "api/knowledge-panels/environment/ecoscore/agribalyse.tt.json",
             $panel_data_ref, $product_ref, $target_lc, $target_cc);
+
+        # Create an extra panel for products that have extended ecoscore data from the impact estimator
+
+        if (defined $product_ref->{ecoscore_extended_data}) {
+
+            extract_data_from_impact_estimator_best_recipe($product_ref, $panel_data_ref);
+
+            compare_impact_estimator_data_to_category_average($product_ref, $panel_data_ref, $target_cc);
+
+            # Display a panel only if we can compare the product extended impact
+            if (defined $panel_data_ref->{ecoscore_extended_data_for_category}) {
+                create_panel_from_json_template("ecoscore_extended", "api/knowledge-panels/environment/ecoscore/ecoscore_extended.tt.json",
+                    $panel_data_ref, $product_ref, $target_lc, $target_cc);
+            }
+        }
 
         create_panel_from_json_template("carbon_footprint", "api/knowledge-panels/environment/carbon_footprint.tt.json",
             $panel_data_ref, $product_ref, $target_lc, $target_cc);            
@@ -621,22 +736,18 @@ sub create_health_card_panel($$$) {
 
     my $panel_data_ref = {};
 
-    # Create Nutri-Score panel
     create_nutriscore_panel($product_ref, $target_lc, $target_cc);
 
-    # Create the nutrition facts table panel
     create_nutrition_facts_table_panel($product_ref, $target_lc, $target_cc);
 
-    # Create the physical activities panel
     create_physical_activities_panel($product_ref, $target_lc, $target_cc);
 
-    # Create the ingredients panel
     create_ingredients_panel($product_ref, $target_lc, $target_cc);
 
-    # Create the additives panel
     create_additives_panel($product_ref, $target_lc, $target_cc);
 
-    # Create the health_card panel
+    create_ingredients_analysis_panel($product_ref, $target_lc, $target_cc);    
+
     create_panel_from_json_template("health_card", "api/knowledge-panels/health/health_card.tt.json",
         $panel_data_ref, $product_ref, $target_lc, $target_cc);    
 }
@@ -939,13 +1050,58 @@ sub create_additives_panel($$$) {
             add_taxonomy_properties_in_target_languages_to_object($additive_panel_data_ref, "additives", $additive,
                 ["wikipedia_url", "wikipedia_title", "wikipedia_abstract"], $target_lcs_ref);
 
-            create_panel_from_json_template("additive_" . $additive, "api/knowledge-panels/health/ingredients/additive.tt.json",
+            create_panel_from_json_template($additive_panel_id, "api/knowledge-panels/health/ingredients/additive.tt.json",
                 $additive_panel_data_ref, $product_ref, $target_lc, $target_cc);
         }
 
         create_panel_from_json_template("additives", "api/knowledge-panels/health/ingredients/additives.tt.json",
             $additives_panel_data_ref, $product_ref, $target_lc, $target_cc);
 
+    }
+}
+
+
+=head2 create_ingredients_analysis_panel ( $product_ref, $target_lc, $target_cc )
+
+Creates a knowledge panel with the results of ingredients analysis.
+
+=head3 Arguments
+
+=head4 product reference $product_ref
+
+Loaded from the MongoDB database, Storable files, or the OFF API.
+
+=head4 language code $target_lc
+
+Returned attributes contain both data and strings intended to be displayed to users.
+This parameter sets the desired language for the user facing strings.
+
+=head4 country code $target_cc
+
+=cut
+
+sub create_ingredients_analysis_panel($$$) {
+
+	my $product_ref = shift;
+	my $target_lc = shift;
+	my $target_cc = shift;
+
+	$log->debug("create ingredients analysis panel", { code => $product_ref->{code} }) if $log->is_debug();
+
+    my $ingredients_analysis_data_ref = data_to_display_ingredients_analysis($product_ref);
+
+    if (defined $ingredients_analysis_data_ref) {
+
+        foreach my $property_panel_data_ref (@{$ingredients_analysis_data_ref->{ingredients_analysis_tags}}) {
+
+            my $property_panel_id = "ingredients_analysis_" . $property_panel_data_ref->{property};
+
+            create_panel_from_json_template($property_panel_id, "api/knowledge-panels/health/ingredients/ingredients_analysis_property.tt.json",
+                $property_panel_data_ref, $product_ref, $target_lc, $target_cc);
+        }
+
+        create_panel_from_json_template("ingredients_analysis", "api/knowledge-panels/health/ingredients/ingredients_analysis.tt.json",
+            {}, $product_ref, $target_lc, $target_cc);
     }
 }
 
